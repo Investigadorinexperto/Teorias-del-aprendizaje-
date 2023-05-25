@@ -1,0 +1,2973 @@
+Machine Translated by Google
+Investigación psicológica (2021) 85:1–19
+https://doi.org/10.1007/s00426­019­01245­8
+
+REVISAR
+
+Hiperenfoque: la frontera olvidada de la atención
+Brandon K. Ashinof1,3 · Ahmad Abu
+
+Akel2
+
+Recibido: 24 de enero de 2019 / Aceptado: 9 de septiembre de 2019 / Publicado en línea: 20 de septiembre de 2019
+© The Author(s) 2019
+
+Abstracto
+La 'hiperconcentración' es un fenómeno que refleja la completa absorción de uno en una tarea, hasta el punto en que una persona parece ignorar
+completamente o 'desconectarse' de todo lo demás. El hiperenfoque se menciona con mayor frecuencia en el contexto del autismo, la esquizofrenia
+y el trastorno por déficit de atención con hiperactividad, pero la investigación sobre su efecto en el funcionamiento cognitivo y neuronal es limitada.
+Proponemos que el hiperenfoque es un aspecto críticamente importante de la cognición, particularmente con respecto a las poblaciones clínicas, y
+que merece una investigación significativa. El hiperenfoque, aunque aparentemente se explica por sí mismo, está mal defnido en la literatura.
+En muchos casos, el hiperenfoque no se defne y se basa en la suposición de que el lector sabe inherentemente lo que implica. Por lo tanto, no
+existe un consenso único sobre lo que constituye el hiperenfoque. Además, algunos estudios no se refieren al hiperfoco por su nombre, sino que
+describen procesos que pueden estar relacionados. En este artículo, revisamos cómo se ha definido y medido el hiperfoco (así como los fenómenos
+posiblemente relacionados), los desafíos asociados con la investigación del hiperfoco y evaluamos cómo el hiperfoco afecta tanto a las poblaciones
+clínicas como a las neurotípicas. Usando esta base, proporcionamos una crítica constructiva sobre los métodos y análisis utilizados anteriormente.
+También proponemos una definición operativa de hiperenfoque para que los investigadores la utilicen en el futuro.
+
+¿Qué es el hiperenfoque?
+
+y poblaciones psiquiátricas, existe una investigación académica explícita
+
+La hiperconcentración, en términos generales y anecdóticos, es un
+
+Una búsqueda en Google Scholar (excluidas las citas) de hiperenfoque
+
+fenómeno que refleja la completa absorción de uno en una tarea, hasta
+
+y variaciones del término, a saber, "hiperenfoque", "hiperenfoque",
+
+el punto en que una persona parece ignorar por completo o
+
+"hiperenfoque", "hiperenfoque" e "hiperenfoque" en el título, arrojó 6
+
+"desconectarse" de todo lo demás. Por lo general, se informa que
+ocurre cuando una persona se dedica a una actividad que es
+
+resultados . Una búsqueda en PubMed de los mismos términos en el
+título o resumen
+
+particularmente divertida o interesante. Un ejemplo de hiperconcentración
+
+devolvió 19 resultados. De estos, 7 son estudios empíricos
+
+es cuando un niño queda absorto en un videojuego hasta el punto en
+
+explícitamente enfocados a evaluar los estados cognitivos y neurales
+
+muy limitada sobre su efecto en el funcionamiento cognitivo y neural.
+
+que no escucha a uno de sus padres llamándolo por su nombre.
+
+asociados con el hiperenfoque (en TDAH: Sklar, 2013; Ozel­Kizil et al.,
+
+Aunque la mayoría de las personas neurotípicas probablemente
+
+2013, 2016; en esquizofrenia: Luck et al., 2014; Sawaki et al., 2017;
+
+informarían haber experimentado un estado de hiperconcentración en
+
+Kreither et al., 2017; Hahn et al., 2016; Gray et al., 2014). Un resultado
+
+algún momento de su vida, se menciona con mayor frecuencia en el
+
+adicional es un artículo que ha desarrollado un nuevo cuestionario para
+
+contexto del autismo, la esquizofrenia y el trastorno por déficit de
+
+evaluar las experiencias de hiperenfoque (Hupfeld, Abagis y Shah,
+
+atención con hiperactividad, condiciones que tienen consecuencias en
+
+2019). También encontramos 1 estudio que no apareció en nuestras
+
+las habilidades de atención. A pesar de que la experiencia del hiperfoco es omnipresente,
+búsquedas, pero
+tanto
+fue
+encitado
+pacientes
+en unneurotípicos
+par de artículos citados anteriormente
+(Ozel­Kizil, 2013). Esto naturalmente lleva a una pregunta simple: ¿por
+qué hay una investigación explícita limitada sobre una experiencia
+* Brandon K. Ashinof
+
+cognitiva y perceptual humana aparentemente común?
+
+bka2115@cumc.columbia.edu
+1
+
+Departamento de Psiquiatría, Universidad de Columbia, 1051
+Riverside Dr, Nueva York, NY 10032, EE. UU.
+
+2
+
+Instituto de Psicología, Universidad de Lausana, Quartier
+UNIL­Moulin, Geopolis, Lausana 1015, Suiza
+
+3
+
+Centro para la Salud del Cerebro Humano (CHBH), Facultad
+
+En esta revisión, intentaremos explicar por qué la investigación del
+hiperfoco ha sido tan limitada y evaluaremos si otros fenómenos en la
+literatura pueden ser esencialmente hiperfoco con otro nombre. En
+base a esto, propondremos una definición operativa clara y comprobable
+de hiperenfoque. Finalmente, evaluaremos si las definiciones de
+
+de Psicología, Universidad de Birmingham, Edgbaston,
+
+hiperfoco utilizadas en la literatura psiquiátrica coinciden con nuestra
+
+Birmingham B15 2TT, Reino Unido
+
+definición operativa propuesta.
+
+Vol.:(0123456789) 1 3
+
+Machine Translated by Google
+2
+
+Investigación psicológica (2021) 85: 1–19
+
+¿Por qué se ha olvidado el hiperenfoque?
+
+La naturaleza del hiperenfoque es tal que una persona debe estar completamente
+absorta en una tarea que es interesante o divertida. Sin embargo, la mayoría de los
+
+Hay tres cuestiones principales a considerar. Primero, no existe una definición
+
+experimentos de psicología cognitiva no cumplen este requisito. Incluso si los sujetos
+
+general u operativa clara de hiperenfoque en la literatura, que generalmente asume
+
+pueden entrar en un estado de hiperconcentración con alguna actividad interesante,
+
+que el lector sabe inherentemente lo que es. Dado que la literatura explícita sobre el
+
+hacer que respondan a un estímulo no relevante para la tarea los sacará del estado
+
+tema es limitada, las referencias y las descripciones del hiperenfoque suelen ser
+
+de hiperconcentración. Esto impide el seguimiento del funcionamiento cognitivo
+
+anecdóticas y pueden diferir de un artículo a otro. La Tabla 1 refleja una colección
+
+mientras se produce el estado de hiperconcentración, o al menos lo hace muy difícil
+
+completa de cómo lo han definido los pocos estudios que han estudiado
+
+de realizar.
+
+explícitamente el hiperenfoque, así como una muestra representativa de referencias
+al hiperenfoque en la literatura sobre TDAH, autismo y esquizofrenia donde no era el
+foco explícito de la investigación. Por ejemplo, Kahl y Wahl (2006) informaron que
+
+En tercer lugar, algunos estudios no se refieren al hiperfoco por su nombre, sino
+que describen procesos que parecen estar relacionados, como "en la zona" y "fow".
+
+los adultos con TDAH podrían "hiperconcentrarse" en actividades en las que tienen
+
+Por ejemplo, varios investigadores (p. ej., Esterman, Noonan, Rosenberg y DeGutis
+
+un interés especial, pero no definieron qué experiencias cognitivas o subjetivas están
+
+2012, Esterman, Rosenberg y Noonan 2014; Fortenbaugh et al., 2015; Kucyi, Hove,
+
+asociadas con la hiperconcentración. Es importante tener en cuenta que en la
+
+Esterman, Hutchison y Valera, 2017) midieron el rendimiento durante una tarea de
+
+mayoría de estos artículos, estas son las únicas referencias o descripciones de
+
+atención sostenida mientras los participantes estaban “en la zona”, un estado definido
+
+hiperenfoque en algún punto (con algunas excepciones; consulte Sklar, 2013), y
+
+por una variabilidad reducida en el desempeño de la tarea. Dietrich (2004), por su
+
+rara vez brindan una definición operativa que pueda probarse. Cuando se define,
+
+parte, evaluó los correlatos neurales del “fow”, definido subjetivamente como un
+
+rara vez se define operativamente de una manera que pueda usarse para la
+
+estado de intensa concentración con pérdida de la autoconciencia reflexiva. Sin
+
+investigación cuantitativa. Ozel­Kizil et al. (2013; véase también Ozel­Kizil et al.,
+
+embargo, no está claro si los estados “en la zona”, los estados de “fow” y los estados
+
+2014) defnieron el hiperenfoque como “caracterizado por una concentración intensa
+
+de “hiperenfoque” reflejan procesos iguales o distintos.
+
+en actividades interesantes y no rutinarias acompañadas de una percepción del
+entorno temporalmente disminuida”. Sin embargo, esta defnición plantea varias
+preguntas, como ¿qué defne algo como interesante? ¿Tiene que producir diversión,
+como un videojuego, o es suficiente una tarea importante? ¿Y cómo se disminuye la
+
+Esta revisión fue motivada por la falta de claridad y consistencia en la literatura
+
+percepción del entorno? Las excepciones a esto son los artículos en la sección de
+
+académica con respecto al hiperenfoque. Como tal, pretendemos que este documento
+
+esquizofrenia de la Tabla 1 (todos los cuales provienen del mismo grupo de
+
+aborde los siguientes temas. Primero, ¿se ha estudiado explícitamente el hiperfoco,
+
+laboratorio y usan la misma definición operativa de hiperenfoque), pero los
+
+solo que con un nombre diferente? Por lo tanto, en la siguiente sección de este
+
+discutiremos con más detalle más adelante en el artículo y evaluaremos si
+
+documento, examinamos la literatura sobre fenómenos relacionados, a saber, los
+
+proporcionar una definición operativa adecuada.
+
+estados "en la zona" y "fujo", que a primera vista parecen instanciar las mismas
+experiencias subjetivas y efectos conductuales, para evaluar si reflejan un proceso
+similar o distinto del hiperfoco. Es importante señalar aquí que la noción de "en la
+zona" que se informa en esta revisión es distinta de la noción de "en la zona" utilizada
+en la literatura sobre el fujo, a menudo para describir la experiencia del fujo. Aquí,
+cuando nos referimos a “en la zona”, nos referimos a la defnida por Esterman et al.
+(2012, 2014): rendimiento caracterizado por una variabilidad relativamente baja en
+los tiempos de respuesta. En particular, esto destaca la importancia de la claridad, la
+especificidad y las definiciones operativas en la investigación. En segundo lugar,
+
+A pesar de estos problemas, parece haber cuatro características generales o
+criterios de hiperenfoque que se informan constantemente (Tabla 1):
+
+propondremos una definición operativa de hiperenfoque. Y tercero, dado que el
+hiperenfoque se menciona con mayor frecuencia en relación con los trastornos
+psiquiátricos, evaluaremos si los pacientes con TDAH, autismo o esquizofrenia
+presentan síntomas relacionados con el hiperenfoque en relación con nuestra
+
+1. El hiperenfoque se caracteriza por un intenso estado de confusión.
+centrado/foco.
+2. Cuando se está hiperfocalizado, los estímulos externos no relacionados no
+parecen ser percibidos conscientemente; a veces se informa como una
+percepción disminuida del medio ambiente.
+3. Para participar en la hiperconcentración, la tarea debe ser divertida o entretenida.
+descansando
+
+4. Durante un estado de hiperconcentración, mejora el rendimiento de la tarea.
+
+En segundo lugar, es muy difícil manipular experimentalmente a un sujeto en
+un estado de hiperenfoque (Sklar, 2013). El
+
+13
+
+definición operativa propuesta y si estos síntomas son consistentes en todos los
+trastornos. El propósito final es proporcionar una línea de base común para los
+investigadores del fenómeno del hiperenfoque.
+
+Machine Translated by Google
+3
+
+Investigación psicológica (2021) 85: 1–19
+
+Tabla 1 Diversas descripciones de hiperenfoque de la literatura sobre TDAH, autismo y esquizofrenia
+Población
+
+Autor(es)
+
+Descripción de hiperenfoque
+
+clínica
+TDAH Hupfeld y otros (2019)*
+
+“Mientras que a los aproximadamente 8 millones de adultos en los EE. UU. afectados por el trastorno por déficit de atención/
+hiperactividad (TDAH) les resulte casi imposible sentarse quietos en una sala de conferencias o un desafío insoportable para
+concentrarse en escribir un trabajo final, estas mismas personas podrían encontrarse pasar horas componiendo una nueva
+canción, jugando con su automóvil, escribiendo código de computadora o viendo televisión (Kessler et al., 2006). El término
+“hiperenfoque” (HF, por sus siglas en inglés) se ha utilizado para caracterizar este estado de atención intensificada y enfocada
+que las personas con TDAH informan con frecuencia (Brown, 2005; Conner, 1994; Ozel­Kizil et al., 2016)”.
+
+Ozel­Kizil et al.
+(2016)*
+
+“ El 'hiperenfoque' se defne como un fenómeno clínico de 'fijarse' en una tarea en pacientes con TDAH que tienen dificultad para
+cambiar su atención de un tema a otro, especialmente si el tema es sobre sus intereses (Conner, 1994) . La hiperconcentración
+se mencionó como un estado similar a un “hechizo hipnótico”, según las experiencias subjetivas de los casos con TDAH
+(Brown, 2005)… Además, las personas hiperconcentradas descuidan otras cosas además de la condición en la que ya
+están enfocadas. Se informa que los pacientes con TDAH se atascan en las actividades que les interesan y siguen haciendo
+estas cosas durante horas mientras pierden interés en su entorno... Los pacientes con TDAH generalmente informan que
+no pueden entender cómo pasa el tiempo. Durante el hiperenfoque, los individuos afirman que son conscientes de las
+cosas que ignoran, sin embargo, no pueden abandonar lo que están haciendo (Brown, 2005; Conner, 1994).
+Se cree que la hiperconcentración se debe a un trastorno de atención; los pacientes con TDAH tienen dificultades para
+concentrarse y sostenerse, así como para cambiar su atención”.
+
+Ozel­Kizil et al.
+(2013)*
+
+“La hiperconcentración, que se caracteriza por una concentración intensa en actividades interesantes y no rutinarias acompañadas
+de una percepción temporalmente disminuida del entorno, es un fenómeno clínicamente bien conocido en pacientes con trastorno
+por déficit de atención e hiperactividad. También se describe como 'fijarse' en alguna tarea”.
+
+Sklar (2013)*
+
+“…la hiperconcentración parece referirse a un tipo más específco (y quizás extremo) de atención sostenida en el que el
+comportamiento del individuo es controlado durante un largo período de tiempo por una tarea que no es 'rutinaria' o de
+interés para él/ella, hasta el punto de que su conciencia sobre el medio ambiente se ve considerablemente disminuida”.
+
+Goodwin y
+
+Oberacker (2011)
+
+“Muchos niños con TDAH tienen la capacidad de hiperconcentrarse en ciertas tareas. Este rasgo puede confundir a los padres,
+cuando ven a su hijo altamente distraído absorto en un videojuego, por ejemplo. Llaman su nombre, pero él los ha desconectado,
+junto con todos los demás estímulos en la habitación”.
+
+Schecklmann et al.
+(2008)
+
+“La hiperconcentración no se menciona en el DSM­IV [con respecto al TDAH], pero se conoce por el trabajo clínico y se puede
+describir como una concentración intensa en actividades interesantes y no rutinarias acompañadas de una percepción
+temporalmente disminuida del entorno”.
+
+tallador (2009)
+
+“Tanto la investigación como la experiencia clínica nos dicen que los niños con TDAH [sic] pueden exhibir un tipo de
+
+Calvo y elección
+
+“Los investigadores señalaron que el “interés”, probablemente la emoción positiva experimentada con mayor frecuencia, “es
+
+“hiperenfoque ”: concentración intensa y enfoque único cuando la actividad es muy interesante”.
+(2006)
+
+una motivación sumamente importante en el desarrollo de habilidades, competencias e inteligencia”. El poder motivador de tal
+“interés” puede ser más evidente cuando está ausente, como se describe en las quejas crónicas de muchos adultos con TDA que
+informan que, aunque pueden “superconcentrarse” en actividades en las que tienen un interés especial, encuentran
+crónicamente ellos mismos son incapaces de movilizar esfuerzos para tareas en las que no sienten ningún interés inmediato
+especial, incluso cuando son plenamente conscientes de que su fracaso en hacer esa tarea poco interesante puede causar
+problemas significativos más adelante”.
+
+Autismo
+
+Isomura, Ogawa,
+Shibasaki y
+Masataka, (2015)
+
+“Por lo general, se sabe que los niños con autismo… prestan una atención anormal y obsesiva a los detalles, y notan y registran
+su entorno con una claridad exquisita (Casey et al., 2008). Son capaces de volverse hiperconcentrados y bloqueados en
+temas de interés aparentemente arbitrarios, y de mantener su atención en estos temas durante períodos de tiempo inusualmente
+largos... como resultado de este hiperenfoque interno, sería más difícil para ellos. otra persona para controlar la atención
+del niño con autismo, y también sería más difícil para el propio niño controlar su propia atención voluntariamente (Posner y
+Dehaene, 1994) ”.
+
+Fin (2015)
+
+“La coexistencia de fortaleza y vulnerabilidad encapsulada en estas narraciones capturó las características esenciales de la
+experiencia de vivir con el síndrome de Asperger, una condición que en sí misma trajo fortalezas valiosas (la capacidad de
+hiperconcentrarse en un tema de interés, fortalezas en el pensamiento sistemático, un ocasionalmente sensibilidad exquisita a
+la información sensorial), así como discapacidades”.
+
+Mayes (2014)
+
+“A diferencia de la mayoría de los niños con TDAH que tienen dificultad para mantener su atención en cualquier cosa, los
+niños con autismo pueden hiperconcentrarse en actividades que les interesen (p. ej., pasar horas haciendo girar una cuerda,
+armando rompecabezas, dibujando la misma imagen una y otra vez o leyendo un libro ).”
+
+Mejor, Jelenic y
+Mottron, (2014)
+
+"Alternativamente, las mejoras en las habilidades de adaptación pueden acompañar a la pérdida de habilidades que involucran
+hiperenfoque, a medida que las personas autistas aprenden y se adaptan". (No se proporciona una descripción del hiperenfoque y no se
+menciona más en el documento)
+
+13
+
+Machine Translated by Google
+4
+
+Investigación psicológica (2021) 85: 1–19
+
+Tabla 1 (continuación)
+Población
+
+Autor(es)
+
+Descripción de hiperenfoque
+
+Bombaci (2012)
+
+“Además del pensamiento asociativo y la ceguera mental, los sujetos autistas también tienden a mostrar una concentración extrema
+
+clínica
+
+cuando miran o piensan en objetos que les interesan. Otros términos para el hiperenfoque autista son 'stimming' y 'perseveration'.
+Curiosamente, la atención excesivamente selectiva, el término clínico para esta forma de diferencia perceptiva, se hace eco de la
+noción de atención selectiva de William James, una capacidad perceptiva que él asoció con el poder masculino”.
+
+Mayes, Calhoun,
+
+“El déficit de atención, la hiperactividad y la impulsividad son comunes en los niños con autismo, pero, a diferencia de los niños con
+
+Murray, Ahuja y
+
+TDAH, los niños con autismo tienen la capacidad de hiperconcentrarse en actividades que les interesan, como pasar horas
+
+Smith, (2011)
+
+haciendo girar una cuerda o leyendo un libro (Mayes y Calhoun, 1999). Los comportamientos repetitivos en el autismo (p. ej., hacer
+girar las ruedas de un automóvil o hacer los mismos dibujos una y otra vez) a menudo son impulsados por el placer…”
+
+Geurts et al. (2009) "Dificultades para cambiar la atención, desconectar la atención de los detalles (es decir, hiperenfoque)"
+Esquizofrenia
+
+Suerte et al. (2019)* “Esta nueva hipótesis establece que la esquizofrenia implica una hiperfocalización aberrante de los recursos de procesamiento en un pequeño
+número de representaciones. En otras palabras, incluso cuando la tarea requiere percibir o recordar múltiples objetos o ubicaciones, los
+PSZ [pacientes con esquizofrenia] tienden a enfocar de forma intensa pero estrecha”.
+Sawaki et al.
+(2017)*
+
+“…la hipótesis del hiperenfoque , que propone que los PSZ [pacientes con esquizofrenia] tienden a concentrar sus recursos de
+procesamiento de manera más intensa pero más estrecha que los HCS [controles sanos] como resultado de la dinámica atractora
+interrumpida que tiende a crear cuencas de atracción más profundas y produce procesamiento en el que el ganador se lo lleva todo
+(Luck et al., 2014)”
+
+Suerte et al. (2014)* “… los recursos de procesamiento se enfocan más intensamente pero de manera más estrecha en PSZ [pacientes con esquizofrenia]
+que en sujetos de control sanos (HCS [controles sanos]). En otras palabras, los PSZ [pacientes con esquizofrenia] se enfocan
+inusualmente en algunas fuentes de información y excluyen otras. A esto lo llamamos la hipótesis del hiperenfoque ”.
+
+Grey et al. (2014)* “Especulamos que las deficiencias en la subprueba de Atención dividida, y en parte también la reducción de la capacidad de WM [memoria de
+trabajo], reflejan una anomalía subyacente en la dinámica de los circuitos corticales locales en PSZ [pacientes con esquizofrenia].
+Brevemente, proponemos que un desequilibrio entre la función excitatoria e inhibitoria tiende a causar una inhibición local
+exagerada y un aumento en el procesamiento del ganador se lo lleva todo. Se sugiere que este modo de procesamiento en el que
+el ganador se lleva todo provoque un "hiperenfoque" de los recursos en una pequeña cantidad de ubicaciones u objetos, ya sea que
+estén visibles actualmente (como en la subprueba de Atención dividida) o que se mantengan en la memoria (como en nuestra WM). tarea
+[memoria de trabajo]). Cuando se aplica a representaciones externas, la tendencia a hiperfocalizarse puede conducir a deficiencias en la
+división de la atención entre múltiples objetivos o en la distribución de la atención entre múltiples ubicaciones o un área amplia en
+el espacio. Cuando se aplica el hiperenfoque a las representaciones internas, esto conduciría a una reducción en la cantidad de
+elementos, reglas o alternativas de respuesta que pueden estar activas simultáneamente, lo que podría comprometer operaciones
+cognitivas más complejas”.
+Leonardo et al.
+(2012)*
+
+“En cambio, un trabajo reciente ha encontrado que la esquizofrenia se asocia con un 'fracaso' en la atención general (Elahipanah et al. 2011;
+Hahn et al. 2012), lo que sugiere que las estimaciones de la capacidad deteriorada de WM [memoria de trabajo] en PSZ [pacientes con
+esquizofrenia] pueden refleja una tendencia a hipercentrarse en un subconjunto de la información relevante en lugar de una incapacidad
+para filtrar información irrelevante”.
+
+Hahn et al. (2016)* “…se ha sugerido que PSZ [pacientes con esquizofrenia] tienen un “foco atencional” reducido y dificultad para mantener una amplitud visual
+amplia. Seguimos estos hallazgos con una tarea de
+asignación visuoespacial (SARAT), en la que un centro la señal predice la ubicación de un estímulo de destino periférico... Una, 2 o
+las 4 ubicaciones de destino posibles podrían indicarse simultáneamente, manipulando el grado en que la atención tenía que
+enfocarse de manera estrecha o distribuida ampliamente. Tanto HCS [controles sanos] como PSZ [pacientes con esquizofrenia]
+mostraron un RT paso a paso más rápido con indicaciones más precisas. Sin embargo, este efecto fue sustancialmente mayor en PSZ
+[pacientes con esquizofrenia] que en HCS [controles sanos]. Las posibles explicaciones de este hallazgo son que (1) PSZ [pacientes
+con esquizofrenia] "hiperenfocaron" la ubicación a la que una señal predictiva dirigía su atención, lo que resultó en beneficios de RT
+desproporcionados en los ensayos de señales predictivas, o (2) PSZ [pacientes con esquizofrenia] tuvo dificultades para distribuir la
+atención de manera amplia, lo que resultó en mayores costos de RT cuando no había información anticipada sobre la ubicación de
+destino”.
+
+Impresiones (2001)
+
+“Los síntomas positivos, como informaron Gruzelier y Raine (1994) , están asociados con una mayor actividad hemisférica izquierda que
+derecha, lo que respalda la hipótesis de que la sobreactivación general del hemisferio izquierdo o la subactivación del hemisferio
+derecho caracteriza al tipo C. Por lo tanto, existe un hipotético desequilibrio hemisférico óptimo que promueve un hiperenfoque
+constructivo y específico de la tarea en los detalles y facilita la resolución de problemas, pero no incapacita o debilita seriamente al
+individuo”.
+
+Las entradas con un asterisco son artículos que estudiaron explícitamente el hiperenfoque
+
+13
+
+Machine Translated by Google
+5
+
+Investigación psicológica (2021) 85: 1–19
+
+Hiperenfoque y fenómenos posiblemente
+relacionados
+
+• distorsión de la experiencia temporal (típicamente una sensación
+de que el tiempo ha pasado más rápido de lo
+normal); • experiencia de la actividad como intrínsecamente
+
+Hiperenfoque y flujo
+
+gratificante, de modo que a menudo el objetivo final es sólo
+una excusa para el proceso.
+
+El flujo fue uno de los primeros conceptos introducidos como parte del campo
+Las condiciones para entrar en el flujo y las experiencias subjetivas
+
+de la 'psicología positiva', que se centra en la "ciencia de la experiencia subjetiva
+positiva, los rasgos individuales positivos y las instituciones positivas" (Seligman
+
+asociadas con él parecen corresponder a las características más comúnmente
+
+y Csikszentmihalyi, 2000, p. 5 ; también véanse Seligman, Steen, Park y
+
+reportadas del hiperenfoque (Tabla 2). Por lo tanto, proponemos que el fujo y el
+
+Peterson, 2005; Rich, 2013; López y Snyder, 2009). Según Nakamura y
+
+hiperfoco son el mismo fenómeno. Aunque somos conscientes de que sólo
+
+Csikszentmihalyi (2009, p. 195–196; véase también Nakamura y Csikszentmihalyi,
+
+porque dos fenómenos son descriptivamente similares, no son necesariamente
+
+2002; Csikszentmihalyi 1975, 1997, 2000), las condiciones para entrar en flujo
+
+idénticos mecánicamente, no hay evidencia que sugiera que el flujo o el
+
+incluyen:
+
+hiperfoco sean distintos. De nuestra lectura de la literatura, notamos que la
+literatura psiquiátrica es más probable que use la palabra hiperenfoque y la
+literatura de psicología positiva es más probable que use la palabra flujo, a
+
+• desafíos percibidos, u oportunidades para la acción, que amplían
+pero no superan las habilidades existentes; • metas próximas
+claras y retroalimentación inmediata sobre
+el progreso que se está haciendo.
+
+pesar de que la fenomenología es casi idéntica. Con esto en mente, la literatura
+de flujo se puede utilizar como marco para comprender el hiperenfoque. Aquí,
+revisamos la literatura sobre el flujo en conjunto con la literatura de la psicología
+cognitiva sobre la atención con énfasis en evaluar si esta literatura puede
+proporcionar información sobre el hiperenfoque, específicamente con respecto
+
+Bajo estas condiciones, la experiencia se desarrolla sin problemas de
+
+a las características comunes que identificamos anteriormente. también
+
+momento a momento y uno entra en un estado subjetivo con las
+
+revisaremos
+
+siguientes características:
+la investigación limitada sobre los correlatos neuronales del fujo para evaluar
+
+• concentración intensa y enfocada en el presente
+momento; •
+fusión de acción y conciencia; • pérdida de la
+autoconciencia reflexiva (es decir, pérdida de la conciencia de uno
+mismo como actor social); • una sensación de que
+
+los posibles correlatos neuronales que median el hiperenfoque. Además, si la
+siguiente literatura proporciona suficiente evidencia de la fenomenología
+asociada con el hiperenfoque, entonces podemos estar más seguros de que
+estos son los mismos procesos. De lo contrario, tendríamos que volver a evaluar
+esta afirmación.
+
+uno puede controlar sus acciones; es decir, la sensación de que, en
+principio, uno puede enfrentarse a la situación porque sabe cómo
+responder a lo que suceda a continuación;
+
+Tabla 2 Características descriptivas comunes de hiperenfoque y fujo, basadas en las características más comúnmente reportadas de hiperenfoque y Nakamura y
+Criterios de flujo de Csikszentmihalyi (2009)
+Criterios de hiperenfoque
+
+Criterios de flujo/experiencias correspondientes
+
+El hiperenfoque se caracteriza por un intenso estado de concentración/enfoque Concentración intensa y enfocada en el momento presente
+Cuando se dedica a la hiperconcentración, los estímulos externos no relacionados no
+parecen percibirse conscientemente; a veces se informa como una percepción disminuida
+del medio ambiente
+
+Fusión de la acción y la conciencia Pérdida
+de la autoconciencia reflexiva (es decir, pérdida de la conciencia de uno mismo como
+un actor social)
+Distorsión de la experiencia temporal (típicamente una sensación de que el tiempo ha pasado
+más rápido de lo normal)
+
+Para participar en el hiperenfoque, la tarea tiene que ser divertida o interesante.
+
+Experiencia de la actividad como intrínsecamente gratificante, de modo que a menudo el
+el objetivo final es solo una excusa para el proceso
+Desafíos percibidos, u oportunidades para la acción, que amplían pero no superan las habilidades
+existentes
+
+Durante un estado de hiperconcentración, el rendimiento de la tarea mejora
+
+Una sensación de que uno puede controlar sus acciones; es decir, una sensación de que, en principio,
+uno puede lidiar con la situación porque sabe cómo responder a lo que suceda a continuación.
+
+13
+
+Machine Translated by Google
+6
+
+Investigación psicológica (2021) 85: 1–19
+
+Criterio 1: para realizar un hiperenfoque, la tarea debe ser divertida
+
+Dado que la atención es un recurso limitado, si una cantidad
+
+o interesante
+
+signifcativa de esos recursos se enfoca en una tarea en particular, la
+
+Linnell y Caparos (2013; Linnell, Caparos, de Fockert y Davidof,
+
+(como en la carga perceptiva: consulte las referencias anteriores; y
+
+información periférica e irrelevante para la tarea puede perderse
+2013, Linnell, Bremner, Caparos, Davidof y de Fockert, 2018) han
+
+la ceguera por falta de atención: Simons y Chabris, 1999; Simons,
+
+sugerido el compromiso atencional/cognitivo, en lugar de la dificultad
+
+2000; Stothart, Wright, Simons y Boot, 2017). En este caso, los
+
+de la tarea (como en la teoría de la carga perceptiva ). ; Murphy,
+
+sujetos en un estado de bajo no prestarán atención a sus propias
+
+Groeger, & Greene. 2016; Makovski, Hommel, & Humphreys 2014;
+
+acciones más allá de lo que se requiere para la tarea, resultando en
+
+Lavie, 1995; Lavie and Tsal, 1994), como el factor crítico para
+
+una "pérdida de autoconciencia reflexiva", ni prestarán atención al
+
+determinar el alcance de la función atencional durante una tarea.
+
+paso del tiempo, resultando en 'la distorsión de la experiencia
+
+Engeser y Rheinberg (2008) examinaron el efecto de la importancia
+
+temporal'. De hecho, existe amplia evidencia de que se requiere
+
+percibida sobre el fujo.
+
+atención para el conocimiento consciente (Taylor, 2002; Cohen,
+
+El flujo se midió con la Escala de flujo corto (Rheinberg, Engeser y
+
+Cavanagh, Chun y Nakayama 2012; Dehaene, Changeux, Naccache,
+
+Vollmeyer 2002), un cuestionario de diez ítems diseñado para evaluar
+
+Sackur y Sergent 2006; pero ver Lamme, 2003 y Koch y Tsuchiya ,
+
+las experiencias de flujo. Durante una tarea de baja importancia
+
+2007 para un punto de vista disidente) y para una percepción precisa
+
+(jugar al videojuego pac­man), el flujo fue más alto cuando los
+
+del tiempo (Brown, 1985). Cuando se hace referencia al hiperfoco,
+
+sujetos percibieron la misma dificultad de la tarea y la misma habilidad
+
+la literatura se refiere a la “percepción disminuida del entorno” (Sklar,
+
+percibida en la tarea (denominada compatibilidad de demanda de
+
+2013; Schecklmann et al., 2008), que se podría argumentar que
+
+habilidades), en comparación con cuando la tarea era fácil o difícil.
+
+puede deberse a mecanismos similares y resultar en experiencias
+
+Para una tarea de alta importancia (estudiar para una prueba de
+
+similares como efectos del flujo. que se acaban de describir. Dicho
+
+estadística de nivel universitario que requería una calificación
+
+esto, la participación efciente de los recursos atencionales también
+
+aprobatoria para continuar con el programa de grado), encontraron
+
+podría producir una aparente disminución de la percepción del
+
+que el fujo era alto cuando la tarea era fácil y cuando había una
+
+entorno. Crucialmente, estas explicaciones pueden no ser
+
+compatibilidad de habilidades y demanda, en comparación con
+
+mutuamente excluyentes. Por ejemplo, es posible que la atención se
+
+cuando la tarea era dura. De manera similar, Schüler (2007) midió el
+
+involucre de manera efciente de tal manera que los distractores
+
+motivo de logro de los sujetos antes y después de una conferencia
+
+externos puedan procesarse y suprimirse, pero la percepción del
+
+académica (con un intervalo de 1 semana entre las sesiones de
+
+tiempo aún se ve afectada debido a la falta de recursos disponibles.
+
+prueba) y se encontró que aquellos que estaban motivados por su
+
+También podría ocurrir un conjunto correspondiente de efectos con
+
+"esperanza de éxito", en comparación con 'miedo al fracaso', fuu
+
+respecto a la información que es relevante para la tarea.
+
+experimentado durante la conferencia. En ambos estudios, el aumento
+
+De hecho, el conocido fenómeno del parpadeo atencional (Raymond,
+
+de la importancia percibida de la tarea posiblemente incrementó la
+
+Shapiro y Arnell, 1992; Dux y Marois, 2009; Shapiro, Hanslmayr,
+
+motivación del sujeto para participar en ella y, posteriormente, moderó
+
+Enns y Lleras 2017) muestra que, en condiciones de implicación
+
+las condiciones bajo las cuales se logró el flujo. En términos de flujo,
+
+atencional signifcativa, incluso se presenta de forma centralizada ,
+
+esto sugiere que la “experiencia de la actividad como intrínsecamente
+
+la información relevante de la tarea puede ignorarse.
+
+gratificante”, puede ser de hecho uno de los criterios para entrar en
+
+Desafortunadamente, esta forma de pensar sobre el flujo rara vez
+
+un estado de flujo, más que un efecto de estos estados. En términos
+
+se ha aplicado en un contexto experimental. En una notable
+
+de hiperconcentración, sugiere que la hiperconcentración requiere
+
+excepción, Castellar, Antons, Marinazzo y Looy (2019; véase también
+
+participación en la tarea, lo que simplemente sería más común
+
+Allison y Polich (2008) hicieron que los participantes se involucraran
+
+durante tareas divertidas o interesantes.
+
+en una tarea extraña auditiva novedosa mientras jugaban
+simultáneamente un videojuego en tres condiciones (manipuladas
+
+Criterios 2 y 3: intenso estado de concentración; los estímulos
+
+ajustando la dificultad). del juego): aburrimiento, frustración y fow.
+
+externos no parecen ser percibidos conscientemente/
+
+Los resultados mostraron que los participantes cometieron más
+
+percepción disminuida del entorno
+
+errores en la tarea extraña durante la condición de fow, que
+aburrimiento o frustración, lo que sugiere que se concentraron más
+
+En términos de psicología cognitiva, podríamos expresar
+
+intensamente en el videojuego durante el estado de fow ( medido con
+
+"concentración intensa" como la participación intensa de mecanismos
+
+un cuestionario entregado después de la tarea) y que no percibían
+
+de atención sostenidos y selectivos. Desafortunadamente, existen
+
+los estímulos "externos" (relacionados con el videojuego) tan
+
+estudios cognitivos limitados de los procesos atencionales en la
+
+eficientemente. Este estudio también incluyó mediciones de EEG,
+pero eso se discutirá más adelante en la siguiente sección.
+
+siguiente literatura. Al igual que con la literatura de hiperenfoque, esto
+
+la investigación tendrá que continuar investigando la relación entre el
+se debe en gran parte a las razones discutidas al comienzo de esta revisión.
+Aunque en su mayor parte es especulativa, esta sección destaca los
+
+fujo y el funcionamiento cognitivo con paradigmas cognitivos
+
+procesos de atención que pueden contribuir al fujo y al hiperenfoque.
+
+sofisticados como este.
+
+13
+
+Machine Translated by Google
+7
+
+Investigación psicológica (2021) 85: 1–19
+
+Criterio 4: mejora el desempeño de la tarea
+
+considerado como un esfuerzo de tensión y carga mental desde
+una perspectiva fisiológica”. Esto puede interpretarse como que el
+
+Es fundamental preguntarse: '¿Fow/hyperfocus realmente mejora
+
+cerebro, de hecho, está "trabajando más" de lo normal, lo que da
+
+el rendimiento?' Csikszentmihalyi y colegas (Csiksze ntmihalyi,
+
+crédito a la idea de que las personas pueden desempeñarse mejor
+
+1997; 2000; Nakamura y Csikszentmihalyi, 2009) han descrito
+
+durante un estado de flujo. Sin embargo, estos estudios solo
+
+consistentemente el fujo como un estado que produce
+
+proporcionan evidencia indirecta y especulativa de que el rendimiento
+
+inherentemente un alto rendimiento, aunque hay pruebas limitadas
+
+podría aumentar durante un estado de fow porque el cerebro parece
+
+que respaldan esta afirmación. Keller, Bless, Blomann y Kleinböhl
+
+estar trabajando más.
+
+(2011); Keller, Ringelhan y Blomann (2011) realizaron un estudio
+
+Otros estudios también han proporcionado más evidencia,
+
+en el que a los sujetos se les presentó una tarea de conocimiento
+
+aunque todavía indirecta, de un mayor rendimiento en estados de
+
+computarizada; se les presentó una pregunta y tuvieron que
+
+flujo (Schüler 2007; Jin, 2012; Engeser y Rheinberg, 2008; Keller y
+
+seleccionar una respuesta entre cuatro opciones de respuesta.
+
+Bless, 2008). Keller y Bless (2008) hicieron que los sujetos jugaran
+
+Había tres condiciones experimentales separadas: aburrimiento,
+fatiga y sobrecarga. En la condición de aburrimiento, las preguntas
+
+el videojuego Tetris en diversas condiciones de dificultad
+
+fueron consistentemente muy fáciles a lo largo de los bloques.
+
+sujetos en la condición adaptativa (donde los sujetos supuestamente
+
+(adaptación, aburrimiento y sobrecarga) y encontraron que los
+
+En la condición ft (o adaptativa), la dificultad de las preguntas se
+
+estaban en un estado bajo) tenían puntuaciones máximas más altas
+
+adaptaba en función del rendimiento (cuando respondían bien una
+
+que los sujetos en la condición adaptativa. las otras condiciones.
+
+pregunta, la siguiente era más difícil; cuando respondían mal, la
+
+Esto se interpretó como evidencia de que las experiencias de fujo
+
+siguiente era más fácil). Se predijo que la condición de pie produciría
+
+dan como resultado un mejor desempeño. Además, Schüler (2007;
+
+un estado de flujo. En la condición de sobrecarga, la dificultad de
+
+experimento 2) informó que la experiencia de flujo3 fue un predictor
+
+las preguntas fue constantemente demasiado difícil para los sujetos
+
+signifcativo del desempeño en el examen, de modo que las
+
+a lo largo de los bloques.1 Después de la tarea de conocimiento,
+
+experiencias de flujo más intensas se asociaron con calificaciones
+
+los sujetos completaron un cuestionario que indicaba si
+
+más altas. Sin embargo, como toda esta evidencia es correlacional,
+
+experimentaban falta o sentían que se cumplía la compatibilidad
+
+no se pueden inferir relaciones causales. De hecho, Jin (2012) ha
+
+entre habilidades y demanda. A lo largo de este estudio, la
+
+sugerido que la dirección de la relación entre rendimiento y fujo
+
+variabilidad de la frecuencia cardíaca (HRV) se midió como una
+
+puede ser la opuesta; su estudio encontró que el alto rendimiento
+
+variable dependiente, con la lógica de que una HRV baja era
+
+mientras se jugaba un videojuego era un predictor de la experiencia de flujo.
+
+En base a esto, no está claro si el rendimiento de la tarea
+indicativa de compromiso y/o tensión mental. Los sujetos informaron
+estar 'más involucrados' con la condición física que con las condiciones de
+aburrimiento
+y sobrecarga.
+realmente
+mejora
+durante los estados de fujo o hiperenfoque. Una
+Además, se informó que la HRV se redujo signifcativamente en la
+
+posibilidad es que los estados de flujo simplemente hagan que las
+
+condición de fatiga y sobrecarga en comparación con la condición
+de aburrimiento. La diferencia en HRV entre ft y
+
+lugar de mejorar realmente el desempeño. Las siguientes
+
+condiciones de sobrecarga no fue significativa.2 Un segundo
+
+experiencias de 'fusión de acción y conciencia' y tener 'la sensación
+
+personas sientan que lo están haciendo mejor de lo habitual, en
+
+experimento siguiendo un procedimiento similar, pero midiendo el
+
+de que uno puede controlar sus propias acciones' pueden
+
+cortisol salival (un indicador de estrés), encontró que los sujetos
+producían más cortisol en los pies y en condiciones de sobrecarga
+
+explicarse por el hecho de que se despliegan más recursos de
+atención hacia la información relevante de lo normal, lo que resulta
+en un procesamiento más rápido. de información (Carrasco y
+
+en comparación con las condiciones de aburrimiento. No hubo
+diferencia entre las condiciones de sobrecarga y pie. Se razonó que
+
+McElree, 2001; Carrasco, Giordano y McElree, 2006; Noguchi,
+
+se esperaría un mayor estrés en la condición de sobrecarga, ya que
+
+Tanabe, Sadato, Hoshiyama y Kakigi 2007). De acuerdo con la
+
+los sujetos lucharían por tener éxito, pero que los mismos niveles
+
+heurística de la facilidad de procesamiento (Kornell, Rhodes, Castel
+
+de estrés en la condición de pie son sorprendentes. Keller et al.,
+
+y Tauber, 2011), la información que se procesa rápidamente se
+
+(2011) argumentaron que a pesar de la experiencia subjetiva
+
+considera que se aprende mejor que la información procesada más
+
+lentamente.
+Además, Winkleman y Cacioppo (2001; véase también
+generalmente positiva asociada con el flujo, “las experiencias del flujo pueden
+ser
+Reber, Schwarz y Winkielman 2004) demostraron que un
+1
+
+Algunos detalles del estudio no fueron informados por los autores. Por
+ejemplo, no se informó el criterio de umbral en el procedimiento de escalera ni
+si la condición de sobrecarga se adaptó a las respuestas de los sujetos. 2 Los
+autores
+informaron que la HRV para la sobrecarga y el pie diferían en la significancia del
+'nivel de tendencia' (p<.10), que es una interpretación inválida que se informa
+correctamente aquí. Sin embargo, debido a esto, interpretaron la HRV como
+excepcionalmente baja en la condición de pie y no abordan las serias
+implicaciones teóricas de que no hay una diferencia significativa entre las
+condiciones de pie y de sobrecarga.
+
+procesamiento más rápido de la información da como resultado un
+mayor afecto positivo. Esto podría dar a los sujetos la impresión de
+que siempre saben qué hacer porque están haciendo juicios rápidos
+con los que se sienten bien, independientemente de si son correctos.
+Por supuesto, esto requerirá pruebas explícitas en el futuro.
+
+3
+
+No queda claro en el documento si la "experiencia de flujo" que influyó en el
+desempeño del examen ocurrió durante las conferencias de clase o durante el
+examen mismo.
+
+13
+
+Machine Translated by Google
+8
+
+Investigación psicológica (2021) 85: 1–19
+
+Los correlatos neurales del fujo
+
+la activación frontal en las funciones ejecutivas y de alerta contradice la
+hipofrontalidad transitoria durante los estados de flujo, porque la actividad
+
+La investigación sobre los correlatos neuronales del flujo es limitada.
+
+frontal no implica inherentemente la participación del control atencional,
+
+Dietrich (2004) propuso un marco teórico basado en la idea de que el
+
+pero la literatura proporciona suficiente evidencia para justificar el
+
+procesamiento de la información consiste en un sistema explícito (es
+
+desarrollo de un estudio diseñado para probar esta posibilidad. ¡Y
+
+decir, consciente, voluntario) e implícito (es decir, inconsciente,
+
+animamos a los lectores a hacer precisamente eso!
+
+automático). En este marco, el flujo se asocia con la supresión de la
+actividad en el sistema explícito, específicamente la corteza frontal y
+
+Otro marco teórico fue propuesto por Weber et al. (2009), sugiriendo
+
+prefrontal, lo que se conoce como "hipofrontalidad transitoria". Según
+
+que los estados de flujo son el resultado de la sincronización entre las
+
+Dietrich (2004), esto permite que la red implícita se active sin interrupción,
+
+redes de atención (particularmente de alerta y orientación) y de
+
+produciendo estados de flujo. Sin embargo, Weber, Tamborini, Westcott­
+
+recompensa, estados que pueden inducirse cuando hay un equilibrio
+
+Baker y Kantor (2009) señalan que el marco de Dietrich (2004) no
+
+entre la habilidad y el desafío en una tarea. Argumentan que la
+
+considera el fujo como un fenómeno atencional (ver más abajo un marco
+
+sincronización tiene menos demandas metabólicas que la actividad
+
+alternativo). Hasta donde sabemos, solo un estudio ha investigado
+
+cerebral no sincronizada, que es un método particularmente eficiente de
+
+explícitamente los correlatos neuronales del flujo en una población sana.
+
+procesamiento de información, que es un mecanismo para la conciencia
+
+Como se describe en una sección anterior. Castellar et al. (2019) hicieron
+
+y que se manifiesta subjetivamente como una experiencia placentera.
+
+que los participantes participaran en una tarea extraña auditiva mientras
+
+Cabe señalar que Weber et al. (2009) proporcionó esta definición
+
+jugaban simultáneamente un videojuego durante un estado de flujo y,
+
+específicamente en el contexto de los medios, como los videojuegos.
+
+según los datos de comportamiento de la tarea extraña, estados de
+
+Los datos empíricos disponibles relacionados con esta teoría son
+
+atención ostensiblemente menos intensos (aburrimiento y frustración).
+
+limitados y mixtos. Solo un estudio que encontramos intenta probar
+explícitamente esta teoría. Klasen, Weber, Kircher, Mathiak y Mathiak
+(2012) mostraron activación en la red de recompensas y alertas en
+
+Durante la tarea, se registraron las mediciones de EEG y encontraron
+
+respuesta al equilibrio habilidad/desafío durante un videojuego,
+
+una negatividad en el medio frontal retrasada (24 ms en promedio)
+
+argumentando que respaldaba la noción de sincronización entre las
+
+durante la condición de flujo, que se interpretó como “un correlato neural
+
+áreas de atención y recompensa. Aunque críticamente, esta es una
+
+de los procesos atencionales ejecutivos involucrados en las operaciones
+
+evidencia indirecta ya que no obtuvieron ninguna medida explícita de
+
+de control cognitivo de arriba hacia abajo… refejando los procesos
+
+conectividad o sincronización funcional. Sin embargo, otros estudios que
+
+ejecutivos tal como se definen en la visión de las tres redes de la
+
+no fueron diseñados explícitamente para probar la teoría de la
+
+atención… (p. 9)”. Además, Raz y Buhle (2006) revisaron la investigación
+
+sincronización, proporcionan evidencia contradictoria. Por ejemplo, Kucyi
+
+de resonancia magnética funcional sobre las tres redes de atención
+
+et al. (2017) encontraron que, durante una tarea de tapping rítmico, el
+
+(alerta, orientación y ejecutiva) e informaron que las redes de función
+
+aumento de la conectividad funcional entre y dentro de la red de modo
+
+ejecutiva y de alerta estaban asociadas de forma independiente con una
+
+predeterminado (DMN) y la red de prominencia se asoció con una
+
+mayor actividad de la corteza frontal, especialmente en la corteza
+
+atención "fuera de la zona". En la medida en que “fuera de la zona”
+
+prefrontal dorsolateral y la corteza cingulada anterior. Otras regiones
+cerebrales no frontales también se han asociado con los procesos de
+atención y el control ejecutivo, como la corteza parietal y las regiones
+
+contrasta “el estado de flujo” (ver discusión en la siguiente sección),
+
+subcorticales, pero aquí nos enfocamos en las regiones frontales en
+
+esta interpretación contradice la noción de que una mayor sincronización
+
+respuesta al marco de hipofrontalidad transitoria. Por lo tanto, si
+
+está asociada con un procesamiento de información más eficiente. La
+
+postulamos que el fow (o hiperfoco) es ante todo un fenómeno atencional,
+
+investigación futura tendrá que resolver estos resultados conflictivos.
+
+entonces estos resultados pueden contrastar la noción de Dietrich (2004)
+de “hipofrontalidad transitoria” como desencadenante de los estados de
+fow.
+
+Hiperenfoque y estar "en la zona"
+
+Dicho esto, instamos a tener precaución al inferir procesos
+atencionales basados en el aumento o disminución de la activación
+frontal, una lógica conocida como inferencia inversa. Hay algo de debate
+
+En un esfuerzo por evaluar las fuctuaciones momento a momento en el
+
+sobre el valor de la inferencia inversa tanto formal como informal en
+
+la tarea de desempeño continuo gradual (grad CPT). Durante el CPT de
+
+desempeño de la atención sostenida, Esterman et al. (2012) desarrollaron
+
+datos de neuroimagen (Sprooten et al., 2017; Poldrack 2011; Yarkoni,
+
+graduación, a los participantes se les presentaron imágenes de una
+
+Poldrack, Nichols, Van Essen y Wager, 2011; Pol drack, 2006) y un
+
+escena de la ciudad o de una montaña que pasarían gradualmente de
+
+tratamiento completo de esto es más allá del alcance de este documento.
+
+una a la siguiente en el transcurso del tiempo de presentación de 800
+
+Sin embargo, lo más relevante para nuestros propósitos es que Poldrack
+
+ms. Los participantes tenían que responder a las escenas de la ciudad y
+
+(2011) ha argumentado que la inferencia inversa es útil como método
+
+abstenerse de responder durante las escenas de montaña. Para evaluar
+
+para generar hipótesis novedosas. En otras palabras, no podemos decir
+
+la variación del comportamiento en el rendimiento a lo largo del tiempo,
+
+basándonos en la literatura actual que aumentó
+
+Esterman et al. (2012) emplearon un tiempo de varianza
+
+13
+
+Machine Translated by Google
+9
+
+Investigación psicológica (2021) 85: 1–19
+
+análisis del curso, que evaluó el desempeño dentro de la asignatura.
+
+Una definición operativa de hiperenfoque
+
+Descubrieron que las épocas de alta variabilidad estaban asociadas con
+un aumento de errores, RT más rápidos antes de los errores de comisión
+
+Con base en la revisión anterior, proponemos la siguiente definición
+
+y RT más lentos antes de las respuestas correctas en relación con las
+
+operativa para cuatro características distintas y comprobables del
+
+épocas de baja variabilidad. Como tal, las épocas de baja variabilidad se
+
+hiperenfoque: (1) el hiperenfoque es inducido por la participación en la
+
+denominaron "en la zona" y las épocas de alta variabilidad se denominaron
+
+tarea; (2) el hiperenfoque se caracteriza por un estado intenso de
+
+"fuera de la zona". Una ventaja significativa del análisis del curso temporal
+
+atención sostenida o selectiva; (3) Durante un estado de
+
+de la varianza fue que permitió la medición de los estados de atención
+
+hiperconcentración, hay una percepción disminuida de estímulos no
+
+sin tener que sondear directamente a los sujetos para averiguar si
+
+relevantes para la tarea; y (4) Durante un estado de hiperconcentración,
+
+estaban "en la zona".
+
+mejora el desempeño de la tarea.
+
+Esterman et al. (2014) realizaron un estudio similar utilizando el
+paradigma CPT graduado, pero también incluyeron distractores
+
+Los estados de flujo muestran evidencia de que son inducidos por
+tareas al menos interesantes, si no divertidas. En particular, son inducidos
+
+irrelevantes. En este estudio, los participantes tenían que responder a
+
+por tareas comprometidas, independientemente de la fuente de
+
+rostros masculinos, mientras retenían las respuestas a rostros femeninos.
+
+motivación. Aunque el lenguaje específico es diferente del que se ha
+
+Estos rostros se superpusieron en la parte superior de escenas de
+
+utilizado normalmente para describir el hiperenfoque (compromiso frente
+
+montañas o ciudades que cambiaron de forma independiente sin sincronizarseacon
+los rostros.
+diversión/interesante),
+se puede argumentar que en el contexto
+En algunos ensayos, la imagen de fondo era la misma que en el ensayo
+anterior (ensayos repetidos) y en otros cambió (ensayos nuevos). En
+
+significan lo mismo. No hay evidencia explícita de que el fujo induzca
+estados intensos de atención sostenida y selectiva.
+
+cuanto al comportamiento, informaron que los estados "en la zona" se
+
+ción Sin embargo, en base a los efectos informados del flujo, es
+
+asociaron con menos errores, lo que sugiere un mejor rendimiento de la
+
+razonable suponer que la atención sostenida y selectiva probablemente
+
+tarea. Además, utilizando un ROI de red de escena cortical, regiones que
+
+desempeñe un papel significativo. Además, la aplicación de un marco
+
+son activadas selectivamente por imágenes de escena, encontraron una
+
+cognitivo puede proporcionar una explicación razonable de cómo los
+
+mayor diferencia en el cambio de señal de % BOLD entre ensayos
+
+estados intensos de atención podrían conducir a los efectos de flujo informados.
+
+nuevos y repetidos (con más actividad durante los ensayos nuevos)
+
+Existe amplia evidencia de que los estados de flujo inducen una
+
+durante las épocas "en la zona". en relación con las épocas "fuera de la
+
+"percepción disminuida de estímulos no relacionados con la tarea",
+
+zona". Debido a que las escenas fueron los distractores en su estudio,
+
+aunque esto solo se ha informado en cuestionarios subjetivos, después
+
+argumentaron que esto era evidencia de un mayor procesamiento de
+
+de que el estado de flujo había terminado. Hasta la fecha, no se han
+
+distractores, lo cual fue posible debido a una reducción concomitante en
+
+tomado medidas cognitivas o psicométricas explícitas durante un estado
+
+la carga perceptiva asociada con la tarea principal de identificación de
+
+de flujo. Independientemente, los informes subjetivos coinciden
+
+rostros. Esencialmente, argumentan que las épocas “en la zona” se
+
+estrechamente con los informes anecdóticos de hiperenfoque. Finalmente,
+
+caracterizan por un compromiso de atención eficiente, mientras que las
+
+existe alguna evidencia limitada de que los estados de flujo mejoran el
+
+épocas “fuera de la zona” se caracterizan por un compromiso excesivo.
+
+desempeño de la tarea, pero todo esto es correlacional e indirecto. En
+general, la evidencia sugiere que los estados de flujo y el hiperenfoque
+
+Según estos datos, parece haber similitudes entre el hiperenfoque y
+las épocas "en la zona". En particular, la evidencia sugiere que los
+
+parecen ser los mismos fenómenos, solo que con diferentes nombres y
+reportados inicialmente en diferentes campos de la psicología. Dicho
+
+estados "en la zona" reflejan un compromiso intenso de atención
+
+esto, será necesaria más investigación para confrmar y fortalecer esta
+
+sostenida y distracción reducida.
+
+afirmación (Tabla 3).
+
+Críticamente, aunque numerosos estudios han descrito que el
+hiperenfoque está asociado con una percepción temporalmente
+
+Los estados “en la zona” no muestran evidencia de que sean inducidos
+por tareas divertidas o interesantes. Muestran alguna evidencia de que
+
+disminuida del entorno (Tabla 1; Sklar, 2013; Ozel­Kizil et al., 2013;
+
+se caracterizan por estados intensos de atención sostenida, pero no
+
+Schecklmann et al., 2008) lo que resulta en menos distracciones,
+
+está claro qué tan "intensos" son realmente estos estados. Los estados
+
+Esterman et al. (2014) sugeriría que puede estar asociado con una
+
+“en la zona” parecen reflejar el rango superior de las fuctuaciones
+
+percepción mejorada del entorno que conduce a una supresión de
+
+normales en el desempeño atencional, más que un estado de atención
+distinto. Estados “en la zona”
+
+distractores más eficiente. Sin embargo, a pesar de las aparentes
+similitudes, los estados “en la zona” no cumplen los criterios para ser
+
+también muestran una clara evidencia de una mayor supresión del
+
+clasificados como el mismo proceso que el hiperfoco. Primero, la tarea
+
+distractor, lo que resulta en una percepción disminuida de los estímulos
+
+no es especialmente divertida o interesante más allá de un experimento
+
+no relevantes para la tarea. Finalmente, no hay evidencia de que los
+
+de psicología tradicional. Y en segundo lugar, la naturaleza del análisis
+
+estados "en la zona" resulten en un mejor desempeño de la tarea. En
+
+del curso temporal de la varianza es tal que no existe una condición de
+
+general, la evidencia nos lleva a conjeturar que, si bien los estados "en
+
+línea de base, por lo que no está claro si el rendimiento durante las
+
+la zona" aún pueden estar mediados por mecanismos similares al
+
+épocas “en la zona” refleja un rendimiento mejorado o simplemente un
+
+hiperenfoque, son fenómenos distintos. Se necesitará más investigación
+
+rendimiento sin deterioro, en relación con el rendimiento deteriorado
+
+para investigar esta posibilidad (Tabla 3).
+
+durante el período. épocas “fuera de la zona”.
+
+13
+
+Machine Translated by Google
+10
+
+Investigación psicológica (2021) 85: 1–19
+
+Hiperenfoque en trastornos psiquiátricos
+
+juego de disparos, que aparentemente mide la actividad cerebral durante
+un estado de hiperconcentración. En este estudio, el hiperfoco se definió
+
+Las referencias al hiperenfoque surgen con mayor frecuencia en la
+
+esencialmente como idéntico al fujo, como lo describe Csikszent mihalyi
+
+investigación sobre el TDAH, la esquizofrenia y el autismo. Se informa que
+
+(1997, 2000). Hubo algunos hallazgos importantes.
+
+cada trastorno aumenta la frecuencia y/o la magnitud de los estados de
+
+Primero, los pacientes con TDAH mostraron niveles reducidos de alfa y beta
+
+hiperenfoque, a veces en diferentes contextos. Esta superposición
+
+en el lóbulo frontal en relación con los controles mientras jugaban; y aunque
+
+fenotípica puede no ser sorprendente dada la evidencia de una superposición
+
+no fue significativo (pero se mencionó a la luz de los tamaños de muestra
+
+genética entre las tres condiciones (Cross­Disorder Group of the Psychiatric
+
+pequeños), los niveles alfa y beta disminuyeron durante el transcurso del
+
+Genomics Consortium, 2013). Para cada población, revisaremos cómo se
+
+juego para los pacientes con TDAH, pero aumentaron para los controles.
+
+ha medido el hiperfoco, el consenso general sobre cómo afecta el hiperfoco
+
+Esto se interpretó como evidencia de que los pacientes con TDAH requerían
+
+a estas poblaciones, y brindaremos críticas constructivas sobre los métodos
+
+menos esfuerzo cognitivo para jugar, en línea con las experiencias
+
+y análisis utilizados en cada una. También habrá una discusión sobre si las
+
+informadas de hiperconcentración.
+
+medidas de hiperenfoque utilizadas en las poblaciones reflejan el mismo
+
+En segundo lugar, en la línea media frontal, la actividad de las ondas delta
+
+proceso o no.
+
+aumentó signifcativamente durante el transcurso del juego (y se informó
+que la actividad de las ondas theta aumentó en un nivel de tendencia; p < 0,10).
+Se especuló que esto podría reflejar la "experiencia de la actividad como un
+
+Hiperenfoque y TDAH
+
+elemento intrínsecamente gratificante" del hiperenfoque. En tercer lugar,
+en el lóbulo parietal, la potencia absoluta media fue mayor en los pacientes
+
+El trastorno por déficit de atención con hiperactividad (TDAH) se caracteriza
+
+con TDAH que en los controles. Esto fue notable porque, por lo general, los
+
+por hiperactividad, impulsividad y falta de atención clínicamente significativas
+
+pacientes con TDAH muestran una activación parietal más baja que los
+
+(es decir, interfiere con la vida diaria). Cabe señalar que, a pesar de su
+
+controles, lo que se cree que refleja un proceso de atención deteriorado en
+
+nombre aparentemente autodescriptivo, el TDAH no es solo un trastorno de
+
+el TDAH. Sklar (2013) argumentó que estos resultados respaldaban la
+
+la atención, sino también de las funciones ejecutivas (Roberts, Martel, &
+
+noción de que las deficiencias en la atención pueden ser específicas del
+
+Nigg, 2017; Castellanos, Xavier, Sonuga­Barke, Milham, & Tannock 2006;
+
+contexto en pacientes con TDAH.
+
+Willcutt, Doyle, Nigg, Faraone y Pennington 2005). Además, existen tres
+
+En otras palabras, es posible que los pacientes con TDAH no se vean
+
+subtipos de TDAH (desatento, hiperactivo y combinado), que incluso pueden
+
+afectados cuando se encuentran en un estado de hiperconcentración e
+
+ser trastornos distintos (Milich, Balentine y Lynam 2001; Roberts y Milich,
+
+incluso pueden tener un mayor control atencional. Y cuarto, un cuestionario
+
+2013). Según el DSM­V (APA, 2013), uno de los síntomas del TDAH es
+
+posterior al experimento reveló que los pacientes con TDAH experimentaron
+
+que el niño “muchas veces parece no escuchar cuando se le habla
+
+una percepción del tiempo más distorsionada, lo que posiblemente respalda
+
+directamente”. Si bien el DSM­V no se refiere explícitamente a este síntoma
+
+la idea de que, de hecho, experimentaron hiperconcentración durante la
+tarea.
+
+(ni a ningún otro síntoma) como hiperenfoque, las referencias a él como
+un síntoma de TDAH son omnipresentes en la literatura académica (Goodwin
+
+Sin embargo, es necesario considerar algunos aspectos metodológicos
+
+y Oberacker, 2011; Travis , 2010 ; Carver , 2009; Kahl y Whal, 2006; Ozel­
+
+para una mejor comprensión de los resultados. En primer lugar, existe la
+
+Kizil et al., 2013; Schecklmann et al., 2008; Sklar, 2013; véase también la
+
+cuestión de si los participantes (tanto con TDAH como con neurotípicos)
+
+Tabla 1). De hecho, Hupfeld et al. (2019) encontraron que los pacientes con
+
+experimentaron hiperconcentración mientras jugaban. Sklar (2013), al igual
+
+TDAH experimentan hiperconcentración con más frecuencia que los
+
+que Weber et al. (2009), argumentaron que los medios, como los
+
+controles neurotípicos saludables, tanto en general como en una variedad
+
+videojuegos, brindan el entorno adecuado para inducir estados de
+
+de entornos específicos (en la escuela, durante los pasatiempos, durante el
+
+hiperenfoque/fow. Cabe destacar que el marco de Weber et al. (2009) se
+
+"tiempo frente a la pantalla" y en el "mundo real"). Además, aunque la
+
+basa en la noción de que el hiperenfoque es el resultado de una
+
+hiperconcentración aparentemente es la antítesis de la asociación del TDAH
+con la falta de atención y la impulsividad, a menudo se informa como un
+
+sincronización neuronal mejorada entre las redes de atención y de
+recompensa en el cerebro.
+
+estado positivo en las personas con TDAH porque en realidad realizan
+
+Sin embargo, Hoekzema et al. (2014) mostró que los pacientes con TDAH
+
+tareas durante períodos de tiempo más prolongados de lo normal (Goodwin
+
+exhibieron una conectividad funcional reducida entre la corteza prefrontal
+
+y Oberacker, 2011; Travis, 2010).
+
+dorsolateral y varias redes cerebrales, y en particular la DMN, durante las
+tareas que demandan atención. Además, Querne et al. (2014; véase
+también Fassbender, Scangos, Lesh y Carter 2014) informaron que, a
+diferencia de los participantes neurotípicos, los niños con TDAH no
+
+La investigación sobre el hiperenfoque y el TDAH es extremadamente
+
+mostraron una sincronización antifase signifcativa (una forma de
+
+limitada. Solo pudimos encontrar un estudio que intentara explícitamente
+
+sincronización inhibitoria) entre la DMN y las redes positivas de tareas.
+
+medir las diferencias cognitivas y neuronales en el hiperenfoque entre las
+
+(TPN; regiones del cerebro que se activan durante la tarea "orientada
+
+poblaciones con TDAH y neurotípicas.
+
+hacia el exterior", incluidas las redes de atención fronto parietal dorsal y
+
+En este estudio, Sklar (2013) tomó mediciones de EEG mientras los
+
+ventral). Esto fue interpretado como un
+
+participantes con TDAH y neurotípicos jugaban un juego en primera persona.
+
+13
+
+Machine Translated by Google
+11
+
+Investigación psicológica (2021) 85: 1–19
+
+Tabla 3 Evidencia de la fenomenología del hiperfoco durante los estados “en la zona” o “fuera” (figura en color en línea)
+
+Características de Hiperenfoque
+
+Divertido/interesante
+
+Concentración Intensa
+
+En la zona
+
+Fluir
+
+Ninguno
+
+Bien
+
+Limitado
+
+Percepción reducida de Irrelevante/
+
+Bien
+
+Smuli no relacionados con tareas
+
+Ninguno
+
+Rendimiento de tareas mejorado
+
+especular
+
+Bien
+
+Limitado
+
+Los cuadros de colores indican la calidad y cantidad de la evidencia relacionada con las diferentes características del hiperenfoque. En la versión en línea, el
+verde indica buena evidencia, el amarillo indica evidencia limitada o especulativa y el rojo indica que no hay evidencia. En la versión impresa, el blanco indica
+buena evidencia, el gris claro indica evidencia limitada o especulativa y el gris oscuro indica que no hay evidencia.
+
+deterioro en la capacidad de la TPN para suprimir la DMN debido a la
+
+anteriormente pasado por alto debido a un enfoque en la "distracción".
+
+inmadurez en el desarrollo cerebral relacionado con el TDAH, incluso
+
+Además, a pesar de la ubicuidad de los informes de hiperfoco en
+
+en el TDAH del adulto (Castellanos and Elmaghrabi, 2017; Catel
+
+pacientes con TDAH, no se refleja en los criterios del DSM para un
+
+lanos et al., 2006; Kelly, Margulies , & Castellanos 2007; Scheres,
+
+diagnóstico. Tal vez esto debería reconsiderarse ya que, según la
+
+Milham, Knutson, & Castellanos, Scheres et al., 2007). Con base en
+
+evidencia anecdótica, la hiperconcentración parece ser un síntoma
+
+esta evidencia, es cuestionable si la teoría de la hiperconcentración
+
+central.
+
+basada en la sincronización de Weber et al. (2009) es probable y, por
+extensión, si simplemente jugar juegos es suficiente para inducir
+
+Hiperenfoque y autismo
+
+constantemente la hiperconcentración en los sujetos.
+Dicho esto, si los déficits de atención son contextuales, como sugiere
+
+Los trastornos del espectro autista (TEA) son trastornos del
+
+Sklar (2013), entonces quizás los déficits de conectividad identificados
+
+neurodesarrollo asociados con deficiencias en el desarrollo social, el
+
+por Hoekzema et al. (2014) y Querne et al. (2014) no se encontraría
+
+lenguaje y comportamientos/intereses repetitivos y circunscritos. Dos
+
+si la tarea indujera hiperenfoque.
+En segundo lugar, Sklar (2013) no evaluó medidas conductuales
+
+síntomas definitorios de TEA son “(B1) Movimientos motores, uso de
+objetos o habla estereotipados o repetitivos (p. ej., estereotipias
+
+que pudieran corresponder con medidas neurológicas.
+
+motoras simples, alinear juguetes o voltear objetos, ecolalia, frases
+
+Si bien esta fue una elección metodológica comprensible, el uso de
+
+idiosincrásicas)” y “(B3) Altamente restringido , intereses fijos que son
+
+un videojuego brinda una oportunidad única porque, en teoría, se
+
+anormales en intensidad o enfoque (p. ej., fuerte apego o preocupación
+
+puede medir el rendimiento a lo largo del juego (por ejemplo, la
+
+por objetos inusuales, interés excesivamente circunscrito o
+
+mayoría de los juegos tienen algún tipo de mecanismo de puntuación)
+
+perseverante)” (APA, 2013) . De particular interés aquí son los casos
+
+sin tener que sondear el tema ( Es cierto que esto es más fácil decirlo
+que hacerlo). En general, es una buena práctica incluir mediciones
+
+en los que las personas con autismo exhiben un enfoque intenso en
+un comportamiento o tema en particular, que a veces se denomina
+
+conductuales para comparar con mediciones neurológicas, para
+
+hiperenfoque (aunque generalmente de manera anecdótica; Mayes,
+
+poder establecer una relación entre la actividad cerebral y el
+
+2014; Clark, 2016; Fein , 2015 ; Bombaci , 2012 ). El término
+
+comportamiento (es decir, vincular hipótesis; Teller, 1984; Morgan,
+
+hiperenfoque también se usa a veces para referirse al comportamiento
+
+Melmoth y Solomon, 2013 ) . ).
+
+estereotipado o stimming (abreviatura de comportamiento de
+
+TDAH es sinónimo de un alto grado de distracción y de poca
+
+autoestimulación; Bombaci, 2012; consulte la Tabla 1).
+
+capacidad de atención. Sin embargo, los estados de hiperconcentración
+informados a menudo en esta condición sugieren que las personas
+
+Sin embargo, estos son fenómenos distintos que ocurren
+
+con TDAH pueden, paradójicamente, mantener la atención en
+
+simultáneamente en los TEA y deben tratarse como tales, con el
+
+exceso. De hecho, es posible que el control de la atención no se vea
+
+hiperfoco refiriéndose al síntoma B3 y no al B1, aunque reconocemos
+
+tan afectado en los pacientes con TDAH como se pensaba. Por
+
+que los dos conjuntos de síntomas pueden ser difíciles de separar
+
+ejemplo, Roberts, Ashinof, Castellanos y Carrasco (2018) han
+
+desde un punto de vista fenomenológico y clínico. perspectiva. Aquí,
+
+demostrado que la atención encubierta espacial está funcionalmente
+
+nos enfocamos en estudios que parecen abordar el fenómeno del
+
+intacta en adultos con TDAH. Por lo tanto, la investigación sofisticada
+
+hiperenfoque en los TEA, en lugar de comportamientos estereotipados o estimulantes
+
+de la naturaleza de la hiperconcentración en el TDAH es de vital
+
+Hasta donde sabemos, no existen estudios que intenten medir
+
+importancia, ya que puede proporcionar pistas etiológicas importantes que han
+sido
+específicamente
+el comportamiento o el rendimiento cognitivo.
+
+13
+
+Machine Translated by Google
+12
+
+Investigación psicológica (2021) 85: 1–19
+
+durante hiperenfoque o estados de flujo en ASD. En un artículo de revisión,
+
+Hiperenfoque y esquizofrenia
+
+Geurts et al. (2009) defnieron el hiperenfoque en el contexto de los TEA como
+“dificultades para cambiar la atención, desconectarse de los detalles”. Por lo
+
+La esquizofrenia es un trastorno caracterizado por un comportamiento social
+
+tanto, podría sorprender saber que algunos procesos atencionales
+
+anormal, deficiencias en el procesamiento emocional y psicosis.
+
+fundamentales parecen estar intactos en pacientes con TEA, incluida la
+
+Los síntomas de la esquizofrenia se dividen en tres categorías: síntomas
+
+atención espacial exógena y endógena (Grubb et al., 2013a, b) y la desconexión
+
+positivos, síntomas negativos y disfunción cognitiva (APA, 2013). Los síntomas
+
+atencional (Fischer, Plessow, Dreisbach y Goschke). 2014), aunque otros
+
+positivos son aquellos que pueden experimentar los individuos con esquizofrenia
+
+aspectos de la atención se han mostrado defcientes. Por ejemplo, Keehn,
+
+y que no están presentes en la población sana. Estos incluyen alucinaciones,
+
+Westerfeld, Müller y Townsend, (2017) encontraron que los niños con TEA, a
+
+delirios y otras formas de psicosis. Los síntomas negativos son déficits en la
+
+diferencia de los niños con un desarrollo normal, no mostraban evidencia
+
+cognición o la emoción en los individuos con esquizofrenia que no se ven
+
+conductual o electrofisiológica de captura atencional.
+
+afectados en la población sana. Estos incluyen, pero no se limitan a,
+anhedonia, afecto de grasa y falta de motivación. La disfunción cognitiva se
+refiere a los déficits en una amplia gama de capacidades cognitivas.
+
+Geurts, Corbett y Solomon (2009) también propusieron que la
+hiperconcentración en los TEA estaba asociada con la flexibilidad cognitiva
+(la capacidad de reasignar recursos cognitivos en función de la situación;
+
+En los últimos años, se ha desarrollado una hipótesis de hiperenfoque de la
+
+Brady et al., 2017; South , Ozonof, & Mcma hon, 2007; Hill y Bird, 2006;
+
+esquizofrenia (ver Luck, Hahn, Leonard, & Gold, 2019 para una revisión de
+
+López, Lincoln, Ozonof y Lai, 2005). Los correlatos neuronales de la flexibilidad
+
+esta hipótesis; Luck et al., 2014; Gray et al., 2014; Hahn et al. al., 2016; Sawaki
+
+cognitiva en los TEA generalmente se evalúan utilizando paradigmas de
+
+et al., 2017; Kreither et al., 2017). Aquí, el hiperenfoque se define como el uso
+
+cambio de tareas o atención, como la prueba de clasificación de tarjetas de
+
+de recursos de procesamiento más intensamente (es decir, una representación
+
+Wisconsin (WCST; Yeung, Han, Sze y Chan 2016) o tareas de aprendizaje
+
+de la memoria de trabajo más fuerte), pero más estrechamente en comparación
+
+inverso (D'Cruz, Mosconi, Ragozzino , Cook y Sweeney, 2016).
+
+con los sujetos de control sanos.
+
+En estas tareas, las personas con TEA han mostrado hipoactivación en la
+corteza prefrontal, el cuerpo estriado y la corteza parietal (Shafritz, Dichter,
+
+Suerte et al. (2014; Gray et al., 2014) demostraron que un distractor de
+color que coincidía con un color guardado en la memoria de trabajo tenía un
+
+Baranek y Belger, 2008; Gilbert, Bird, Brindley , Frith y Burgess 2008; Yeung
+
+mayor efecto de distracción durante los movimientos oculares sacádicos en
+
+et al., 2016; D'Cruz et al., 2016; Gomot et al., 2006), que se cree que refleja
+
+personas con esquizofrenia que en controles sanos.
+
+deficiencias en la capacidad de cambiar entre diferentes comportamientos.
+
+Argumentaron que los individuos con esquizofrenia habían generado una
+
+Importante para nuestros propósitos, esta hipoactivación se ha asociado con
+
+representación más intensa de la memoria de trabajo del color porque se
+
+comportamientos estereotipados, que pueden confundirse con hiperenfoque.
+
+habían enfocado más intensamente (es decir, hiperfocalizados) en él. Además,
+
+Sin embargo, D'Cruz et al. (2016) notaron que la hipoactivación en una tarea
+
+Leonardo et al. (2013) demostraron que los mecanismos neurales que
+
+de aprendizaje por refuerzo se asoció específcamente con resultados
+
+subyacen a las diferencias en la memoria de trabajo entre individuos con
+
+impredecibles de la tarea. Sugirieron que la incertidumbre puede inducir
+
+esquizofrenia y controles sanos no son los mismos que subyacen a las
+
+ansiedad en pacientes con TEA, motivándolos a mantener comportamientos
+
+diferencias individuales generales en la memoria de trabajo.
+
+con resultados predecibles y resistirse a la novedad. Por lo tanto, no está claro
+si los déficits relacionados con los TEA en la flexibilidad cognitiva están
+
+Argumentaron que esto reflejaba un déficit en la capacidad de las personas
+
+relacionados con la hiperconcentración, los comportamientos estereotipados u
+
+con esquizofrenia para distribuir su atención ampliamente.
+
+otros.
+
+Aunque los autores tienen cuidado de señalar que atribuir estos resultados al
+hiperenfoque es una conjetura, sugieren que proporciona evidencia convergente
+
+procesos.
+En general, parece que la hiperconcentración es un fenómeno real que
+
+para tal teoría.
+Estudios más recientes también han apoyado la teoría del hiperenfoque
+
+ocurre en los TEA, pero se debe tener cuidado para distinguirlo de otros
+
+de la esquizofrenia. Sawaki et al. (2017) encontraron que las personas con
+
+síntomas, como los comportamientos estereotípicos.
+
+esquizofrenia mostraban evidencia electrofisiológica de un enfoque atencional
+
+La investigación sobre la hiperconcentración en los TEA es importante porque,
+
+anormal hacia características de estímulo relevantes para el objetivo. Los
+
+hasta el momento, no está claro si la hiperconcentración es un síntoma
+
+participantes tenían que responder cuando un círculo ubicado en el centro
+
+principal o un síntoma secundario que simplemente es inducido por otros
+
+coincidía con un color objetivo predefinido, mientras ignoraban dos círculos de
+
+comportamientos relacionados con los TEA. Es posible que los mecanismos
+
+distracción de colores que formaban un abanico horizontal con el círculo
+
+subyacentes a los comportamientos de hiperconcentración no sean específicos
+
+central. En algunas pruebas, cuando el círculo central no era un color objetivo,
+
+del autismo, sino que los comportamientos del TEA desencadenen el mismo
+
+uno de los círculos distractores podía coincidir con el color objetivo (es decir,
+
+tipo de hiperconcentración que se observa en la población general con mayor
+
+una característica relevante para el objetivo incrustada en un distractor). Para
+
+frecuencia o intensidad.
+
+dar cuenta de los informes frecuentes
+
+13
+
+Machine Translated by Google
+13
+
+Investigación psicológica (2021) 85: 1–19
+
+déficits en el mantenimiento de la meta, el color de la meta se presentó
+
+hipersalencia, entonces una puntuación de subescala generalizada puede
+
+constantemente entre las pruebas a lo largo del experimento. Descubrieron
+
+no ser lo suficientemente sensible para reflejar estos efectos. Suerte et al.
+
+que en estos ensayos, los controles neurotípicos exhibieron un componente
+
+(2019) informaron que existe una asociación en varios estudios entre la
+
+de potencial relacionado con eventos (ERP) de positividad de distractor
+
+disfunción cognitiva y la intensidad del hiperenfoque. Además, propusieron
+
+significativo, una medida de supresión atencional.
+
+que la hiperconcentración puede ser una causa de la disfunción cognitiva,
+
+Esto sugirió que la atención no estaba dirigida hacia el distractor que
+
+en lugar de una consecuencia, pero tienen cuidado de señalar que esto es
+
+contenía información relevante para el objetivo. Sin embargo, los individuos
+
+especulativo. Además, señalan que no está claro, debido a la falta de
+
+con esquizofrenia exhibieron un componente ERP N2pc (N2 posterior­
+
+investigación en pacientes no medicados y pacientes con síntomas
+
+contralateral) signifcativo, una medida de cambios de atención espacial y
+
+psicóticos actuales, si la hiperconcentración está asociada con los síntomas
+
+enfoque hacia un estímulo lateralizado. Esto sugirió que en realidad
+
+positivos y/o negativos de la esquizofrenia. Prentky (2001) argumentó que
+
+centraron su atención (o hiperconcentraron) en el distractor que contenía
+
+los pacientes que muestran síntomas positivos muestran “mayor actividad
+
+información relevante para el objetivo. Los autores argumentaron que esto
+
+hemisférica izquierda que derecha. Por lo tanto, existe un hipotético
+
+era evidencia de que las personas con esquizofrenia se concentraban en
+
+desequilibrio hemisférico óptimo que promueve un hiperenfoque constructivo
+
+exceso en la información relevante para los objetivos cuando realizaban un
+
+y específico de la tarea en los detalles”. También hay evidencia de que los
+
+conjunto de tareas. Esto es consistente con algunas de las características
+
+pacientes con esquizofrenia muestran una mayor preocupación por las
+
+más comúnmente reportadas del hiperenfoque, particularmente un mejor
+
+creencias delirantes que los controles sanos (Sisti et al., 2012), lo que
+
+desempeño de tareas.
+
+podría interpretarse como un hiperenfoque en la creencia. De hecho,
+
+De hecho, Beck et al. (2016) informaron que, como consecuencia de la
+
+muchas descripciones de personas con esquizofrenia informan que la
+
+hiperconcentración en la información relacionada con el objetivo, las
+
+experiencia de las alucinaciones distrae y absorbe, incluso hasta el punto
+
+personas con esquizofrenia mostraron un rendimiento significativamente
+
+de agotamiento (Walsh, Hochbrueckner, Corcoran & Spence, 2016; Flana
+
+mejor en una tarea de búsqueda visual probabilística.
+
+gan et al., 2012 ) . Esto sugiere que las personas con síntomas positivos
+
+Kreither et al. (2017) abordó otra predicción de la hipótesis del
+hiperenfoque, a saber, que las personas con esquizofrenia centrarían la
+
+tienen más probabilidades de experimentar hiperconcentración, o al menos
+que los síntomas positivos pueden inducir hiperconcentración.
+
+atención de forma más limitada, además de con mayor intensidad.
+Interpretaron que esto significaba que el hiperenfoque sería más fuerte
+para los estímulos en la visión central, pero débil en la visión periférica. Los
+
+De manera más general, aunque no dudamos de los resultados o el
+
+participantes tenían que discriminar entre estímulos estándar y extraños en
+ubicaciones centrales o periféricas. Descubrieron, basándose en un
+
+valor de la "teoría de hiperfocalización de la esquizofrenia", es discutible si
+
+componente ERP P3b anormal (una medida de los recursos de
+
+describe típicamente en los informes anecdóticos de hiperfocalización. La
+
+procesamiento de nivel superior), que las personas con esquizofrenia
+
+teoría del hiperenfoque parece reflejar una concentración intensa y un
+
+su definición operativa de hiperfocalización refleja el mismo proceso que se
+
+podían suprimir los estímulos periféricos cuando respondían a estímulos
+
+mejor desempeño de las tareas. Y, aunque en general es consistente con
+
+ubicados centralmente, pero no podían suprimir los estímulos centrales
+
+los informes de que las personas que hiperfocalizan "se desconectan de
+
+cuando respondían. a los estímulos periféricos. Los controles sanos
+
+todo lo demás", no está claro si, en los informes anecdóticos, las personas
+
+exhibieron el patrón opuesto de resultados.
+
+siempre se enfocaban en los estímulos en el centro de la visión. Un estudio
+futuro deberá evaluar si el hiperenfoque solo puede ocurrir en el centro de
+
+Además, demostraron que los resultados de P3b se correlacionaron con el
+
+la visión o si los lugares de hiperenfoque pueden moverse, como con el
+
+rendimiento en la tarea de campo de visión útil (UFOV), que mide la
+
+foco de atención. Además, no había nada particularmente divertido o
+
+atención distribuida. Los individuos con esquizofrenia mostraron un peor
+
+interesante en las tareas. Otra consideración fue que el efecto de
+
+desempeño que los controles.
+
+“hiperenfoque” fue relativamente consistente a lo largo del tiempo en estos
+
+Teniendo en cuenta la variabilidad de los síntomas asociados con la
+
+estudios, lo cual es inconsistente con la noción de que el hiperenfoque
+
+esquizofrenia, una pregunta natural es si el hiperenfoque está asociado con
+
+refleja un estado de atención irregular e inconsistente que es difícil de
+
+síntomas negativos, síntomas positivos o disfunción cognitiva. Suerte et al.
+
+inducir. Uno
+
+(2014) probaron, pero no encontraron, una correlación entre el hiperenfoque
+y la gravedad de los síntomas positivos (BPRS; Faustman and Overall,
+
+La posibilidad es que los estudios de la "teoría del hiperenfoque" estuvieran
+
+1999) o negativos (SANS; Andreasen, 1989) en sus individuos con
+
+aprovechando una contrapartida de atención visual de hipersalencia (en
+
+esquizofrenia. Sin embargo, obtuvieron una única puntuación de subescala
+
+lugar de hiperenfoque) que se ha informado previamente en personas con
+
+para cada tipo de síntoma (positivo y negativo) y no evaluaron si los
+
+esquizofrenia en tareas de toma de decisiones.
+
+síntomas individuales estaban asociados con la hiperconcentración. Si solo
+un subconjunto de síntomas positivos (como delirios) o negativos están
+
+Speechley, Whitman y Woodward (2010) demostraron que las personas
+con delirios mostraban un sesgo por la evidencia de que
+
+asociados con hiperenfoque o
+
+coincidieron con sus expectativas, lo que puede explicar los resultados de
+Luck et al. (2014).
+
+13
+
+Machine Translated by Google
+14
+
+Investigación psicológica (2021) 85: 1–19
+
+¿Es el hiperenfoque el mismo fenómeno en
+todas las condiciones psiquiátricas?
+
+refejar una relación diametral.
+
+¿El hiperfoco, informado en la literatura sobre TDAH, autismo y
+
+con estos trastornos simplemente se hiperenfocan en diferentes tipos
+
+hiperfocalización, ya que sus patrones de control atencional parecen
+Sin embargo, una interpretación alternativa es que los pacientes
+
+esquizofrenia, se refiere al mismo fenómeno en las tres condiciones?
+
+de estímulos, lo que dificulta ver una comparación directa.
+
+Antes de que podamos abordar esto, primero debemos considerar de
+
+Crespi y Backcock (2008) conceptualizaron los síntomas del TEA y la
+
+manera más general si estos trastornos se presentan con síntomas
+
+esquizofrenia relacionados con la mentalización insuficiente y excesiva
+
+similares.
+TDAH y autismo Panagiotidi, Overton y Staford (2017; véase
+también Kern, Geier, Sykes, Geier y Deth, 2015; Banaschewski et al.,
+
+(es decir, la capacidad para la teoría de la mente), respectivamente
+(ver también Abu­Akel y Bailey, 2000 ; Frith, 2004). En esta concepción,
+los pacientes con TEA subinterpretan las señales sociales, lo que lleva
+
+2005) investigaron rasgos concurrentes en el trastorno del espectro
+
+a un aislamiento social que posiblemente daría lugar a centrarse en las
+
+autista (TEA) y el TDAH. Evaluaron a 334 participantes sanos y
+
+cosas en lugar de en las personas, y los pacientes con esquizofrenia
+
+neurotípicos con dos cuestionarios de TDAH y dos cuestionarios de
+
+sobreinterpretan las señales sociales, lo que lleva a síntomas como
+
+TEA. Su hallazgo más relevante para nuestros propósitos fue una
+
+delirios paranoides, lo que se puede interpretar como un enfoque en
+
+correlación positiva moderada entre la subescala de cambio de atención
+
+las personas y sus intenciones. Langdon y Brock (2008), sin embargo,
+
+del cociente de autismo (AQ; Baron­Cohen, Wheelwright, Skinner,
+
+argumentaron que esta interpretación es incompleta ya que los
+
+Martin y Clubley 2001) y las subescalas de falta de atención de ambos
+
+pacientes con esquizofrenia en particular exhiben tanto una
+
+cuestionarios de TDAH (The Wender Utah escala de calificación y la
+
+mentalización excesiva como insuficiente. Además, utilizando una tarea
+
+escala de autoinforme del TDAH en adultos; Ward, Wender y Reimherr
+
+de juicio social, Stanfeld et al. (2017) demostraron que los déficits en
+
+1993; Kessler et al., 2005). Definieron el hiperfoco como “dificultades
+
+la cognición social en los TEA y la esquizofrenia están mediados por distintos correlato
+
+para desviar la atención entre tareas” y la inatención como “dificultad
+
+Por lo tanto, aunque se necesita investigación adicional para confrmar
+
+para mantener la atención”, sugiriendo que estos fenómenos se
+
+si un fenómeno como el hiperfoco se expresa a través de mecanismos
+
+reflejaron en los resultados del cuestionario. Sugirieron que el TDAH y
+
+similares en estos trastornos, no parece probable.
+
+el TEA pueden compartir una etiología común, y que la hiperconcentración
+
+¿Son lo mismo? Con base en la evidencia, proponemos que la
+
+y la falta de atención pueden estar relacionadas con un mecanismo
+
+versión de hiperenfoque descrita en esta revisión y, de manera más
+
+común. Por lo tanto, el TDAH y el autismo se presentan con síntomas
+
+general, en los informes anecdóticos, ocurre tanto en el TDAH como
+
+similares, que posiblemente incluyan una forma similar de hiperenfoque.
+
+en el autismo, aunque en el autismo el término a menudo se usa
+incorrectamente para referirse al comportamiento estereotipado y autoestimulante.
+La evidencia de hiperenfoque en la esquizofrenia es menos clara.
+
+TDAH y esquizofrenia La investigación ha demostrado que
+
+Aunque existe la llamada “teoría del hiperenfoque de la esquizofrenia”,
+
+El TDAH y la esquizofrenia se presentan con déficits cognitivos
+similares en las funciones ejecutivas y la función atencional
+
+proponemos que los efectos que han identifcado reflejan hipersalencia
+
+(Banaschewski et al., 2005). De hecho, las cohortes de TDAH y
+
+hiperenfoque en la literatura sobre esquizofrenia son pocas.
+
+en lugar de hiperenfoque. Aparte de estos estudios, las referencias al
+
+esquizofrenia se utilizan con frecuencia como grupos de control
+psiquiátrico entre sí. Sin embargo, no ha habido una comparación
+explícita de hiperenfoque en estos grupos. Dicho esto, es posible que
+tanto el TDAH como la esquizofrenia se presenten con una forma
+similar de hiperenfoque.
+
+Conclusiones
+
+Autismo y esquizofrenia Según Crespi y Bad cock (2008), “la
+psicosis y el autismo representan dos extremos en un espectro
+
+Esta revisión analizó el fenómeno bien conocido, pero poco investigado,
+
+cognitivo con la normalidad en el centro. Por lo tanto, la cognición
+
+del hiperenfoque, al que se hace referencia en la literatura sobre el
+
+social está subdesarrollada en el autismo, pero hiperdesarrollada
+
+TDAH, el autismo y la esquizofrenia. Hasta ahora, no ha habido una
+
+hasta la disfunción en la psicosis”. Estudios recientes han respaldado
+
+definición operativa clara de hiperenfoque, lo que lleva a una amplia
+
+esta explicación del espectro que muestra efectos atencionales
+
+gama de comportamientos que se denominan hiperenfoque. Para
+
+opuestos basados en la expresión relativa de autismo y psicosis en
+
+eliminar la confusión en el futuro, brindamos una definición clara y
+
+participantes sanos (Abu­Akel et al., 2016a, b, c, 2018) y en poblaciones
+
+comprobable de hiperenfoque que constaba de cuatro criterios: (1) para
+
+de pacientes (Abu Akel et al. ., 2018). Al comparar el cambio de
+
+participar en hiperenfoque, la tarea debe ser atractiva (es decir,
+
+conjuntos atencionales, Abu­Akel et al. (2018) demostraron que los
+
+divertida, interesante, importante, etc.).
+
+niños con autismo tenían dificultades con los cambios extradimensionales
+
+(2) La hiperconcentración se caracteriza por un intenso estado de
+
+y los niños con trastornos esquizotípicos tenían dificultades con los
+
+atención sostenida o selectiva. (3) Cuando se utiliza el hiperfoco, hay
+
+cambios intradimensionales. Basado en esto, parece poco probable
+
+una percepción disminuida de estímulos no relevantes para la tarea.
+
+que los pacientes con autismo y esquizofrenia exhiban una forma
+
+(4) Durante un estado de hiperconcentración, mejora el desempeño de
+
+similar de
+
+la tarea. Aunque esta definición puede cambiar a la luz de
+
+13
+
+Machine Translated by Google
+15
+
+Investigación psicológica (2021) 85: 1–19
+
+investigación futura, proporciona un punto de partida razonable
+para la investigación de este fenómeno. Además, propusimos y
+brindamos evidencia que respalda la noción de que el fenómeno
+de fujo es sinónimo de hiperenfoque. Por último, revisamos las
+referencias al hiperenfoque en la literatura psiquiátrica para
+determinar si encajan con nuestra definición recién establecida.
+Proponemos que el hiperfoco al que se hace referencia en la
+literatura sobre el TDAH y el autismo encaja con nuestra definición,
+pero el hiperfoco al que se hace referencia en la literatura sobre la
+esquizofrenia no.
+En total, el propósito de esta revisión fue llamar la atención
+sobre un fenómeno importante, pero generalmente olvidado o
+ignorado, que puede ser un elemento crítico en varios trastornos
+psiquiátricos. Esperamos que nuestra defnición operativa de
+hiperenfoque facilite el desarrollo de nuevos paradigmas de
+investigación que estén específicamente diseñados para evaluar el
+estado de hiperenfoque y los mecanismos subyacentes en
+poblaciones sanas y psiquiátricas. Una vía posiblemente fructífera
+para futuras investigaciones es explorar el potencial de la
+ludificación de los paradigmas de la psicología cognitiva combinados
+con evaluaciones del desempeño en el transcurso de la tarea (como
+en Esterman et al., 2012, 2014 ) . Esto puede permitir a los
+investigadores cumplir con los criterios necesarios para inducir
+estados de hiperconcentración, evaluar cuándo se produce un
+
+unión temporoparietal derecha. Neurociencia social, 12(5), 506– 518.
+https://doi.org/10.1080/17470919.2016.1190786.
+Abu­Akel, A., Apperly, IA, Wood, SJ, Hansen, PC y Mevorach, C. (2016c). Las
+tendencias de autismo y la propensión a la psicosis modulan
+activamente el costo de prominencia. Boletín de esquizofrenia, 43(1),
+142–151. https://doi.org/10.1093/schbul/sbw066.
+Abu­Akel, A. y Bailey, AL (2000). La posibilidad de diferentes formas de teoría
+del deterioro de la mente en los trastornos psiquiátricos y del desarrollo.
+Medicina Psicológica, 30, 735–738.
+Abu­Akel, A., Testa, RR, Jones, HP, Ross, N., Skafdas, E., Tonge, B. y Pantelis,
+C. (2018). Habilidades sociales y de cambio de configuración atencional
+en niños con trastornos del espectro autista esquizotípico y comórbido.
+Revista de psiquiatría de Australia y Nueva Zelanda, 52(1), 68–77.
+https://doi.org/10.1177/0004867417708610.
+Allison, BZ y Polich, J. (2008). Evaluación de la carga de trabajo de los juegos de
+computadora utilizando un paradigma potencial relacionado con un evento de estímulo único.
+
+Psicología biológica, 77(3), 277–283. https://doi.org/10.1016/j.
+biopsico.2007.10.014.
+Asociacion Americana de Psicologia. (2013). Manual Diagnóstico y Estadístico
+de los Trastornos Mentales (5ª ed.). Washington, DC: Asociación
+Americana de Psicología.
+Andreasen, Carolina del Norte (1989). Escala para la valoración de síntomas
+negativos (SANS). The British Journal of Psychiatry, 155 (Suplemento
+7), 53–58.
+Banaschewski, T., Hollis, C., Oosterlaan, J., Roeyers, H., Rubia, K., Willcutt, E.
+y Taylor, E. (2005). Hacia una comprensión de vías únicas y compartidas
+en la psicopatofisiología del TDAH. Ciencias del desarrollo, 8(2), 132–
+140. https://doi.org/ 10.1111/j.1467­7687.2005.00400.x.
+Baron­Cohen, S., Wheelwright, S., Skinner, R., Martin, J. y Clubley, E. (2001).
+
+El cociente
+espectro de
+autista
+(AQ): Evidencia del síndrome de
+estado de hiperconcentración en el tiempo y medir el rendimiento cognitivo durante
+estosdelperíodos
+tiempo.
+Agradecimientos Los autores desean agradecer a Carmel Mevorach, quien
+brindó útiles comentarios sobre un borrador inicial de este manuscrito.
+Brandon K. Ashinof cuenta actualmente con el apoyo de una beca posdoctoral
+T32 (T32­MH018870) en la Universidad de Columbia.
+
+Cumplimiento de normas éticas
+Conflicto de intereses Los autores BKA y AA declaran no tener ningún conflicto
+de intereses.
+Aprobación ética Este artículo no contiene estudios con participantes humanos
+o animales realizados por ninguno de los autores.
+
+Acceso abierto Este artículo se distribuye bajo los términos de Creative
+Commons Attribution 4.0 International License (http://creativeco mmons.org/
+licenses/by/4.0/), que permite el uso, la distribución y la reproducción sin
+restricciones en cualquier medio, siempre que otorgue el crédito correspondiente
+al autor o autores originales y la fuente, proporcione un enlace a la licencia
+Creative Commons e indique si se realizaron cambios.
+
+Referencias
+Abu­Akel, A., Apperly, I., Spaniol, M., Geng, J. y Mevorach, C. (2016a).
+Beneficios dados por el contexto: selección basada en prominencia en
+función de los rasgos de autismo y psicosis. Revista de Visión, 16(12),
+16. https://doi.org/10.1167/16.12.16.
+Abu­Akel, AM, Apperly, IA, Wood, SJ y Hansen, PC (2016b).
+Las expresiones de autismo y psicosis modulan diametralmente la
+
+Asperger/autismo de alto funcionamiento, hombres y mujeres, científicos
+y matemáticos. Revista de autismo y trastornos mentales del desarrollo,
+31(1), 5–17. https://doi.org/10.1023/A:10056 53411471.
+Beck, V., Leonard, C., Robinson, B., Hahn, B., Hollingworth, A., Gold, J. y Luck,
+S. (2016). Las personas con esquizofrenia demuestran una búsqueda
+visual guiada por características más óptima en una tarea de búsqueda
+probabilística. Revista de Visión, 16(12), 338.
+Bombaci, N. (2012). Realizar la ceguera mental: el ethos autista del modernismo
+de Gertrude Stein. Revista de Estudios de Género, 21(2), 133–150.
+https://doi.org/10.1080/09589236.2012.661567.
+Brady, DI, Saklofske, DH, Schwean, VL, Montgomery, JM, Thorne, KJ y
+McCrimmon, AW (2017). Funciones ejecutivas en adultos jóvenes con
+trastorno del espectro autista. Enfoque en el autismo y otras
+discapacidades del desarrollo, 32(1), 31–43. https://doi. org/
+10.1177/1088357615609306.
+Marrón, SO (1985). Percepción del tiempo y atención: los efectos de los
+paradigmas prospectivos versus retrospectivos y las demandas de
+tareas en la duración percibida. Percepción y Psicofísica, 38(2), 115–
+124. https://doi.org/10.3758/BF03198848.
+Marrón, TE (2005). Trastorno por déficit de atención: La mente desenfocada
+en niños y adultos. Prensa de la Universidad de Yale.
+Carrasco, M., Giordano, AM y McElree, B. (2006). La atención acelera el
+procesamiento a través de la excentricidad: búsquedas de características
+y conjunciones. Investigación de la visión, 46(13), 2028–2040. https://
+doi. org/10.1016/j.visres.2005.12.015.
+Carrasco, M. y McElree, B. (2001). La atención encubierta acelera la tasa de
+procesamiento de la información visual. Actas de la Academia Nacional
+de Ciencias, 98(9), 5363–5367. https://doi. org/10.1073/pnas.081074098.
+Carver, JM (2009). Trastorno por Déficit de Atención con Hiperactividad (TDAH).
+Consultado el 29 de marzo (2009), 851–854.
+Casey, BJ, Gordon, CT, Mannheim, GB y Rumsey, JM (2008).
+Atención disfuncional en sabios autistas. Revista de Neuropsicología
+Clínica y Experimental, 15(6), 933–946.
+
+13
+
+Machine Translated by Google
+Investigación psicológica (2021) 85: 1–19
+
+dieciséis
+
+Castellanos, FX y Elmaghrabi, SE (2017). En el camino hacia los modelos
+fisiológicos de la función cerebral en el TDAH. The American Journal of
+Psychiatry, 174(9), 825–826. https://doi.org/10.1176/appi. ajp.2017.17060667.
+
+fuctuaciones durante la atención sostenida. Corteza cerebral, 23(11), 2712–
+2723. https://doi.org/10.1093/cercar/bhs261.
+Esterman, M., Rosenberg, MD y Noonan, SK (2014). Fuctuaciones intrínsecas en
+la atención sostenida y el procesamiento de distractores. Revista de
+
+Castellanos, FX, Sonuga­Barke, EJS, Milham, MP y Tannock, R. (2006).
+Caracterización de la cognición en el TDAH: más allá de la disfunción
+ejecutiva. Tendencias en Ciencias Cognitivas, 10(3), 117–123. https://
+doi.org/10.1016/j.tics.2006.01.011 .
+Castellar, E. P. N., Antons, J.­N., Marinazzo, D., & Looy, J. V. (2019).
+Mapeo de la atención durante el juego: evaluación de marcadores de
+
+neurociencia, 34 (5), 1724–1730. https://doi. org/10.1523/
+JNEUROSCI.2658­13.2014.
+Fassbender, C., Scangos, K., Lesh, TA y Carter, CS (2014). Análisis de distribución
+RT de la actividad cerebral relacionada con el control cognitivo en el primer
+episodio de esquizofrenia. Cognitive, Afective, & Behavio ral Neuroscience,
+14(1), 175–188. https://doi.org/10.3758/s1341 5­014­0252­4.
+
+comportamiento y ERP en una tarea auditiva extraña. Psicofisiología,
+56(7), e13347. https://doi.org/10.1111/psyp.13347.
+Clark, KP (2016). Percepciones de los maestros de educación general secundaria
+sobre los desafíos para la inclusión de estudiantes con autismo (Ed.).
+Minnesota: Universidad de Walden. Obtenido de https://search
+h.proquest.com/docview/1811952056/abstract/8E280F25C2 3441C6PQ/1.
+
+Faustman, WO y Overall, JE (1999). Escala Breve de Valoración Psiquiátrica. El
+uso de pruebas psicológicas para la planificación del tratamiento y la
+evaluación de los resultados (2ª ed., págs. 791–830). Mahwah: Lawrence
+Erlbaum Associates Publishers.
+Fein, E. (2015). Creando mundos significativos: subculturas de juego de roles y el
+espectro del autismo. Cultura, Medicina y Psiquiatría, 39(2), 299–321.
+
+Cohen, MA, Cavanagh, P., Chun, MM y Nakayama, K. (2012).
+Los requerimientos atencionales de la conciencia. Trends in Cog nitive
+Sciences, 16(8), 411–417. https://doi.org/10.1016/j. tics.2012.06.013.
+Conner, ML (1994). Trastorno por déficit de atención en niños y adultos: Estrategias
+para educadores experienciales. Obtenido de https://eric. ed.gov/?
+id=ED377013.
+Crespi, B. y Badcock, C. (2008). Psicosis y autismo como trastornos diametrales
+del cerebro social. Ciencias del comportamiento y del cerebro, 31(03), 241–
+261. https://doi.org/10.1017/S0140525X08004214.
+Grupo de Trastornos Cruzados del Consorcio de Genómica Psiquiátrica.
+(2013). Relación genética entre cinco trastornos psiquiátricos estimados a
+partir de SNP de todo el genoma. Genética de la naturaleza, 45, 984.
+Csikszentmihalyi, M. (1975). Más allá del aburrimiento y la ansiedad. Tonelada
+
+https://doi.org/10.1007/s11013­015­9443­x.
+Fischer, R., Plessow, F., Dreisbach, G. y Goschke, T. (2014). Diferencias
+individuales en el reclutamiento dependiente del contexto del control
+cognitivo: Evidencia de la acción frente al estado de orientación. Diario de
+la personalidad. https://doi.org/10.1111/jopy.12140.
+Flanagan, EH, Solomon, LA, Johnson, A., Ridgway, P., Strauss, J.
+S. y Davidson, L. (2012). Considerando el DSM­5: La experiencia personal
+de la esquizofrenia en relación con los criterios del DSM­IV­TR. Psiquiatría:
+procesos interpersonales y biológicos, 75(4), 375–386. https://doi.org/
+10.1521/psyc.2012.75.4.375.
+Fortenbaugh, FC, DeGutis, J., Germine, L., Wilmer, JB, Grosso, M., Russo, K. y
+Esterman, M. (2015). Atención sostenida a lo largo de la vida en una
+muestra de 10.000: habilidad y estrategia de disociación. Ciencia
+psicológica, 26 (9), 1497–1510. https://doi.org/10.1177/0956797615594896.
+
+de lavado: Jossey­Bass Publishers.
+la vida cotidiana. Libros básicos. Obtenido de http://books.google.co.uk/
+
+Frith, CD (2004). Esquizofrenia y teoría de la mente. Psicológico
+Medicina, 34(3), 385–389.
+
+books?hl=en&lr=&id=HBod fUzmB cC&oi=fnd&pg=PP11&dq=Csiks zentm
+
+Geurts, HM, Corbett, B. y Solomon, M. (2009). La paradoja de la flexibilidad
+
+Csikszentmihalyi, M. (1997). Encontrar el flujo: la psicología del compromiso con
+
+ihaly i,+M.+(1997).+Finding+Flow:+The
++Psicología+del+compromiso+con+la+vida+cotidiana.
++Libros+básicos.&ots=V_3l3My PZG&sig=vzcj1bISYReEdc_tdLMrd81gtWg.
+
+cognitiva en el autismo. Tendencias en Ciencias Cognitivas, 13(2), 74–82.
+https://doi.org/10.1016/j.tics.2008.11.006.
+Gilbert, SJ, Bird, G., Brindley, R., Frith, CD y Burgess, PW
+(2008). Reclutamiento atípico de la corteza prefrontal medial en los
+
+Csikszentmihalyi, M. (2000). Más allá del aburrimiento y la ansiedad. Jossey
+Bass. Obtenido de http://psycnet.apa.org/psycinfo/2000­12701­000 .
+D'Cruz, A.­M., Mosconi, MW, Ragozzino, ME, Cook, EH y Sweeney, JA (2016).
+
+trastornos del espectro autista: un estudio de fMRI de dos tareas de
+funciones ejecutivas. Neuropsicología, 46(9), 2281–2291. https://doi.org/
+10.1016/j.neuropsychologia.2008.03.025 .
+Gomot, M., Bernard, FA, Davis, MH, Belmonte, MK, Ashwin, C., Bullmore, ET y
+
+Alteraciones en el circuito neuronal funcional que respalda el
+
+Baron­Cohen, S. (2006). Detección de cambios en niños con autismo: un
+
+comportamiento de elección flexible en los trastornos del espectro autista.
+
+estudio de fMRI relacionado con eventos auditivos. NeuroImagen, 29(2),
+
+Psiquiatría traslacional, 6(10), e916. https://doi. org/10.1038/tp.2016.161.
+
+475–484. https://doi.org/10.1016/j. neuroimagen.2005.07.027.
+
+Dehaene, S., Changeux, J.­P., Naccache, L., Sackur, J. y Sergent, C.
+(2006). Procesamiento consciente, preconsciente y subliminal: una
+
+Goodwin, TB y Oberacker, H. (2011). Navegando por el TDAH: su guía para la
+otra cara del TDAH. Bloomington, Indiana: Author House.
+
+taxonomía comprobable. Tendencias en Ciencias Cognitivas, 10(5), 204–
+211. https://doi.org/10.1016/j.tics.2006.03.007.
+Dietrich, A. (2004). Mecanismos neurocognitivos que subyacen a la experiencia
+de fow. Conciencia y cognición, 13(4), 746–761. https://doi.org/10.1016/
+j.concog.2004.07.002.
+Dux, PE y Marois, R. (2009). El parpadeo atencional: una revisión de datos y
+teoría. Atención, Percepción y Psicofísica, 71(8), 1683–1700. https://doi.org/
+10.3758/APP.71.8.1683.
+Engeser, S. y Rheinberg, F. (2008). Flujo, desempeño y moderadores del
+equilibrio desafío­habilidad. Motivación y Emoción, 32(3), 158–172. https://
+doi.org/10.1007/s11031­008­9102­4.
+Elahipanah, A., Christensen, BK y Reingold, EM (2011). Controlando el centro de
+
+Gray, BE, Hahn, B., Robinson, B., Harvey, A., Leonard, CJ, Luck, SJ y Gold, JM
+(2014). Relaciones entre la atención dividida y el deterioro de la memoria
+de trabajo en personas con esquizofrenia. Boletín de esquizofrenia, 40(6),
+1462–1471. https://doi.org/10.1093/schbul/sbu015.
+Grubb, MA, Behrmann, M., Egan, R., Minshew, NJ, Carrasco, M. y Heeger, DJ
+(2013a). Atención espacial endógena: evidencia de funcionamiento intacto
+en adultos con autismo. Investigación sobre el autismo, 6(2), 108–118.
+https://doi.org/10.1002/aur.1269.
+Grubb, MA, Behrmann, M., Egan, R., Minshew, NJ, Heeger, DJ y Carrasco, M.
+(2013b). Atención espacial exógena: Evidencia de funcionamiento intacto
+
+atención de la atención: tamaño del alcance visual y flexibilidad en la
+
+en adultos con trastorno del espectro autista. Journal of Vision, 13(14), 9.
+
+esquizofrenia. Neuropsicología, 49(12), 3370–3376.
+
+https://doi. org/10.1167/13.14.9.
+
+Esterman, M., Noonan, SK, Rosenberg, M. y DeGutis, J. (2012).
+¿En la zona o zonificando? Seguimiento conductual y neuronal
+
+Gruzelier, J. y Raine, A. (1994). Actividad electrodérmica bilateral y mecanismos
+cerebrales en síndromes de esquizofrenia y el
+
+13
+
+Machine Translated by Google
+17
+
+Investigación psicológica (2021) 85: 1–19
+personalidad esquizotípica. Revista Internacional de Psicofisiología,
+16(1), 1–16.
+Hahn, B., Robinson, BM, Harvey, AN, Kaiser, ST, Leonard, CJ, Luck, SJ y Gold
+JM (2012). Atención visuoespacial en la esquizofrenia: deficiencias en
+el seguimiento amplio. Journal of Abnormal Psychology, 121(1), 119–
+128. https://doi.org/10.1037/a0023938.
+Hahn, B., Harvey, AN, Gold, JM, Fischer, BA, Keller, WR, Ross, TJ y Stein, EA
+(2016). Hiperdesactivación de la red de modo por defecto en personas
+con Esquizofrenia al centrar la atención en el espacio. Boletín de
+esquizofrenia, 42(5), 1158–1166. https://doi.org/10.1093/schbul/sbw019.
+Hill, EL y Bird, CM (2006). Procesos ejecutivos en el síndrome de Asperger:
+patrones de desempeño en una serie de casos múltiples.
+Neuropsicología, 44(14), 2822–2835. https://doi.org/10.1016/j.
+neuropsicologia.2006.06.007.
+Hoekzema, E., Carmona, S., Ramos­Quiroga, JA, Richarte Fernán dez, V.,
+Bosch, R., Soliva, JC, & Vilarroya, O. (2014). Un análisis de conectividad
+funcional y componentes independientes de los datos de IRMf en estado
+de reposo apunta a una desregulación de la red neuronal en el TDAH
+en adultos. Mapeo del cerebro humano, 35(4), 1261–1272. https://doi.org/
+10.1002/hbm.22250 .
+Hupfeld, KE, Abagis, TR y Shah, P. (2019). ADHD Atten Def Hyp Disord 11,
+191. https://doi.org/10.1007/s12402­018­0272­y.
+Isomura, T., Ogawa, S., Shibasaki, M. y Masataka, N. (2015). Retraso en la
+desconexión de la atención de las serpientes en niños con autismo.
+Psicología del desarrollo, 6, 241. https://doi.org/10.3389/fpsyg.2015.00241 .
+Jin, S.­AA (2012). "Hacia modelos integradores de flujo": Efectos de rendimiento,
+habilidad, desafío, alegría y presencia en flujo en videojuegos. Revista
+de Radiodifusión y Medios Electrónicos, 56(2), 169–186. https://doi.org/
+10.1080/08838151.2012.678516.
+Kahl, KG y Wahl, K. (2006). Una nueva comprensión de los trastornos por
+déficit de atención, más allá del criterio de edad de inicio del DSM­IV.
+Archivos Europeos de Psiquiatría y Neurociencia Clínica, 256(1), i47–i54.
+
+uso en la población general. Medicina Psicológica, 35(2), 245–256.
+Kessler, RC, Adler, L., Barkley, R., Biederman, J., Conners, CK, Demler, O.,
+Faraone, SV, Greenhill, LL, Howes, MJ, Secnik, K., Spencer, T. , Ustun,
+TB, Walters, EE y Zaslavsky, AM (2006). La prevalencia y los correlatos
+del TDAH en adultos en los Estados Unidos: resultados de la réplica de
+la encuesta nacional de comorbilidad. Revista estadounidense de
+psiquiatría, 163(4), 716–723.
+Klasen, M., Weber, R., Kircher, TTJ, Mathiak, KA y Mathiak, K. (2012).
+Contribuciones neuronales a la experiencia de flujo durante la
+reproducción de videojuegos. Neurociencia cognitiva y afectiva social,
+7(4), 485–495. https://doi.org/10.1093/scan/nsr021.
+Koch, C. y Tsuchiya, N. (2007). Atención y conciencia: dos procesos cerebrales
+distintos. Tendencias en Ciencias Cognitivas, 11(1), 16–22. https://
+doi.org/10.1016/j.tics.2006.10.012.
+Kornell, N., Rhodes, MG, Castel, AD y Tauber, SK (2011). La heurística de
+facilidad de procesamiento y el sesgo de estabilidad que disocian la
+memoria, las creencias de memoria y los juicios de memoria.
+Psychologic cal Science, 22(6), 787–794. https://doi.org/
+10.1177/0956797611 407929.
+Kreither, J., Lopez­Calderon, J., Leonard, CJ, Robinson, BM, Rufe, A., Hahn,
+B. y Luck, SJ (2017). Evidencia electrofisiológica del hiperenfoque de la
+atención espacial en la esquizofrenia. Revista de Neurociencia, 37(14),
+3813–3823. https://doi. org/10.1523/JNEUROSCI.3221­16.2017.
+Kucyi, A., Hove, MJ, Esterman, M., Hutchison, RM y Valera, E.
+M. (2017). La red cerebral dinámica se correlaciona con las fuctuaciones
+espontáneas en la atención. Corteza cerebral, 27(3), 1831–1840. https://
+doi.org/10.1093/cercor/bhw029.
+Lamme, VAF (2003). Por qué la atención visual y la conciencia son diferentes.
+Tendencias en Ciencias Cognitivas, 7(1), 12–18. https://doi. org/10.1016/
+S1364­6613(02)00013­X.
+Langdon, R. y Brock, J. (2008). Hipo­ o hiper­mentalización: Todo depende de
+lo que se entienda por “mentalizar”. Ciencias del comportamiento y del
+cerebro, 31(3), 274–275. https://doi.org/10.1017/S0140 525X08004354.
+
+Keehn, B., Westerfeld, M., Müller, R.­A. y Townsend, J. (2017).
+Autismo, atención y oscilaciones alfa: un estudio electrofisiológico de la
+captura atencional. Psiquiatría biológica: neurociencia cognitiva y
+neuroimagen, 2(6), 528–536. https://doi. org/10.1016/j.bpsc.2017.06.006.
+
+Lavie, N. (1995). La carga perceptiva como condición necesaria para la atención
+selectiva. Journal of Experimental Psychology: Human perception and
+performance, 21(3), 451–468.
+Lavie, N. y Tsal, Y. (1994). La carga perceptiva como principal determinante
+del lugar de selección en la atención visual. Percepción y Psicofísica,
+56(2), 183–197. https://doi.org/10.3758/BF03213897.
+Leonard, CJ, Kaiser, ST, Robinson, BM, Kappenman, ES, Hahn, B., Gold, JM
+y Luck, SJ (2013). Hacia los mecanismos neurales de la capacidad de
+
+Keller, J. y Bless, H. (2008). Flujo y compatibilidad regulatoria: un enfoque
+experimental del modelo de flujo de motivación intrínseca.
+Boletín de Personalidad y Psicología Social, 34(2), 196–209. https://
+doi.org/10.1177/0146167207310026.
+memoria de trabajo reducida en la esquizofrenia. Corteza cerebral.
+Keller, J., Bless, H., Blomann, F. y Kleinböhl, D. (2011). Aspectos fisiológicos
+https://doi.org/10.1093/cercar/bhs148.
+de las experiencias de fow: efectos de compatibilidad de demanda de
+Linnell, KJ, Bremner, AJ, Caparos, S., Davidof, J. y de Fockert, JW (2018). La
+habilidades en la variabilidad del ritmo cardíaco y el cortisol salival.
+experiencia urbana altera la percepción de la luminosidad.
+Revista de Psicología Social Experimental, 47(4), 849–852.
+Revista de psicología experimental: percepción y rendimiento humanos,
+Keller, J., Ringelhan, S. y Blomann, F. (2011). ¿La compatibilidad habilidades­
+44 (1), 2–6. https://doi.org/10.1037/xhp0000498.
+demandas da como resultado una motivación intrínseca? Prueba
+Linnell, KJ y Caparos, S. (2013). Carga perceptual y selección temprana: ¿un
+experimental de una noción básica propuesta en la teoría de las fu­experiencias.
+efecto del compromiso atencional? Frontiers in Psychol ogy, 4, 498.
+La Revista de Psicología Positiva, 6(5), 408–417. https://doi. org/
+https://doi.org/10.3389/fpsyg.2013.00498.
+10.1080/17439760.2011.604041.
+Linnell, KJ, Caparos, S., de Fockert, JW y Davidof, J. (2013).
+Kelly, AMC, Margulies, DS y Castellanos, FX (2007).
+La urbanización disminuye el compromiso atencional. Revista de
+Avances recientes en estudios de imágenes cerebrales estructurales y
+psicología experimental: percepción y rendimiento humanos, 39 (5),
+funcionales del trastorno por déficit de atención/hiperactividad. Informes
+1232–1247. https://doi.org/10.1037/a0031139.
+actuales de psiquiatría, 9(5), 401–407. https://doi.org/10.1007/s1192
+0­007­0052­4.
+López, BR, Lincoln, AJ, Ozonof, S. y Lai, Z. (2005). Examinar la relación entre
+las funciones ejecutivas y los síntomas restringidos y repetitivos del
+Kern, JK, Geier, DA, Sykes, LK, Geier, MR y Deth, R.
+trastorno autista. Revista de autismo y trastornos del desarrollo, 35(4),
+C. (2015). ¿Son el TEA y el TDAH un continuo? Una comparación de
+445–460. https://doi. org/10.1007/s10803­005­5035­x.
+similitudes fisiopatológicas entre los trastornos.
+Revista de trastornos de la atención, 19(9), 805–827. https://doi. org/
+10.1177/1087054712459886.
+Kessler, RC, Adler, L., Ames, M., Demler, O., Faraone, S., Hiripi, E. y Walters,
+EE (2005). Escala de autoinforme de TDAH en adultos (ASRS) de la
+Organización Mundial de la Salud: una escala breve de detección para
+
+López, SJ y Snyder, CR (2009). El Manual de Oxford de Psicología Positiva.
+Oxford: Prensa de la Universidad de Oxford.
+Luck, SJ, Hahn, B., Leonard, CJ y Gold, JM (2019). La hipótesis del
+hiperenfoque: una nueva explicación de la disfunción cognitiva en
+
+13
+
+Machine Translated by Google
+18
+
+Investigación psicológica (2021) 85: 1–19
+Esquizofrenia. Boletín de esquizofrenia. https://doi.org/10.1093/schbul/
+sbz063 .
+
+Luck, SJ, McClenon, C., Beck, VM, Hollingworth, A., Leonard, CJ, Hahn, B. y
+Gold, JM (2014). Hiperenfoque en la esquizofrenia: evidencia de las
+interacciones entre la memoria de trabajo y los movimientos oculares.
+Revista de Psicología Anormal, 123(4), 783–795. https://doi.org/10.1037/
+abn0000003.
+Makovski, T., Hommel, B. y Humphreys, G. (2014). Selección temprana y
+tardía: efectos de carga, dilución y prominencia. Frontiers in Psychology,
+5, 248. https://doi.org/10.3389/fpsyg.2014.00248.
+Mayes, S. (2014). Diagnóstico de autismo con lista de verificación para el
+trastorno del espectro autista (CASD). En VB Patel, VR Preedy y CR
+Martin (Eds.), Guía completa para el autismo (págs.
+285–298). Nueva York: Springer. Obtenido de https://doi. org/
+10.1007/978­1­4614­4788­7_11.
+Mayes, SD, Calhoun, SL, Murray, MJ, Ahuja, M. y Smith, L.
+R. (2011). Ansiedad, depresión e irritabilidad en niños con autismo en
+relación con otros trastornos neuropsiquiátricos y desarrollo típico.
+Investigación en trastornos del espectro autista, 5(1), 474–485. https://
+doi.org/10.1016/j.rasd.2010.06.012.
+Meilleur, A.­AS, Jelenic, P. y Mottron, L. (2014). Prevalencia de talentos y
+fortalezas definidos clínica y empíricamente en el autismo.
+Revista de autismo y trastornos del desarrollo. https://doi. org/10.1007/
+s10803­014­2296­2.
+Milich, R., Balentine, AC y Lynam, DR (2001). El TDAH de tipo combinado y el
+TDAH de tipo predominantemente inatento son trastornos distintos y no
+relacionados. Psicología clínica: ciencia y práctica, 8(4), 463–488. https://
+doi.org/10.1093/clipsy.8.4.463.
+Morgan, MJ, Melmoth, D. y Solomon, JA (2013). Vinculación de hipótesis
+subyacentes a los métodos de Clase A y Clase B. Visual Neuroscience,
+30(5–6), 197–206. https://doi.org/10.1017/S095252381 300045X.
+Murphy, G., Groeger, JA y Greene, CM (2016). Veinte años de teoría de la
+carga: ¿dónde estamos ahora y hacia dónde debemos ir ahora?
+Psychonomic Bulletin & Review, 23(5), 1316–1340. https://doi. org/
+10.3758/s13423­015­0982­5.
+Nakamura, J. y Csikszentmihalyi, M. (2002). El concepto de flujo. En CR
+Snyder & SJ Lopez (Eds.), Manual de psicología positiva (págs. 89–
+105). Nueva York, NY, EE. UU.: Oxford University Press.
+Nakamura, J y Csikszentmihalyi, M. (2009). Teoría e investigación del flujo. En
+Oxford Handbook of Positive Psychology (2ª ed., págs. 195–206).
+Oxford: Prensa de la Universidad de Oxford.
+Noguchi, Y., Tanabe, HC, Sadato, N., Hoshiyama, M. y Kakigi, R. (2007). La
+atención voluntaria cambia la velocidad del procesamiento neuronal
+perceptivo. Revista Europea de Neurociencia, 25(10), 3163–3172.
+https://doi.org/10.1111/j.1460­9568.2007.05552.x.
+Ozel­Kizil, E., Demirbas, H., Bastug, G., Kirici, S., Tathan, E., Kasmer, N. y
+Baskak, B. (2013). Pág. 7. b. 012 Escala para la valoración del
+hiperfocusing en el trastorno por déficit de atención e hiperactividad.
+Neuropsicofarmacología europea, 23 (Suplemento 2).
+Obtenido de http://yadda.icm.edu.pl/yadda/element/bwmet
+a1.element.elsevier­642fc531­d358­3cd1­a4c8­338e569e3389.
+Ozel­Kizil, ET, Kokurcan, A., Aksoy, UM, Biçer­Kanat, B., Sakarya, D., Bastug,
+G. y Oncü, B. (2014). El hiperenfoque como una dimensión del TDAH
+en adultos. Armacología europea de Neuropsychop, 24, S707–S708.
+https://doi.org/10.1016/S0924­977X(14)71141­1.
+Ozel­Kizil, ET, Kokurcan, A., Aksoy, UM, Kanat, BB, Sakarya, D., Bastug, G. y
+Oncu, B. (2016). El hiperenfoque como una dimensión del trastorno
+por déficit de atención con hiperactividad en adultos. Investigación en
+Discapacidades del Desarrollo, 59, 351–358. https://doi. org/10.1016/
+j.ridd.2016.09.016.
+Panagiotidi, M., Overton, PG y Staford, T. (2017). Co­ocurrencia de rasgos
+ASD y ADHD en una población adulta. Revista de Trastornos de la
+Atención. https://doi.org/10.1177/1087054717720720.
+
+13
+
+Poldrack, RA (2006). ¿Se pueden inferir procesos cognitivos a partir de datos
+de neuroimagen? Tendencias en Ciencias Cognitivas, 10(2), 59–63.
+https://doi.org/10.1016/j.tics.2005.12.004.
+Poldrack, RA (2011). Inferir estados mentales a partir de datos de neuroimagen:
+de la inferencia inversa a la decodificación a gran escala. Neurona,
+72(5), 692–697. https://doi.org/10.1016/j.neuron.2011.11.001.
+Posner, MI y Dehaene, S. (1994). Redes atencionales. Tendencias en
+Neurociencias, 17(2), 75–79.
+Prentky, RA (2001). La enfermedad mental y las raíces del genio. Revista de
+investigación de creatividad, 13 (1), 95–104. https://doi.org/10.1207/
+S1532 6934CRJ1301_11.
+Querne, L., Fall, S., Le Moing, A.­G., Bourel­Ponchel, E., Delignières, A.,
+Simonnot, A. y Berquin, P. (2014). Efectos de la fecha de metilfeni en
+la sincronización de red de modo predeterminado/red de tarea positiva
+en niños con TDAH. Revista de Trastornos de la Atención. https://doi.org/
+10.1177/1087054713517542.
+Raymond, JE, Shapiro, KL y Arnell, KM (1992). Supresión temporal del
+procesamiento visual en una tarea de RSVP: ¿un parpadeo de atención?
+Revista de psicología experimental: percepción y rendimiento humanos,
+18 (3), 849–860.
+Raz, A. y Buhle, J. (2006). Tipologías de redes atencionales. Nature Reviews
+Neuroscience, 7(5), 367–379. https://doi.org/10.1038/nrn1903 .
+Reber, R., Schwarz, N. y Winkielman, P. (2004). Fuente de procesamiento y
+placer estético: ¿Está la belleza en la experiencia de procesamiento del
+perceptor? Revista de personalidad y psicología social, 8(4), 364–382.
+https://doi.org/10.1207/s15327957pspr0804_3.
+Rheinberg, F., Engeser, S. y Vollmeyer, R. (2002). Medición de los
+componentes del fujo: El flujo a pequeña escala. En Actas de la 1ra
+Cumbre Internacional de Psicología Positiva. Obtenido de http://
+scholar.google.com/scholar?cluster=844753878059856
+4672&hl=en&oi=scholarr.
+Rico, GJ (2013). Finding fow: La historia y el futuro de un concepto de
+psicología positiva. En JD Sinnott (Ed.), Positive Psychology (págs. 43–
+60). Nueva York: Springer. Obtenido de https://doi. org/
+10.1007/978­1­4614­7282­7_4.
+Roberts, W. y Milich, R. (2013). Examen de los cambios en el TDAH en el
+DSM­5: un paso adelante y dos pasos atrás. Informe sobre el TDAH,
+21(4), 1–6.
+Roberts, BA, Martel, MM y Nigg, JT (2017). ¿Existen subtipos de disfunción
+ejecutiva dentro del TDAH? Revista de Trastornos de la Atención, 21(4),
+284–293. https://doi.org/10.1177/1087054713 510349.
+Roberts, M., Ashinof, BK, Castellanos, FX y Carrasco, M.
+(2018). Cuando la atención está intacta en adultos con TDAH. Psycho
+nomic Bulletin & Review, 25(4), 1423–1434.
+Sawaki, R., Kreither, J., Leonard, CJ, Kaiser, ST, Hahn, B., Gold, JM y Luck,
+SJ (2017). Hiperconcentración de la atención en la información
+relacionada con el objetivo en la esquizofrenia: Evidencia de la
+electrofisiología. Revista de Psicología Anormal, 126(1), 106–116. https://
+doi.org/10.1037/abn0000209.
+Schecklmann, M., Ehlis, A.­C., Plichta, MM, Romanos, J., Heine, M., Boreatti­
+Hümmer, A. y Fallgatter, AJ (2008). Oxigenación prefrontal disminuida
+con rendimiento de fuencia verbal normal y por encima del promedio en
+adultos con TDAH. Revista de Investigación Psiquiátrica, 43(2), 98–106.
+https://doi.org/10.1016/j.jpsychires .2008.02.005.
+Scheres, A., Milham, MP, Knutson, B. y Castellanos, FX (2007).
+Hiposensibilidad del estriado ventral durante la anticipación de la
+recompensa en el trastorno por déficit de atención/hiperactividad.
+Psiquiatría biológica, 61(5), 720–724. https://doi.org/10.1016/j.biopsych.2006.04.042.
+Alumno, J. (2007). Activación de la experiencia de flujo en un entorno de
+aprendizaje y sus efectos en el rendimiento y el afecto del examen.
+Revista de Psicología Educativa, 21(3), 217­227. https://doi. org/
+10.1024/1010­0652.21.3.217.
+
+Machine Translated by Google
+19
+
+Investigación psicológica (2021) 85: 1–19
+Seligman, ME y Csikszentmihalyi, M. (2000). Psicología positiva: una
+introducción (Vol. 55). Asociacion Americana de Psicologia.
+Obtenido de http://psycnet.apa.org/journals/amp/55/1/5/.
+Seligman, ME, Steen, TA, Park, N. y Peterson, C. (2005). Progreso de la
+psicología positiva: Validación empírica de intervenciones.
+Psicólogo estadounidense, 60(5), 410.
+Shafritz, KM, Dichter, GS, Baranek, GT y Belger, A. (2008).
+El circuito neuronal que media los cambios en la respuesta conductual
+y el conjunto cognitivo en el autismo. Psiquiatría biológica, 63(10), 974–
+980. https://doi.org/10.1016/j.biopsych.2007.06.028.
+Shapiro, KL, Hanslmayr, S., Enns, JT y Lleras, A. (2017). Alfa, beta: El ritmo
+del parpadeo atencional. Psychonomic Bulletin & Review, 24(6), 1862–
+1869. https://doi.org/10.3758/s1342 3­017­1257­0.
+Simons, DJ (2000). Captura atencional y ceguera por falta de atención.
+Tendencias en Ciencias Cognitivas, 4(4), 147–155. https://doi. org/
+10.1016/S1364­6613(00)01455­8.
+Simons, DJ y Chabris, CF (1999). Gorilas entre nosotros: Ceguera sostenida
+por falta de atención para eventos dinámicos. Percepción, 28(9), 1059–
+1074. https://doi.org/10.1068/p281059.
+Sisti, D., Rocchi, MBL, Siddi, S., Mura, T., Manca, S., Preti, A. y Petretto, DR
+(2012). La preocupación y la angustia son dimensiones relevantes en
+las creencias delirantes. Psiquiatría Integral, 53(7), 1039–1043. https://
+doi.org/10.1016/j.compp sych.2012.02.005.
+Sklar, RH (2013). Hiperfoco en adultos con TDAH: un estudio EEG de las
+diferencias en la actividad cortical en estados de reposo y activación
+(Tesis). Obtenido de http://ujdigispace.uj.ac.za/handle/10210/8640.
+South, M., Ozonof, S. y Mcmahon, WM (2007). La relación entre el
+funcionamiento ejecutivo, la coherencia central y los comportamientos
+repetitivos en el espectro del autismo de alto funcionamiento. Autismo,
+11(5), 437–451. https://doi.org/10.1177/1362361307079606.
+Speechley, WJ, Whitman, JC y Woodward, TS (2010). La contribución de la
+hipersaliencia al sesgo de "saltar a conclusiones" asociado con los
+delirios en la esquizofrenia. Journal of Psychiatry & Neuroscience:
+JPN, 35(1), 7–17. https://doi.org/10.1503/jpn.090025.
+Sprooten, E., Rasgon, A., Goodman, M., Carlin, A., Leibu, E., Lee, WH y
+Frangou, S. (2017). Abordar la inferencia inversa en la neuroimagen
+psiquiátrica: metanálisis de la activación cerebral relacionada con tareas
+en trastornos mentales comunes. Mapeo del cerebro humano, 38 (4),
+1846–1864. https://doi.org/10.1002/hbm.23486.
+Stanfeld, AC, Philip, RCM, Whalley, H., Romaniuk, L., Hall, J., Johnstone, EC
+y Lawrie, SM (2017). Disociación de la activación cerebral en el autismo
+y el trastorno esquizotípico de la personalidad durante los juicios
+sociales. Boletín de esquizofrenia, 43(6), 1220–1228. https://doi.org/
+10.1093/schbul/sbx083.
+
+Stothart, CR, Wright, TJ, Simons, DJ y Boot, WR (2017).
+Los costos (o benefcios) asociados con los objetos atendidos hacen
+poco para influir en la ceguera por falta de atención. Acta Psychologica,
+173, 101­105. https://doi.org/10.1016/j.actpsy.2016.12.012.
+Taylor, JG (2002). Atención a la conciencia. Trends in Cog nitive Sciences,
+6(5), 206–210. https://doi.org/10.1016/S1364­6613(02)01890­9 .
+Teller, DY (1984). Proposiciones de enlace. Investigación de la visión, 24(10),
+1233–1246. https://doi.org/10.1016/0042­6989(84)90178­0.
+Travis, R. (2010). Hiperenfoque. Bloomington, Indiana: Author House.
+Walsh, J., Hochbrueckner, R., Corcoran, J. y Spence, R. (2016). La experiencia
+vivida de la esquizofrenia: una revisión sistemática y metasíntesis.
+Trabajo Social en Salud Mental, 14(6), 607–624. https://doi.org/
+10.1080/15332985.2015.1100153.
+Ward, MF, Wender, PH y Reimherr, FW (1993). La escala de calificación de
+Wender Utah: una ayuda en el diagnóstico retrospectivo del trastorno
+por déficit de atención con hiperactividad infantil. El Diario Americano
+de Psiquiatría, 150(6), 885–890. https://doi.org/10.1176/ajp.150.6.885 .
+Weber, R., Tamborini, R., Westcott­Baker, A. y Kantor, B. (2009).
+Teorizando el flujo y el disfrute de los medios como sincronización
+cognitiva de las redes atencionales y de recompensa. Teoría de la
+comunicación, 19(4), 397–422. https://doi.org/10.1111/j.1468­2885.2009.01352
+.X.
+
+Willcutt, EG, Doyle, AE, Nigg, JT, Faraone, SV y Pennington, BF (2005).
+Validez de la teoría de la función ejecutiva del trastorno por déficit de
+atención/hiperactividad: una revisión metaanalítica. Psiquiatría
+biológica, 57(11), 1336–1346. https://doi.org/10.1016/j. biopsic.2005.02.006.
+Winkielman, P. y Cacioppo, JT (2001). La mente tranquila pone una sonrisa en
+la cara: Evidencia psicofisiológica de que la facilitación del
+procesamiento provoca un efecto positivo. Journal of Personality and
+Social Psychology, 81(6), 989–1000. https://doi. org/
+10.1037/0022­3514.81.6.989.
+Yarkoni, T., Poldrack, RA, Nichols, TE, Van Essen, DC y Wager, TD (2011).
+Síntesis automatizada a gran escala de datos de neuroimagen funcional
+humana. Métodos de la naturaleza, 8(8), 665–670. https://doi.org/
+10.1038/nmeth.1635 .
+Yeung, MK, Han, YMY, Sze, SL y Chan, AS (2016). Las oscilaciones theta
+frontales anormales subyacen a los déficits de flexibilidad cognitiva en
+niños con trastornos del espectro autista de alto funcionamiento.
+Neuropsicología, 30(3), 281–295. https://doi.org/10.1037/neu0000231.
+
+Nota del editor Springer Nature se mantiene neutral con respecto a los
+reclamos jurisdiccionales en los mapas publicados y las afiliaciones institucionales.
+
+13
+
+
