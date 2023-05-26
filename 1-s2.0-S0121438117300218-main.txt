@@ -1,0 +1,875 @@
+suma psicológica 2 4 (2 0 1 7) 79–86
+
+www.elsevier.es/sumapsicol
+
+Regulación emocional y habilidades académicas:
+relación en niños de 9 a 11 años de edad
+María Laura Andrés a,∗ , Florencia Stelzer a , Santiago Vernucci a , Lorena Canet Juric a ,
+Juan Ignacio Galli a y José Ignacio Navarro Guzmán b
+a
+b
+
+Instituto de Psicología Básica, Aplicada y Tecnología - IPSIBAT (UNMDP-CONICET), Mar del Plata, Argentina
+Departamento de Psicología, Universidad de Cádiz, Cádiz, España
+
+información del artículo
+
+r e s u m e n
+
+Historia del artículo:
+
+Las habilidades académicas constituyen un componente especíﬁco del éxito escolar y nume-
+
+Recibido el 16 de febrero de 2017
+
+rosos factores inﬂuyen en su adquisición y consolidación. Uno de estos es la habilidad de
+
+Aceptado el 10 de julio de 2017
+
+regulación emocional de tolerancia al distrés, que se deﬁne por la capacidad de resistir esta-
+
+On-line el 12 de agosto de 2017
+
+dos emocionales negativos en pos de un objetivo. El propósito de este trabajo fue analizar
+
+Palabras clave:
+
+tora y cálculo matemático en 107 niños de escolaridad primaria de 9 a 11 años de edad. Los
+
+la relación entre la tolerancia al distrés y las habilidades académicas de comprensión lecRegulación emocional
+
+resultados mostraron que la tolerancia al distrés resultó un predictor signiﬁcativo de la com-
+
+Tolerancia al distrés
+
+prensión lectora de textos expositivos y del cálculo matemático, no así de la comprensión
+
+Habilidades académicas
+
+lectora de textos narrativos. Es posible que la tolerancia al distrés resulte un factor relevante
+
+Niños
+
+para el éxito académico en varios dominios.
+© 2017 Fundación Universitaria Konrad Lorenz. Publicado por Elsevier España, S.L.U. Este
+es un artı́culo Open Access bajo la licencia CC BY-NC-ND (http://creativecommons.org/
+licenses/by-nc-nd/4.0/).
+
+Emotion regulation and academic skills: Relationship in children aged 9
+to 11
+a b s t r a c t
+Keywords:
+
+Academic skills are a speciﬁc component of academic success, and many factors inﬂuence
+
+Emotion regulation
+
+their acquisition and consolidation. One of these factors is the ability to emotionally regu-
+
+Distress tolerance
+
+late distress tolerance, as deﬁned by the ability to withstand negative emotional states in
+
+Academic skills
+
+pursuit of a goal. This paper undertook to analyse the relationship between distress tole-
+
+Children
+
+rance and reading comprehension and mathematical computations in 107 primary school
+children aged 9 to 11. The results showed that distress tolerance was a signiﬁcant predictor
+of reading comprehension of expository texts and mathematical computations, albeit not
+so for reading comprehension of narrative texts. Distress tolerance is likely to be a relevant
+factor for academic success in several domains.
+© 2017 Fundación Universitaria Konrad Lorenz. Published by Elsevier España, S.L.U. This
+is an open access article under the CC BY-NC-ND license (http://creativecommons.org/
+licenses/by-nc-nd/4.0/).
+
+∗
+
+Autor para correspondencia.
+Correo electrónico: marialauraandres@gmail.com (M.L. Andrés).
+http://dx.doi.org/10.1016/j.sumpsi.2017.07.001
+0121-4381/© 2017 Fundación Universitaria Konrad Lorenz. Publicado por Elsevier España, S.L.U. Este es un artı́culo Open Access bajo la
+licencia CC BY-NC-ND (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+80
+
+suma psicológica 2 4 (2 0 1 7) 79–86
+
+El éxito académico reﬁere aquellos resultados de
+desempeño que indican el grado en el que una persona
+ha conseguido cumplir objetivos especíﬁcos de ambientes
+educativos (e.g. escuela, universidad). Los sistemas educativos deﬁnen objetivos «cognitivos» aplicables a múltiples
+materias (e.g. pensamiento crítico), como de adquisición
+de conocimientos y habilidades especíﬁcas (e.g. aritmética,
+lectura, etc.; Steinmayr, Meibner, Weidinger &Wirthwein,
+2015). Las habilidades académicas constituyen un componente clave del éxito académico (Steinmayr et al., 2015; York,
+Gibson & Rankin, 2015) y numerosos factores —contextuales
+e individuales— inﬂuyen en su adquisición y consolidación.
+Entre los factores individuales afectivos, se ha incrementado
+el interés por el rol de la regulación emocional (Martin &
+Ochsner, 2016).
+La regulación emocional implica aquellos procesos que permiten monitorear, evaluar y modiﬁcar la naturaleza y el curso
+de una emoción con la ﬁnalidad de cumplir objetivos y responder de manera apropiada a las demandas del entorno (Gross,
+2014). Estos procesos pueden ser estrategias (acciones encaminadas al logro de objetivos) o habilidades (capacidad para
+llevar a cabo con éxito determinada actividad; Tull & Aldao,
+2015). Entre las estrategias más estudiadas en los contextos
+educativos destacan la reevaluación cognitiva (modiﬁcar la
+evaluación de la situación para alterar su impacto emocional;
+Gross, 2014), la supresión de la expresión emocional (inhibir
+el curso expresivo de una emoción; Gross, 2014) y la rumiación (dirigir la atención hacia los propios sentimientos, Tull
+& Aldao, 2015). Entre las habilidades se cuentan el reconocimiento de emociones (asignar adecuadamente categorías
+semánticas a las experiencias emocionales; Berking & Whitley,
+2014) y la tolerancia al distrés (TD, resistir estados emocionales negativos al servicio de un objetivo; Ameral, Palm Reed,
+Cameron & Armstrong, 2014).
+En el contexto escolar, la importancia de estas estrategias y
+habilidades radica en la necesidad de controlar las reacciones
+emocionales que podrían ser disruptivas para el aprendizaje.
+Cuando los niños experimentan emociones negativas focalizan su atención en la información emocional, y los recursos
+cognitivos no se destinan al procesamiento de la información
+educativa; si la información educativa no es atendida y procesada no puede ser memorizada (Ivcevic & Brackett, 2014), por
+lo que la incapacidad de regulación emocional interﬁere con
+el rendimiento académico.
+Los estudios mostraron que la implementación de la
+reevaluación cognitiva mejoró el rendimiento en tareas de
+matemáticas (Ben-Zeev, Fein & Inzlicht, 2005; Jamieson,
+Mendes, Blackstock & Schmader, 2010; Johns, Inzlicht &
+Schmader, 2008) y el recuerdo de información educativa (Davis
+& Levine, 2013; Leroy, Grégoire, Magen, Gross & Mikolajczak,
+2012), aunque no se observaron mejoras en tareas de lectura (Jamieson et al., 2010). La rumiación y la supresión de la
+expresión emocional no mostraron efectos sobre el material
+educativo recordado respecto de no utilizar ninguna estrategia (Davis & Levine, 2013; Rice, Levine & Pizarro, 2007; Johns,
+et al., 2008). El reconocimiento de emociones se ha asociado
+con puntuaciones altas en lectura y matemáticas (Graziano,
+Reavis, Keane & Calkins, 2007; Tentracosta & Izard, 2007).
+
+La TD estaría particularmente implicada en el éxito académico, ya que en el contexto escolar es frecuente realizar
+actividades difíciles, demandantes y/o que se prolongan en
+el tiempo, las cuales provocan emociones negativas (Graziano
+et al., 2007). Luo, Ng, Lee y Aye (2016) hallaron que la experiencia de emociones negativas vinculadas a las tareas escolares se
+asoció negativamente con el esfuerzo invertido en las mismas.
+Los niños que son incapaces de lidiar con estas emociones
+son más propensos a manifestar diﬁcultades para concentrarse, persistir y cumplimentar los desafíos escolares (Ivcevic
+& Brackett, 2014).
+La revisión de estudios sobre la asociación entre TD y
+habilidades académicas merece dos comentarios. En primer
+lugar, respecto del concepto de TD y su medición. La TD
+puede entenderse como: (a) la percepción de la capacidad de
+tolerar emociones negativas, y como (b) la acción comportamental de tolerar estados emocionales negativos generados
+por algún estímulo particular (Ameral et al., 2014). De acuerdo
+con esto, se han planteado dos metodologías: (a) autoinformes
+centrados en la percepción de la capacidad de tolerar estados negativos, y (b) medidas comportamentales focalizadas en
+completar tareas frustrantes o difíciles que demandan recursos cognitivos.
+En segundo lugar, los estudios empíricos que han analizado
+la asociación con habilidades académicas podrían dividirse en
+dos grupos. Por un lado, los que enunciaron explícitamente
+que estudiaban la TD; por otro, los que no lo explicitaron, pero
+puede inferirse de los instrumentos de evaluación utilizados.
+Djambazova-Popordanoska (2016) aﬁrma que la mayoría de
+trabajos que exploran la asociación de la regulación emocional con el desempeño académico no detallan qué aspectos
+especíﬁcos de la regulación emocional son los que se están
+evaluando. Para conocer esto resulta apropiado tomar en consideración las propiedades de los instrumentos de medición
+que utilizaron.
+Dentro del grupo de trabajos que explicitaron el estudio de
+la TD, Hill y Craft (2003) reportaron que la TD percibida de niños
+de jardín de infantes se asociaba con las habilidades precursoras de la lectura y matemática. Howse, Calkins, Anastopoulos,
+Keane y Shelton (2003) mostraron que la TD comportamental
+de niños de jardín de infantes se asociaba con sus habilidades
+de iniciación a la lectura y razonamiento matemático.
+En el segundo grupo de estudios, la TD percibida se asoció
+positivamente con rendimientos en lectura y matemática en
+adolescentes (Gumora & Arsenio, 2002), en niños de primer
+año de la escolaridad primaria (Trentacosta & Izard, 2007) y
+con precursores de lectura y matemáticas en niños de jardín
+de infantes (Graziano et al., 2007).
+En síntesis, los estudios que analizaron el rol de la TD
+en habilidades académicas son relativamente escasos. Varios
+de ellos carecen de especiﬁcidad en la deﬁnición de dicha
+habilidad de regulación emocional, consideran solo la TD
+percibida (excepto el trabajo de Howse et al., 2003) y se realizaron principalmente en niños de jardín de infantes. Incluir
+la evaluación de la TD comportamental y evaluar niños de
+escolaridad primaria representaría un aporte complementario. Especialmente incluir la TD comportamental, ya que se
+han registrado correlaciones bajas a moderadas con la TD
+
+suma psicológica 2 4 (2 0 1 7) 79–86
+
+percibida (e.g. Ameral et al., 2014), lo cual podría implicar asociaciones diferenciales con las habilidades académicas.
+Por otro lado, resulta de interés el período de 9 a 11 años
+de edad (cuarto a sexto año escolar), ya que las habilidades
+académicas se encuentran en consolidación. La comprensión
+lectora (CL) se caracteriza por la adquisición de mayor ﬂuidez
+que permite la incorporación de nuevos conocimientos y vocabulario (Wolf, 2007). El cálculo matemático (CM) se caracteriza
+por mayor capacidad de la memoria de trabajo para combinaciones numéricas que permite mayor precisión y velocidad en
+la ejecución de operaciones aritméticas básicas (e.g. Toll, van
+der Ven, Kroesbergen & van Luit, 2011). Este período se caracteriza además por incrementos de las exigencias académicas
+que suelen repercutir en mayores niveles de ansiedad y malestar (e.g., Punaro & Reeve, 2012), por lo que las habilidades de
+regulación emocional podrían verse especialmente demandadas. Al considerar lo anterior, el objetivo fundamental de este
+trabajo es analizar la relación entre la habilidad de regulación
+emocional de TD comportamental y las habilidades académicas de CL y CM en niños de 9 a 11 años de edad de escolaridad
+primaria. Se espera que los niños con mayor capacidad de TD
+presenten rendimientos superiores en las habilidades de CL y
+CM.
+
+Método
+Participantes
+Se evaluaron 107 niños de una institución educativa de 9 a
+11 años de edad (M = 10 años y 7 meses; SD = 9,47 meses), de
+los cuales 44 eran varones (41.1%) y 63 mujeres (58.9%), 54
+cursaban cuarto año (M = 10 años y un mes; SD = 6 meses), 29
+quinto (M = 10 años y 11 meses; SD = 5 meses) y 24 sexto año
+(M= 11 años y 6 meses; SD = 9 meses) de la educación primaria. El estatus social de las familias de los niños fue alto y
+medio-alto en casi la mitad de los casos (49.4%); el resto poseía
+un nivel medio y medio-bajo (37.4%) y un porcentaje menor
+un nivel bajo (17.8%). El estatus social se calculó utilizando el
+índice de estatus social de Hollingshead (2011). Se excluyeron
+niños repetidores, es decir, que se encontraban cursando por
+segunda vez el año escolar evaluado.
+La institución educativa en la cual se administraron los
+instrumentos es una escuela de gestión privada, laica con
+orientación católica con una matrícula de alumnos que provienen mayoritariamente del barrio en el que se sitúa la escuela
+—de nivel adquisitivo medio— y, en un porcentaje menor, de
+localidades cercanas. En relación con otras escuelas de características similares, el valor de la cuota mensual es medio en
+términos económicos. En términos generales, se registra un
+bajo porcentaje de repetición escolar.
+
+81
+
+Durante la tarea, los participantes observan en la pantalla de
+la computadora una ﬁla de cuadrados que contienen números en su interior (del 1 al 10) y están avisados de que un
+punto verde se posicionará sobre uno de estos cuadrados. Su
+tarea consiste en hacer un clic con el mouse en el número
+que posee el punto verde encima antes de que este desaparezca. Si el número recibe el clic antes de que el punto verde
+desaparezca, un pájaro en la pantalla es liberado de su jaula
+y se lo escucha piar. Si el punto verde desaparece antes de
+que el participante pueda hacer clic, se escucha un sonido
+molesto y el pájaro permanece encerrado. Cada vez que el participante logra liberar al pájaro gana un punto, cuando no logra
+hacerlo no recibe ningún punto. Su puntuación está visible en
+el ángulo superior derecho de la pantalla. La tarea se conforma
+de tres bloques de intervalos de tiempos variables entre la presentación de los puntos verdes. El bloque 1 dura 3 minutos y se
+inicia con intervalos de 5 segundos entre los puntos. Los intervalos se van reduciendo de a medio segundo si el niño se va
+desempeñando correctamente y se incrementan de a medio
+segundo si el niño brinda respuestas incorrectas. El bloque 2
+dura 5 minutos y el promedio de intervalo de tiempo obtenido
+en el bloque 1 se utiliza para la presentación de los puntos
+durante los primeros 4 minutos. Durante el último minuto este
+intervalo se reduce a la mitad de ese promedio, volviendo la
+tarea extremadamente difícil. Luego, los participantes tienen
+un descanso y comienza el bloque 3 que dura otros 5 minutos
+—como máximo— y se utiliza el intervalo del último minuto
+del bloque anterior. En este bloque, los participantes cuentan
+con el «botón de escape» para abandonar el juego. La TD se
+operacionaliza como el tiempo de persistencia en el bloque 3.
+Antes del comienzo de la tarea y luego del bloque 2, los
+participantes completan la escala de afecto positivo y afecto
+negativo PANAS de Schulz, Lemos y Richaud (2009) adaptada
+al español de niños argentinos de la versión para adultos de
+Watson, Clark y Tellegen (1998). La administración de la escala
+permite controlar la validez de la BIRD al evaluar cambios
+en el afecto durante la tarea. Se compone de dos subescalas:
+afecto positivo (e.g. enérgico) y afecto negativo (e.g. enojado).
+Todos los ítems se puntúan en una escala de cinco opciones, desde 1: casi nada, hasta 5: totalmente. Se construyó un
+índice con los estados afectivos negativos vinculados al tipo
+de distrés generado por la tarea que incluyó los ítems alerta,
+disgustado, nervioso, miserable, acelerado y enojado; de modo
+similar a otros trabajos (e.g. Cummings et al., 2013). Investigaciones previas reportaron niveles adecuados de validez de
+la tarea BIRD para la medición de la TD (e.g. Daughters et al.,
+2009; MacPherson et al., 2011) y de conﬁabilidad y validez de la
+Escala PANAS (Schulz et al., 2009). En nuestra muestra se cumplieron los criterios de validez interna de la BIRD (apartado
+«validez de constructo de la BIRD») y se observó una adecuada
+consistencia interna de las escalas del PANAS (␣ afecto negativo = .75 y ␣ afecto positivo = .82).
+
+Instrumentos
+Habilidades académicas
+Habilidad de regulación emocional de tolerancia al distrés
+Se utilizó el indicador comportamental de resiliencia al distrés BIRD de Lejuez, Daughters, Danielson y Ruggiero (2006).
+Esta tarea cuantiﬁca el tiempo que un participante persiste en
+una actividad en la cual el nivel de diﬁcultad se incrementa
+progresivamente al punto de que el éxito resulta imposible.
+
+Comprensión lectora
+Se utilizaron las pruebas de screening del Test Leer para Comprender TLC de Abusamra, Ferreres, Raiter, De Beni y Cornoldi
+(2010). Se compone de dos pruebas, una para niños de 9 y
+10 años (cuarto y quinto año escolar) y otra de mayor diﬁcul-
+
+82
+
+suma psicológica 2 4 (2 0 1 7) 79–86
+
+tad para niños de 11 y 12 años de edad (sexto año escolar).
+Cada prueba contiene un texto narrativo y otro expositivo
+sobre los que luego se presentan diez preguntas, cada una con
+cuatro alternativas de respuesta, entre las cuales el alumno
+debe marcar la correcta (solo una). Se asigna 1 punto por respuesta correcta y 0 por incorrecta. La puntuación máxima
+posible para cada texto es 10. Se han reportado adecuados niveles de conﬁabilidad y validez (discriminante) de esta
+prueba en ambos grupos de edades (Abusamra et al., 2010).
+Los valores para cuarto y quinto año de ␣ texto narrativo = .67;
+␣ texto expositivo = .70; y para sexto año ␣ texto narrativo = .40;
+␣ texto expositivo = .70.
+
+Cálculo matemático
+Se utilizó el subtest de aritmética de la Prueba de Logro de
+Amplio Rango WRAT-3 de Wilkinson (1993). Este subtest evalúa las habilidades básicas de conteo, lectura de símbolos
+numéricos, resolución de problemas orales y desempeño en
+cálculos escritos, y está diseñado para edades comprendidas desde 5 hasta 74 años. Consiste en una primera parte,
+denominada Aritmética Oral, que requiere que el niño cuente
+series de objetos e identiﬁque números escritos. La segunda
+parte, Aritmética Escrita, consiste en preguntas de cálculos
+aritméticos. Los ítems aumentan de diﬁcultad, desde problemas de adición de un dígito hasta problemas de álgebra
+que contienen varias variables. Los niños de 7 años y menos
+comienzan con el primer ítem de Aritmética Oral (15 ítems
+en total). Los niños de 8 años y más comienzan por el primer ítem de Aritmética Escrita (40 ítems en total) y se les pide
+que completen Aritmética Oral solo si no son capaces de contestar al menos cinco problemas correctamente. Los niños a
+quienes no es necesario evaluar Aritmética Oral reciben 15
+puntos por esta parte que se les computan para el puntaje
+total bruto. Todos los ítems suman 1 punto, con un puntaje
+máximo posible de 55. La conﬁabilidad y la validez del WRAT-3
+han mostrado ser adecuadas para todos los grupos de edades (Snelbaker, Wilkinson, Robertson & Glutting, 2001) y ha
+mostrado adecuada consistencia interna en niños de nuestro
+contexto (Vernucci, CanetJuric, Andrés & Burín, 2017). El valor
+␣ = .79 para toda la muestra.
+
+Estatus social
+Para calcular el estatus social de acuerdo con el índice de
+Hollingshead, se registró el nivel educativo alcanzado por el
+principal sostén económico de la familia de acuerdo a la escala
+de Pascual, Galperín y Bornstein (1993) y el nivel ocupacional de acuerdo a la escala de grupos ocupacionales de Sautú
+(1989), donde las puntuaciones más altas corresponden a las
+ocupaciones de mayor prestigio. El estatus social se calcula
+multiplicando los valores del nivel educativo y ocupacional
+por unos factores de corrección especíﬁcos a cada nivel y
+sumando los valores obtenidos en un puntaje total (estatus
+social = [nivel educativo × factor de corrección] + [nivel ocupacional × factor de corrección]). Este puntaje se puede clasiﬁcar
+en categorías indicadoras del estatus social: alto y medioalto (66-40), medio y medio-bajo (39-20) y bajo (19-8). Este
+índice se ha utilizado en distintos contextos socioculturales, incluyendo el latinoamericano (Andrés, Richaud de Minzi,
+Castañeiras, Canet-Juric & Rodríguez-Carvajal, 2016).
+
+Procedimiento
+Se siguieron los lineamientos éticos estipulados por el Consejo Nacional de Investigaciones Cientíﬁcas y Técnicas de
+Argentina (Resolución 2857, 2006) para el trabajo con niños.
+Se informó a las autoridades de la institución educativa sobre
+los objetivos y procedimientos de la investigación. Una vez
+que dieron su aprobación, se solicitó a los padres la autorización para que sus hijos participaran a través de la ﬁrma de un
+consentimiento informado. Se evaluó aquellos niños que además manifestaron su intención de participar. Los niños fueron
+evaluados durante el horario escolar, en aulas acondicionadas
+para tal propósito. La tarea de TD se administró de manera
+individual por evaluadores entrenados y su tiempo aproximado de administración fue de 15 min. Las evaluaciones de
+CL y CM se administraron a todo el grupo en el salón habitual
+de clase, y la duración aproximada de ambas evaluaciones
+fue de 30 min. Las preguntas sobre nivel educativo y ocupacional fueron enviadas a los padres a través del cuaderno de
+comunicaciones.
+
+Análisis de datos
+Se realizaron análisis preliminares para veriﬁcar el cumplimiento de los supuestos de los modelos de regresión y el
+cumplimiento de los criterios de validez de la BIRD. Luego
+se hicieron análisis descriptivos y de correlación. Para unir
+en una variable de CL (de textos narrativos y expositivos) los
+resultados obtenidos con pruebas distintas (una para cuarto y
+quinto año y otra para sexto) se ubicaron las puntuaciones brutas en sus respectivos cuartiles (muy débil, débil, suﬁciente,
+óptimo) tomando como referencia el baremo local (Abusamra
+et al., 2010, p. 177). Finalmente, para analizar la capacidad predictiva de la TD en la CL y en el CM se realizaron análisis de
+regresión lineal múltiple mediante el método ingresar o enter.
+Se introdujo como variable independiente —además de TD—
+el estatus social, dado que estudios previos indican que este
+constituye un predictor de las habilidades académicas (Lam,
+2014). El año escolar es un potente predictor del nivel de habilidades académicas alcanzado, por lo que se debe controlar su
+contribución en los modelos explicativos. En el modelo de CM
+se introdujo como variable de control; para los modelos de CL
+no fue necesario, ya que las pruebas estaban diseñadas para
+años escolares especíﬁcos (ver apartado «Instrumentos»).
+
+Resultados
+Supuestos de los modelos de regresión lineal
+El análisis de los residuos mostró que los errores típicos de la
+estimación para los tres modelos de regresión fueron desde
+0.93 hasta 2.90, lo que indica buenos pronósticos relativos y
+ajustes de la recta de regresión a la nube de puntos. Por otro
+lado, ningún caso presentó residuos tipiﬁcados con una media
+mayor a tres desviaciones típicas, lo que indica que los residuos poseen una distribución cercana a la normal. Los valores
+DW oscilaron entre 1.76 y 1.8 para los tres modelos (dentro del
+rango convenido de 1.5 a 2.5), lo que permite asumir que los
+residuos son independientes (supuesto de independencia). En
+
+83
+
+suma psicológica 2 4 (2 0 1 7) 79–86
+
+Tabla 1 – Estadísticos descriptivos y de correlación de las variables bajo estudio
+M
+CL texto narrativo
+CL texto expositivo
+CM
+TD
+∗
+∗∗
+
+o
+
+o
+
+DE
+o
+
+6.31 (4. , 5. año) 7.67 (6. año)
+6.88 (4.o , 5.o año) 7.12 (6.o año)
+28.88
+188.52
+
+o
+
+o
+
+CL texto expositivo
+o
+
+CM
+
+**
+
+2.67 (4. , 5. año) 1.62 (6. año)
+2.42 (4.o , 5.o año) 2.34 (6.o año)
+3.86
+105.24
+
+TD
+
+**
+
+.62
+
+.56
+.38**
+
+.18
+.22*
+.34**
+
+p < .05.
+p < .01.
+
+el gráﬁco de dispersión, la nube de puntos en los modelos de CL
+mostró una tendencia negativa en el sentido de que a medida
+que aumenta el valor de los pronósticos disminuye la dispersión de los residuos; en el caso del modelo de CM la nube de
+puntos no mostró ninguna pauta de asociación, lo que indica
+un cumplimiento parcial del supuesto de homocedasticidad
+para los modelos de CL. Los histogramas de los modelos de CL
+tuvieron más casos acumulados en la cola positiva; el histograma del modelo de CM indicó claramente una distribución
+normal de los residuos. Los diagramas de probabilidad normal
+evidenciaron la misma tendencia que los histogramas: en los
+modelos de CL la línea de puntos se alejó levemente de la diagonal, en tanto en el modelo de CM la línea de puntos se alineó
+directamente sobre la diagonal. Esto está en correspondencia
+con el análisis anterior, e implica un cumplimiento parcial del
+supuesto de independencia para los modelos de CL. La lectura de los diagramas de regresión parcial indicó tendencias
+de relaciones lineales y positivas entre cada una de las variables independientes (excepto para CL de textos narrativos y
+TD) y cada una de las variables (supuesto de linealidad).
+No se observó la presencia de autovalores próximos a cero
+ni índices de condición mayores a 15, lo que estaría indicando
+ausencia de colinealidad (supuesto de no colinealidad). En síntesis, se observó en términos generales el cumplimiento de
+los supuestos para los modelos de regresión. Los resultados
+de los modelos de CL deben ser tomados con cautela debido al
+cumplimiento parcial de los supuestos de homocedasticidad
+y linealidad.
+
+Validez de constructo de la BIRD
+Se analizó el cumplimiento de tres criterios de validez de la
+BIRD. Para analizar si la tarea genera distrés se realizó una
+prueba t para muestras relacionadas entre el indicador de
+afecto negativo del PANAS antes de la tarea (M = 10.02; DE = 3.1)
+y después del bloque dos (M = 11.13; DE = 4.13). Se observó
+un incremento signiﬁcativo del afecto negativo [t(106) = –3.09;
+p < .01], lo que sugiere que la tarea es psicológicamente estresante (Daughters et al., 2009). Para analizar que la persistencia
+en el último bloque no evalúa simplemente un incremento en
+el afecto negativo sino la capacidad de tolerar dicho afecto, se
+realizaron dos análisis de correlación.
+Primero se realizó una correlación de la duración en el bloque 3 con el indicador de afecto negativo luego del bloque dos
+(r = .09; p = .32), y segundo, una correlación de la duración en
+el bloque 3 con la diferencia entre el indicador de afecto negativo antes de la tarea y luego del bloque 2 (se creó el indicador
+diferencia pre-post afecto negativo) (r = –.01; p = .9). Ninguna
+
+Tabla 2 – Relación de la TD con la CL y el CM
+CL textos narrativos
+
+Año escolar
+Estatus social
+TD
+∗
+∗∗∗
+
+CL textos expositivos
+
+ˇ
+–
+.43***
+.10
+
+CM
+
+ˇ
+–
+
+ˇ
+*
+
+.20
+.18*
+
+.42***
+.31***
+.16*
+
+p < .05.
+p < .001.
+Modelo CL textos narrativos F(2) = 14.38; p < .001; R2 = .20; intercepto = 1.38.
+Modelo CL textos expositivos F(2) = 5.1; p < .01, R 2 = .07; intercepto = 1.82.
+Modelo CM F(3) = .28; p < .001; R 2 = .43, intercepto = −.69.
+
+de las dos relaciones resultó signiﬁcativa. Esto evidencia que
+la persistencia en el último bloque no indica únicamente un
+aumento del afecto negativo sino la capacidad de tolerarlo
+(Cummings et al., 2013; MacPherson et al., 2011). Finalmente,
+no se observó una correlación de la habilidad del bloque 1 y
+del 2 (se creó el indicador precisión bloque 1 y 2) con el tiempo
+de duración en el bloque 3 (r = .06; p = .5), lo que muestra que
+la habilidad no explica la persistencia en el último bloque
+(Daughters et al., 2009).
+
+Análisis descriptivos y de correlación
+La tabla 1 muestra los estadísticos descriptivos de las variables
+bajo estudio. El tiempo medio de persistencia en el bloque 3
+de la BIRD fue de 188.52 segundos.
+
+Relación de tolerancia al distrés con comprensión lectora
+y cálculo matemático: análisis de regresión lineal
+Los tres modelos de regresión resultaron signiﬁcativos; el porcentaje de varianza explicado es relativamente bajo en CL y
+moderado en CM (tabla 2). La TD resultó un predictor signiﬁcativo para CL de textos expositivos y CM, y no lo fue para CL
+de textos narrativos.
+
+Discusión
+El objetivo de este trabajo fue analizar la relación entre la
+habilidad de regulación emocional de TD y las habilidades
+académicas CL y CM en niños de 9 a 11 años de edad en escolaridad primaria. Los resultados mostraron que la TD resultó
+un predictor signiﬁcativo de la CL de textos expositivos y del
+CM, y no lo fue de CL de textos narrativos.
+
+84
+
+suma psicológica 2 4 (2 0 1 7) 79–86
+
+Se ha sugerido que los niños con baja capacidad de manejo
+de la frustración o de otros estados emocionales negativos tendrían limitaciones para regular comportamientos vinculados
+al aprendizaje —por ejemplo, presentarían más diﬁcultades
+para concentrarse en el trabajo escolar, planiﬁcar y ﬁnalizar
+las tareas escolares (Howse et al., 2003)—, en tanto que los
+con mayor eﬁciencia en la regulación emocional serían capaces de manejar de forma eﬁciente las emociones negativas y
+podrían de esta manera liberar recursos cognitivos para atender, procesar y retener contenido educativo (Davis & Levine,
+2013). Es decir, la regulación emocional tendría efectos vinculados al procesamiento de la información que impactarían en
+la adquisición y consolidación de las habilidades académicas.
+La CL exige la construcción de un modelo mental coherente e integrado. Los procesos de monitoreo y de inferencias,
+así como la disponibilidad de la información relevante sobre
+el texto y del conocimiento del propio lector, contribuyen a
+la construcción de la representación mental de lo leído (Paris
+& Hamilton, 2014). La TD supone la capacidad de persistir y
+completar tareas cuya ejecución provoca esfuerzo y/o frustración y requieren un elevado consumo de recursos cognitivos
+(Lejuez et al., 2006). La persistencia en tareas académicas de
+lectura es un factor importante en la consolidación de la CL.
+La falta de persistencia disminuye la motivación para el trabajo escolar y afecta su rendimiento (Kikas & Silinskas, 2016).
+Esto puede explicar la asociación encontrada entre TD y CL de
+textos expositivos.
+Por otro lado, los resultados muestran una asociación no
+signiﬁcativa entre TD y CL de textos narrativos. Se ha sugerido que los textos narrativos son más fáciles de comprender
+que los expositivos (Mier, Sánchez Abchi & Borzone, 2012), lo
+que podría explicar esta asociación diferencial. Sin embargo,
+se ha indicado que si el nivel de diﬁcultad de los textos está
+controlado, la interacción entre el tipo de texto y de preguntas (literales e inferenciales) desaparece (Nelson & Narens,
+1990). Es posible que la asociación diferencial de la TD con
+la CL de distintos tipos de textos se explique por la naturaleza de los mismos (i.e. expositivos vs. narrativos). Los textos
+expositivos tienen el ﬁn de comunicar información a los lectores, en tanto los narrativos, el de entretener o generar placer
+(Weaver & Kintsch, 1991). Es plausible que los textos narrativos
+demanden en menor medida la TD, ya que su lectura implicaría pocas emociones negativas y, por ende, escasa necesidad
+de resistirlas para cumplimentar la tarea.
+El CM es una habilidad que implica la capacidad de sumar,
+restar, multiplicar y dividir múltiples dígitos, para resolver
+problemas aritméticos simples como «3 + 4» o complejos,
+como «578.342/56» (Peng, Namkung, Barnes & Sun, 2016). La
+realización de tareas de CM suele implicar la experiencia
+de emociones negativas (Peixoto, Sanches, Mata & Monteiro,
+2016), pero la persistencia en las mismas se asocia con mayores rendimientos en ejercicios de CM (Tõeväli & Kikas, 2016). Es
+posible que los niños que logran tolerar mejor los sentimientos
+negativos asociados a la realización de actividades de matemática persistan más en la realización de estas y obtengan un
+mejor aprendizaje que se reﬂeje en rendimientos superiores
+en tareas que evalúan esta habilidad.
+Por otro lado, se ha reconocido que la matemática es un
+contenido con especial carga emocional (Pastuszak et al.,
+2014), por lo que las habilidades de regulación emocional
+
+podrían verse especialmente demandadas en este dominio. Es
+posible que la TD juegue un rol más fuerte en la consolidación
+del CM que en otros dominios, y esto explique la asociación
+diferencial encontrada de la TD con el CM y la CL. Futuros
+trabajos podrían explorar si la intensidad de las emociones
+experimentadas durante la realización de tareas de ambos
+dominios modera las relaciones de la TD con el CM y la CL.
+En síntesis, los resultados indican que los niños con
+mayores habilidades de TD poseen mayor desempeño en las
+pruebas de CL y de CM. La habilidad de TD es considerada un
+factor transdiagnóstico implicado en el desarrollo y mantenimiento de múltiples trastornos psicológicos (e.g. Daughters
+et al., 2009). En el ámbito educativo, nuestros resultados y
+los de investigaciones previas muestran una asociación de la
+TD percibida y comportamental con indicadores de lectura y
+matemática (e.g. Hill & Craft, 2003; Howse et al., 2003), por lo
+que esta habilidad podría estar implicada también en varios
+dominios académicos como un factor común. Futuros trabajos
+podrían analizar esta posibilidad, así como estudiar si existen
+contribuciones diferenciales de la TD percibida o comportamental al desempeño académico.
+Los resultados obtenidos hay que interpretarlos teniendo
+en cuenta las limitaciones de este trabajo, como es el cumplimiento parcial de dos de los supuestos de los modelos de
+regresión lineal y tamaño de la muestra reducido, lo que acota
+las posibilidades de generalización de los resultados. Por otro
+lado, se trata de un diseño transversal correlacional, por lo
+que no pueden realizarse conclusiones respecto de las consecuencias de la TD sobre el aprendizaje académico. Diseños
+longitudinales o experimentales permitirían conocer de forma
+más precisa los efectos de diferentes niveles de TD sobre la
+adquisición de habilidades académicas. Finalmente, se ha evaluado únicamente CL y CM, lo que ciertamente no incluye
+todas las habilidades implicadas en el desempeño escolar. Por
+otra parte, en la relación de la TD con el desempeño académico es posible que intervengan múltiples variables que
+pueden jugar un rol moderador o mediador. Por ejemplo, las
+funciones ejecutivas, las habilidades verbales y la capacidad
+de razonamiento podrían tener un rol moderador, en tanto el
+comportamiento en clase, un rol mediador (e.g. Best, Miller &
+Jones, 2009).
+Se espera que estos resultados contribuyan a profundizar el
+conocimiento del rol de la regulación emocional en el aprendizaje académico y en un futuro aporten insumos para el diseño,
+el contenido y la puesta a prueba de programas de promoción de habilidades socio-emocionales aplicables al contexto
+escolar con potencial impacto sobre el rendimiento académico
+(e.g. Berger, Milicic & Alcalay, 2014).
+
+Financiamiento
+Consejo Nacional de Investigaciones Cientíﬁcas y Técnicas
+CONICET.
+
+Agradecimientos
+Consejo Nacional de Investigaciones Cientíﬁcas y Técnicas
+CONICET.
+
+suma psicológica 2 4 (2 0 1 7) 79–86
+
+referencias
+
+Abusamra, V., Ferreres, A., Raiter, A., de Beni, R. & Cornoldi, C.
+(2010). Test Leer para Comprender TLC. Evaluación de la
+comprensión de textos. Buenos Aires, Argentina: Paidós.
+Ameral, V., Palm Reed, K. M., Cameron, A. & Armstrong, J. L.
+(2014). What are measures of distress tolerance really
+capturing? A mixed methods analysis. Psychology of
+Consciousness: Theory, Research, and Practice, (11), 1–14.
+http://dx.doi.org/10.1037/cns0000024
+Andrés, M. L., Richaud de Minzi, M. C., Castañeiras, C.,
+Canet-Juric, L. & Rodríguez-Carvajal, R. (2016). Neuroticism
+and depression in children: The role of cognitive emotion
+regulation strategies. The Journal of Genetic Psychology, 177(2),
+55–71. http://dx.doi.org/10.1080/00221325.2016.1148659
+Ben-Zeev, T., Fein, S. & Inzlicht, M. (2005). Arousal and stereotype
+threat. Journal of Experimental Social Psychology, 41(2), 174–181.
+http://dx.doi.org/10.1016/j.jesp.2003.11.00
+Berger, C., Milicic, N. & Alcalay, L. (2014). Programa para el
+Bienestar y Aprendizaje Socioemocional en estudiantes de
+tercero y cuarto grado: descripción y evaluación de impacto.
+Revista Latinoamericana de Psicología, 46(3), 169–177.
+http://dx.doi.org/10.1016/S0120-0534(14)70020-2
+Berking, M. & Whitley, B. (2014). The Adaptive Coping with
+Emotions model (ACE Model). En M. Berking, & B. Whitley
+(Eds.), Affect Regulation Training. A Practitioners’ Manual (pp.
+19–29). New York, NY: Springer.
+http://dx.doi.org/10.1007/978-1-4939-1022-9 3
+Best, J. R., Miller, P. H. & Jones, L. L. (2009). Executive functions
+after age 5: Changes and correlates. Developmental Review, 29,
+180–200.
+Cummings, J. R., Bornovalova, M. A., Ojanen, T., Hunt, E.,
+MacPherson, L. & Lejuez, C. (2013). Time doesn’t change
+everything: The longitudinal course of distress tolerance and
+its relationship with externalizing and internalizing
+symptoms during early adolescence. Journal of Abnormal Child
+Psychology, 41(5), 735–748.
+http://dx.doi.org/10.1007/s10802-012-9704-x
+Daughters, S. B., Reynolds, E. K., Macpherson, L., Khaler, C. W.,
+Danielson, C. K. & Zvolensky, M. (2009). Distress tolerance and
+early adolescent externalizing and internalizing symptoms:
+The moderating role of gender and ethnicity. Behaviour
+Research and Therapy, 47(3), 198–205.
+http://dx.doi.org/10.1016/j.brat.2008.12.001
+Davis, E. L. & Levine, L. J. (2013). Emotion regulation strategies
+that promote learning: Reappraisal enhances children’s
+memory for educational information. Child Development, 84(1),
+361–374. http://dx.doi.org/10.1111/j. 1467-8624.2012.01836.x
+De Mier, M., SánchezAbchi, V. S. & Borzone, A. M. (2012). Narrative
+and expository text reading comprehension by fourth grade
+Spanish-speaking children. International Journal of Social,
+Behavioral, Educational, Economic, Business and Industrial
+Engineering, 6(6), 1670–1673.
+Djambazova-Popordanoska, S. (2016). Implications of emotion
+regulation on young children’s emotional wellbeing and
+educational achievement. Educational Review, 68(4), 497–515.
+http://dx.doi.org/10.1080/00131911.2016.1144559
+Graziano, P. A., Reavis, R. D., Keane, S. P. & Calkins, S. D. (2007).
+The role of emotion regulation in children’s early academic
+success. Journal of School Psychology, 45(1), 3–19.
+http://dx.doi.org/10.1016/j.jsp.2006.09.002
+Gross, J. J. (2014). Emotion regulation: Conceptual and empirical
+foundations. En J. J. Gross (Ed.), Handbook of Emotion Regulation
+(2nd ed, pp. 3–20). New York - London: The Guilford Press.
+Gumora, G. & Arsenio, W. F. (2002). Emotionality, emotion
+regulation, and school performance in middle school children.
+
+85
+
+Journal of School Psychology, 40(5), 395–413.
+http://dx.doi.org/10.1016/S0022-4405(02)00108-5
+Hill, N. E. & Craft, S. A. (2003). Parent-school involvement and
+school performance: Mediated pathways among
+socioeconomically comparable African American and
+Euro-American families. Journal of Educational Psychology, 95(1),
+74–83. http://dx.doi.org/10.1037/0022-0663.95.1.74
+Hollingshead, A. B. (2011). Four Factor Index of Social Status. Yale
+Journal of Sociology, 8, 21–52.
+Howse, B. R. B., Calkins, S. D., Anastopoulos, A. D., Keane, S. P. &
+Shelton, T. L. (2003). Regulatory contributors to children’s
+kindergarten achievement. Early Education and Development, 14,
+101–119.
+Ivcevic, Z. & Brackett, M. (2014). Predicting school success:
+Comparing conscientiousness, grit and emotion regulation
+ability. Journal of Research in Personality, 52, 29–36.
+http://dx.doi.org/10.1016/j.jrp.2014.06.005
+Jamieson, J. P., Mendes, W. B., Blackstock, E. & Schmader, T. (2010).
+Turning the knots in your stomach into bows: Reappraising
+arousal improves performance on the GRE. Journal of
+Experimental Social Psychology, 46(1), 208–212.
+http://dx.doi.org/10.1016/j.jesp.2009.08.015
+Johns, M., Inzlicht, M. & Schmader, T. (2008). Stereotype threat
+and executive resource depletion: Examining the inﬂuence of
+emotion regulation. Journal of Experimental Psychology: General,
+137(4), 691–705. http://dx.doi.org/10.1037/a0013834
+Kikas, E. & Silinskas, G. (2016). Task persistence mediates the
+effect of children’s literacy skills on mothers’ academic help.
+Educational Psychology, 36(5), 975–991.
+http://dx.doi.org/10.1080/01443410.2015.1045836
+Lam, G. (2014). A theoretical framework of the relation between
+socioeconomic status and academic achievement of students.
+Education, 134(3), 326–331.
+Lejuez, C. W., Daughters, S. B., Danielson, C. W. & Ruggiero, K.
+(2006). The Behavioral Indicator of Resiliency to Distress
+(BIRD). Manuscrito inédito.
+Leroy, V., Grégoire, J., Magen, E., Gross, J. J. & Mikolajczak, M.
+(2012). Resisting the sirens of temptation while studying:
+Using reappraisal to increase focus, enthusiasm, and
+performance. Learning and Individual Differences, 22(2), 263–268.
+http://dx.doi.org/10.1016/j.lindif.2011.10.003
+Luo, W., Ng, P. T., Lee, K. & Aye, K. M. (2016). Self-efﬁcacy, value,
+and achievement emotions as mediators between parenting
+practice and homework behavior: A control-value theory
+perspective. Learning and Individual Differences, 50, 275–282.
+http://dx.doi.org/10.1016/j.lindif.2016.07.017
+MacPherson, L., Reynolds, E. K., Daughters, S. B., Wang, F.,
+Cassidy, J., Mayes, L. C., et al. (2011). Positive and negative
+reinforcement underlying risk behavior in early adolescents.
+Prevention Science: The Ofﬁcial Journal of the Society for Prevention
+Research, 11(3), 331–342.
+http://dx.doi.org/10.1007/s11121-010-0172-7
+Martin, R. E. & Ochsner, K. N. (2016). The neuroscience of emotion
+regulation development: Implications for education. Current
+Opinion in Behavioral Sciences, 10, 142–148.
+http://dx.doi.org/10.1016/j.cobeha.2016.06.006
+Nelson, T. O. & Narens, L. (1990). Metamemory: A theoretical
+framework and new ﬁndings. En G. H. Bower (Ed.), The
+Psychology of Learning and Motivations (26) (pp. 125–173). San
+Diego, CA: Academic Press.
+Paris, S. G. & Hamilton, E. E. (2014). The development of children’s
+reading comprehension. En S. E. Israel, & G. G. Duffy (Eds.),
+Handbook of Research on Reading Comprehension. New York, NY:
+Routledge.
+Pascual, L., Galperín, C. Z. & Bornstein, M. H. (1993). La medición
+del nivel socioeconómico y la psicología evolutiva: El caso
+argentino. Revista Interamericana de Psicologia/Interamerican
+Journal of Psychology, 27, 59–74.
+
+86
+
+suma psicológica 2 4 (2 0 1 7) 79–86
+
+Pastuszak, J., Hill, B., Foster, J., Musso, M., Fields, K. & Russ, K.
+(2014). C-74Self-Reported acute anxiety moderates the
+relationship between IQ and math achievement but not
+reading or writing achievement. Archives of Clinical
+Neuropsychology, 29(6), 601.
+http://dx.doi.org/10.1093/arclin/acu038.255
+Peixoto, F., Sanches, C., Mata, L. & Monteiro, V. (2016). How do you
+feel about math? Relationships between competence and
+value appraisals, achievement emotions and academic
+achievement. European Journal of Psychology of Education, 1–21.
+http://dx.doi.org/10.1007/s10212-016-0299-4
+Peng, P., Namkung, J., Barnes, M. & Sun, C. (2016). A meta-analysis
+of mathematics and working memory: Moderating effects of
+working memory domain, type of mathematics skill, and
+sample characteristics. Journal of Educational Psychology, 108(4),
+455–473. http://dx.doi.org/10.1037/edu0000079
+Punaro, L. & Reeve, R. (2012). Relationships between 9-year-olds’
+math and literacy worries and academic abilities. Child
+Development Research, 2012, 7359089.
+http://dx.doi.org/10.1155/2012/359089
+Resolución N.◦ 2857. Lineamientos para el comportamiento ético
+en las Ciencias Sociales y Humanidades. Buenos Aires,
+Argentina, 2006 [consultado 15 Feb 2017]. Recuperado de
+http://convocatorias.conicet.gov.ar/wpcontent/uploads/sites/
+3/RD-20061211-2857.pdf.
+Rice, J. A., Levine, L. J. & Pizarro, D. A. (2007). Just stop thinking
+about it: Effects of emotional disengagement on children’s
+memory for educational material. Emotion, 7(4), 812–823.
+Sautú, R. (1989). Teoría y técnica en la medición del status ocupacional:
+Escalas objetivas de Prestigio [Theory and technique in
+measuringoccupational status: Objective Prestige Scales] Documento
+de trabajo. Buenos Aires: UBA. Institute of Social Sciences.
+Schulz, A., Lemos, V. & Richaud, M. C. (Junio 2009). Validation of
+the positive affect and negative affect schedule-child form
+(PANAS-C) in Argentine children. Presentado en el XXXII
+Interamerican Congress of Psychology, Guatemala,
+Snelbaker, A. J., Wilkinson, G. S., Robertson, G. J. & Glutting, J. J.
+(2001). Wide Range Achievement Test 3 (WRAT3). En W. I.
+
+Dorfman, & M. Hersen (Eds.), Understanding Psychological
+Assessment (pp. 259–274). New York, NY: Springer US.
+Steinmayr, R., Meibner, A., Weidinger, A. & Wirthwein, L. (2015).
+Academic Achievement. Oxford: UK: Oxford Bibliographies.
+Tõeväli, P. K. & Kikas, E. (2016). Relations among parental causal
+attributions and children’s math performance and task
+persistence. Educational Psychology, 37, 1–14.
+http://dx.doi.org/10.1080/01443410.2016.1225949
+Toll, S. W., van der Ven, S. H., Kroesbergen, E. H. & van Luit, J. E.
+(2011). Executive functions as predictors of math learning
+disabilities. Journal of Learning Disabilities, 44(6), 521–532.
+http://dx.doi.org/10.1177/0022219410387302
+Trentacosta, C. J. & Izard, C. E. (2007). Kindergarten children’s
+emotion competence as a predictor of their academic
+competence in ﬁrst grade. Emotion, 7(1), 77–88.
+http://dx.doi.org/10.1037/1528-3542.7.1.77
+Tull, M. T. & Aldao, A. (2015). New directions in the science of
+emotion regulation. Current Opinion in Psychology, 3, 1–18.
+http://dx.doi.org/10.1016/j.copsyc.2015.03.009
+Vernucci, S., CanetJuric, L., Andrés, M. L. & Burín, D. (2017).
+Comprensión lectora y cálculo matemático: el rol de la
+memoria de trabajo en niños de edad escolar. Psykhe, 26(2),
+1–13, https://doi.org/10.7764/psykhe.26.2.1047.
+Watson, D., Clark, L. & Tellegen, A. (1988). Development and
+validation of brief measures of positive and negative affect:
+The PANAS scales. Journal of Personality and Social Psychology,
+54(6), 1063–1070. http://dx.doi.org/10.1037/0022-3514.54.6.1063
+Weaver, C. A. & Kintsch, W. (1991). Expository text. En R. Barr, M.
+Kamil, P. Mosenthal, & P. D. Pearson (Eds.), The Handbook of
+Reading Research (2) (pp. 230–245). White Plains, NY: Longman.
+Wilkinson, G. S. (1993). Wide Range Achievement Test 3.
+Wilmington, DE: Wide Range.
+Wolf, M. (2007). Proust and the squid: The story and science of the
+reading brain. New York: Harper Collins.
+York, T., Gibson, C. & Rankin, S. (2015). Deﬁning and measuring
+academic success. Practical Assessment, Research & Evaluation,
+20(5), 1–20.
+
+
