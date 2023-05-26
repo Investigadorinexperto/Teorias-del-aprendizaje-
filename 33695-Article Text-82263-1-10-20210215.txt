@@ -1,0 +1,594 @@
+Journal of Neuroeducation
+Revista de Neuroeducación – Revista de Neuroeducació
+
+Perspectivas
+
+La Neurociencia detrás del aprendizaje
+basado en problemas (ABP)
+Neurociencia detrás del ABP
+Fabián Román1*2*3*4
+Universidad de la Costa, Colombia
+Universidad Maimónides, Argentina
+3
+Red Iberoamericana de Neurociencia Cognitiva
+4
+Instituto de Neurociencia Cognitiva de Puerto Rico
+1
+2
+
+*Correspondencia:
+Fabián Román
+faromanmd@gmail.com
+Citación:
+Román F. La Neurociencia detrás
+del aprendizaje basado en
+problemas (ABP). JONED. Journal
+of Neuroeducation. 2021; 1(2);
+50-56.
+Declaración ética
+El presente trabajo ha sido
+realizado de forma autónoma
+y original. Los textos extraídos
+de otros autores se han citado
+mediante las normas Vancouver.
+El autor del presente escrito se
+responsabiliza de informar de
+posibles errores que se detecten
+con la finalidad de introducir las
+correcciones oportunas.
+Conflicto de interés
+El autor declara la ausencia de
+conflicto de interés derivado de
+este trabajo.
+Editor:
+Marcel Ruiz Mejías (Universitat
+Pompeu Fabra, España)
+Revisores:
+Marcel Ruiz Mejías (Universitat
+Pompeu Fabra, España) y David
+Bueno i Torrens (Universitat de
+Barcelona, España)
+El manuscrito ha sido aceptado
+por todos los autores, en el caso
+de haber más de uno, y las figuras,
+tablas e imágenes no están sujetos
+a ningún tipo de copyright.
+
+Resumen
+Diversas universidades en todo el mundo utilizan el aprendizaje basado en problemas (ABP) como un organizador curricular que se orienta a desarrollar estudiantes activos, con competencias propias del desempeño profesional, enfrentando
+escenarios problema mediante el trabajo en pequeños grupos colaborativos con
+la guía del docente como facilitador, utilizando la indagación como herramienta
+didáctica principal. Se presenta una perspectiva del ABP desde la neurociencia
+educacional analizando sus componentes principales como los escenarios problemas, su relación con los principios de la neurociencia, los neurocircuitos prefrontales - subcorticales y las funciones ejecutivas; la pregunta como estrategia
+didáctica central del facilitador y una aproximación a la evidencia para su uso;
+y por último, analizamos el grupo tutorial, no solo como un grupo colaborativo
+de aprendizaje que mejora el rendimiento académico, sino como una refinada
+estructura de entrenamiento en la cognición social, que permite la identificación
+de necesidades de mejora en etapas precoces facilitando la inclusión social profesional especifica del área de formación. El éxito del ABP en los procesos de
+cambio curricular atrae la búsqueda de niveles de explicación y de evidencia,
+priorizando su lugar en la agenda investigativa de la neurociencia educacional.
+Abstract
+Various universities around the world use problem-based learning (PBL) as a curricular organizer that is oriented to develop active students, with competencies
+of professional performance, facing problem scenarios by working in small collaborative groups with the teacher’s guidance as facilitator, using the “question”
+as the main teaching tool. A perspective of PBL from educational neuroscience
+is presented, analyzing its main components such as problem scenarios, its relationship with the principles of neuroscience and prefrontal-subcortical neurocir-
+
+JONED. Journal of Neuroeducation
+ISSN: 2696-2691
+
+50
+
+Vol.1 Num.2 - Febrero 2021
+DOI: 10.1344/joned.v1i2
+
+Perspectivas
+
+Román: Neurociencia detrás del ABP
+
+cuits and executive functions. The “question” as a central didactic strategy of the
+facilitator and an approach to the evidence for its use. And finally, we analyze the
+tutorial group, not only as a collaborative learning group that improves academic
+performance, but also as a refined training structure in social cognition, which
+allows the identification of improvement needs in early stages, facilitating social
+inclusion specific professional in the training area. The success of PBL in the processes of curricular change attracts the search for levels of explanation and evidence, prioritizing its place in the research agenda of educational neuroscience.
+Palabras clave: PBL; ABP; neurociencia; neuroeducación; tutores; problema;
+aprendizaje colaborativo; pregunta.
+
+Introducción
+El aprendizaje basado en problemas (ABP) se estructura en un proceso de indagación que intenta resolver preguntas, curiosidades, dudas e incertidumbres
+sobre fenómenos complejos de la vida1. El ABP se
+utiliza desde la década del 60 en escuelas de medicina, enfermería, kinesiología, ingeniería, incluso
+en escuelas primarias y secundarias en diferentes
+países, con gran aceptación. Las universidades más
+prestigiosas del mundo cada año incorporan el ABP
+a sus carreras; muchos ministerios de salud, educación y asociaciones de facultades de medicina recomiendan al ABP como estrategia pedagógica para
+la transformación de la educación universitaria de
+pregrado y postgrado en sus países2.
+El pensamiento crítico es el vínculo clave entre el
+aprendizaje transformador, la educación sustentable
+y el ABP, y el desafío es cambiar nuestra pedagogía
+en todas las disciplinas para que los docentes y estudiantes piensen críticamente 3. Las experiencias
+exitosas en que se basan estas recomendaciones
+son las que utilizaron al ABP como un organizador
+curricular4, que se orienta al desarrollo de estudiantes activos, desde el inicio de su formación con
+competencias propias del desempeño profesional a
+través de escenarios problemas mediante el trabajo en pequeños grupos. En cuanto a los hábitos de
+autoaprendizaje, la estrategia de ABP se basa en el
+concepto de centrar en el estudiante la gestión de
+su propio aprendizaje, es este quién identifica sus
+necesidades de aprendizaje para comprender los
+escenarios problemas, con la guía del docente que
+opera como facilitador, utilizando la indagación como herramienta didáctica principal5.
+
+JONED. Journal of Neuroeducation
+ISSN: 2696-2691
+
+Cuando se busca evidencia de la eficacia del ABP,
+podemos encontrarnos con varias dificultades6.
+La primera es el concepto con el cuál se aplicó,
+si fue como técnica didáctica en un curso aislado o
+si se usó como organizador curricular en un programa de formación. Estudios sobre los enfoques de
+aprendizaje, indican que ABP mejora el aprendizaje
+profundo (deep learning) y tiene poco efecto en el
+aprendizaje superficial7, incluso la mejora es mayor
+en los programas que utilizan el ABP como organizador curricular en comparación con los que lo implementan con un curso aislado. La segunda dificultad
+se refiere a las medidas de eficacia utilizadas, por
+ejemplo, si solo se toma la calificación de un examen
+de contenidos8 o se evalúan competencias en esos
+estudiantes. Y la tercera se relaciona directamente con la falta formación específica en ABP de los
+mismos protagonistas. Entre las dificultades para
+construir evidencia sobre la metodología y la laberíntica evaluación de la eficacia de un currículum; el
+ABP se encuentra en una zona donde la mala praxis
+educativa pone a la teoría y la práctica en riesgo de
+disociarse de una realidad formativa cada vez más
+compleja, diversa y demandante.
+
+La “Neurociencia” detrás del ABP
+Cuando observamos los componentes del ABP, casi como un reflejo podemos construir puentes con
+los principios de la neurociencia educativa. Puentes
+construidos desde ambas orillas, donde el encuentro
+facilita el intercambio de experiencias y de la investigación. Seleccionamos tres componentes relevantes del ABP y su relación con la evidencia aportada
+desde la neurociencia.
+
+51
+
+Vol.1 Num.2 - Febrero 2021
+DOI: 10.1344/joned.v1i2
+
+Perspectivas
+
+Román: Neurociencia detrás del ABP
+
+El escenario Problema
+El “problema” es la pedagogía natural del aprendizaje. La resolución de problemas es un característica
+evolutiva de nuestra especie9. Por definición, un problema es toda situación que requiere una solución.
+Desde niños aprendemos a enfrentar situaciones
+problema y a buscar su solución. Cuando lo hacemos, los procesos neurocognitivos se centran en las
+funciones ejecutivas activando el lóbulo prefrontal.
+Los estudios de redes cerebrales han identificado
+sistemáticamente núcleos estructurales en la corteza cerebral que funcionan como “HUB” de comunicación y de integración cerebral, estos centros de comunicación e integración de información participan
+ampliamente en el conjunto diverso de funciones
+neurocognitivas10. El lóbulo prefrontal es el principal
+“HUB” de comunicación entre los centros cerebrales de información en los contextos de aprendizaje;
+integrando los sentidos, el sistema atencional, el sistema de memoria, las funciones ejecutivas, la información emocional y la cognición social11.
+Frente a un problema, el desafío es resolverlo. Para hacerlo, se activan diversas regiones cerebrales
+que interactuarán para comunicarse e integrar esa
+información con el objetivo de percibir, focalizar,
+planificar, tomar decisiones, monitorear resultados,
+cambiar de plan, en un contexto emocional y social.
+El escenario problema en el ABP es la estrategia neurodidáctica natural con la cual nuestro cerebro pone
+en juego esta serie de procesos neurocognitivos que
+facilitan el aprendizaje.
+Cummings describió la relación del lóbulo prefrontal con estructuras subcorticales y su función
+en la cognición y conducta12. Identificó tres regiones
+funcionales en la corteza prefrontal. A) la corteza
+prefrontal dorsolateral (CPFDL) forma un circuito de
+integración de información con estructuras subcorticales como el núcleo caudado (dorso lateral), globo
+pálido (lateral derecho medial) y el tálamo (ventral
+anterior y medial dorsal). La función de esta región
+es la organización de acciones hacia una meta, la
+planificación, la construcción de planes prospectivos, la generación de estrategias, el mantenimiento
+de la flexibilidad cognitiva, los cambios de criterio, la
+evaluación de resultados y pistas, la construcción de
+conceptos, la categorización, los procesos de abstracción y razonamiento, en la producción verbal y
+no-verbal del lenguaje, y en el proceso de memoria
+de trabajo. Las funciones ejecutivas son un conjunto
+
+JONED. Journal of Neuroeducation
+ISSN: 2696-2691
+
+de habilidades cognitivas directamente vinculadas
+al proceso madurativo de la corteza prefrontal. Son
+muy importantes para la vida cotidiana, resultan imprescindibles para el éxito académico13, y puede entrenarse y mejorar a cualquier edad14. B) La corteza
+prefrontal orbitofrontal (CPFOF) integra información
+del núcleo caudado (ventro medial), del globo pálido
+(medio dorso medial) y del tálamo (medial dorsal).
+Está involucrada en la regulación de la afectividad,
+el control de los impulsos, las conductas de imitación, la detección de amenazas, en la evaluación y la
+regulación emocional15. C) la corteza prefrontal ventro medial (CPFVM) integra información del cíngulo
+anterior, núcleo accumbens, del globo pálido (rostral
+lateral) y del tálamo (medio dorsal); está involucrada en la modulación de las regiones parietales que
+contienen las neuronas que responden a las acciones observadas y ejecutadas por los demás (red de
+neuronas en espejo) y en la atribución automática de
+estados mentales (red de teoría de la mente, ToM)16.
+La CPFVM es clave para todos los procesos de interacción social.
+De manera empírica el ABP, poniendo en el rol
+profesional al estudiante a través del escenario problema, dirige su estrategia a uno de los principios
+fundamentales de la neurociencia enunciado por Eric
+Kandel17: “La experiencia transforma el cerebro”. Para que ese principio se cumpla, el o los estímulos
+educativos deben ser experiencias que se asemejen
+a la vida real, debiendo ser intensos, frecuentes, duraderos y oportunos para generar cambios en las conexiones neuronales y que esos cambios sean estables
+en el tiempo, condiciones en las cuales se basan los
+procesos de neuroplasticidad18. En el ABP, el diseño
+de escenarios problema, integrando disciplinas vertical y horizontalmente en el currículum facilita que los
+estímulos de aprendizaje logren el fortalecimiento en
+redes fuertes, estables en el tiempo y de rápido acceso al momento del ejercicio profesional.
+En el ABP, un escenario problema nos enfrenta,
+no solo al desafío de resolverlo, sino al desafío del
+¿cómo se resuelve? Al enfrentarse al escenario problema el estudiante desarrolla los procesos de metacognición y autorreflexión, primero como habilidad
+no consciente, y luego avanzado en la experiencia
+lo hace como una serie de estrategias conscientes,
+voluntarias y controladas19. Si bien el estímulo es el
+escenario problema, en el ABP no es importante si el
+estudiante lo resuelve o no; el foco se encuentra en el
+
+52
+
+Vol.1 Num.2 - Febrero 2021
+DOI: 10.1344/joned.v1i2
+
+Perspectivas
+
+Román: Neurociencia detrás del ABP
+
+proceso y en todos las funciones y habilidades neurocognitivas que el estudiante utiliza para establecer
+sus necesidades de aprendizaje, sus estrategias de
+búsqueda, sus criterios de selección y análisis critico
+de la información20.
+La Pregunta
+Sin duda, la “pregunta” adecuada, inteligente, orientada a un objetivo y realizada en el momento oportuno
+y en el contexto adecuado puede no solo activar con
+aguda eficiencia el sistema atencional, sino generar
+una tormenta de interacciones de procesos neurocognitivos de impredecible consecuencia para el
+aprendizaje.
+Una sola pregunta puede contener más pólvora que mil
+respuestas. (Gaarder J, 2010)
+
+El origen de la palabra “pregunta” viene del latín
+“praecunctare” y significa someter a interrogatorio,
+inquirir o interpelar. Una pregunta es una oración interrogativa que se le hace a una persona para saber
+algo de él o que sirve para obtener información sobre algo. La pregunta es una búsqueda intencionada
+orientada a revelar un conocimiento que se encuentra implícito.
+Paulo Freire nos plantea que “todo conocimiento
+comienza por la pregunta, la cual ayuda a iniciar procesos interactivos de aprendizaje y solución de problemas, y mantenerlos hasta cuando se logren los
+objetivos, se planteen nuevos problemas y nuevas
+situaciones de aprendizaje”21.
+En el contexto del ABP, la pregunta sirve para motivar la curiosidad, identificar las variables de un problema, identificar saberes previos para establecer las
+necesidades de aprendizaje, desarrollar habilidades
+de pensamiento crítico, fomentar la opinión participativa sobre un hecho o tema de debate, identificar
+las fortalezas y debilidades del proceso de aprendizaje para re-orientarlo de manera temprana, identificar los mecanismos de reflexión que se utilizaron
+para resolver la situación problema (metacognición)
+y facilitar la autoevaluación.
+Algunos investigadores han realizado aportes interesantes y originales en el estudio de la pregunta
+como herramienta didáctica22. Se estudió el diálogo
+socrático para la enseñanza de principios de geometría, los hallazgos evidenciaron que la mitad de
+los estudiantes pudieron establecer conexiones con
+
+JONED. Journal of Neuroeducation
+ISSN: 2696-2691
+
+conocimientos previos para la comprensión de los
+conceptos de geometría, además de poder utilizarlos
+posteriormente en otros contextos23. Otro estudio,
+buscó un marcador fisiológico implicado en la interacción docente-estudiante, registrando la actividad
+del lóbulo prefrontal durante la ejecución del diálogo
+socrático con espectroscopia funcional de infrarrojo
+cercana (fNIRS)24. Los estudiantes que transfirieron
+con éxito el conocimiento mostraron menos actividad que los que no mostraron transferencia, evidenciando una sincronía en la actividad prefrontal entre
+docente y estudiante, lo cual se puede interpretar como una fisiología prefrontal más eficiente y exitosa
+como resultado de la adecuada interacción. Desde
+otras disciplinas también existen aportes interesantes sobre la eficacia de los distintos tipos de preguntas. El uso de la pregunta elaborativa, o sea, realizar
+una pregunta sobre el contenido de un texto cada
+cierto número de palabras, demostró ser más eficaz
+para el aprendizaje que realizar las preguntas al final
+del texto, y este efecto se amplifica cuanto más conocimientos previos tiene el estudiante 25.
+La pregunta es la técnica didáctica clave en el
+ABP; no solo las preguntas realizadas por el docente, también las preguntas hechas por los otros estudiantes. Este ejercicio de diálogo de ideas y saberes
+se asemeja a la práctica profesional, donde el otro
+es una fuente de conocimiento y donde el estudiante puede reflejar sus propias competencias hacia el
+aprendizaje. En palabras socráticas, “toda cognición
+es recognición”.
+Aprendizaje en pequeños grupos - Aprendizaje colaborativo
+La tutoría es la actividad principal en el ABP, son reuniones de 6 a 8 estudiantes dos veces a la semana con un tutor que cumple el rol de facilitador del
+aprendizaje del grupo a través de su expertise en el
+proceso de ABP. Esto involucra el manejo de dinámicas grupales, su capacidad para modelar y entrenar
+a los estudiantes en las destrezas y actitudes para
+el abordaje de los problemas, para la revisión crítica
+de las fuentes de información, en el método científico, en la resolución de problemas, en las normas de
+conducta y brindar el feedback del desempeño. En
+esencia el grupo tutorial es un grupo de aprendizaje
+colaborativo.
+Podemos definir al “aprendizaje colaborativo”
+como el desarrollo de habilidades individuales (neu-
+
+53
+
+Vol.1 Num.2 - Febrero 2021
+DOI: 10.1344/joned.v1i2
+
+Perspectivas
+
+Román: Neurociencia detrás del ABP
+
+rocognitivas) y grupales (basadas en la cognición
+social) a partir de actividades didácticas de interacción social, entre estudiantes reunidos en grupos
+pequeños, a través del trabajo en equipo; con el fin
+de cooperar entre todos los miembros para lograr un
+objetivo común de aprendizaje.
+Los estudios experimentales muestran que el
+comportamiento cooperativo se propaga en las interacciones sociales. Cada individuo tiene influenciando su comportamiento por la contribución de los
+miembros del grupo en interacciones pasadas; esta
+influencia persiste durante múltiples períodos y se
+extiende hasta la generación de tres futuras interacciones de persona a persona26. Al estudiar la interacción entre estudiantes los resultados indican que un
+mayor rendimiento académico y relaciones más positivas entre los compañeros se asocian con metas
+cooperativas en lugar de competitivas o individualistas27. A su vez, los estudios por neuro-imágenes como la RMNf nos muestran que la cooperación entre
+individuos se asoció con una activación de áreas cerebrales relacionadas con el sistema dopaminérgico
+de recompensa, involucrando al núcleo accumbens,
+al núcleo caudado, a la CPFVM, a la CPFOF y a la
+corteza cingulada anterior rostral28.
+En el aprendizaje colaborativo lo primero que se
+aprende es ver en el otro una fuente de aprendizaje.
+Los miembros del grupo deben incorporar algunos
+principios que hacen a su funcionamiento; tener
+metodología compartida de trabajo, participar en
+la toma de decisiones grupal, ser responsables por
+igual de la resultados y comprender que mas allá de
+los objetivos comunes de aprendizaje el grupo tiene como meta general, el desarrollo de la persona.
+Citando a uno de los referentes de la neurociencia
+social Ralph Adolph, “somos una especie esencialmente social; ningún componente de nuestra civilización sería posible sin un comportamiento colectivo
+a gran escala”29.
+La cognición social, es definida como la capacidad de construir representaciones mentales de las
+relaciones que existen entre uno mismo y los demás,
+y usar de forma flexible estas representaciones para
+funcionar eficazmente en el entorno social.
+Por lo tanto, la cognición social involucra aquellas
+habilidades cognitivas que se ponen en juego solo
+ante situaciones de interacción entre individuos. El
+grupo tutorial se basa en la interacción entre sus
+miembros, por lo cual durante las reuniones cada es-
+
+JONED. Journal of Neuroeducation
+ISSN: 2696-2691
+
+tudiante y el docente utiliza sus redes neurales implicadas en la cognición social. La red “amigdalina” en
+la detección de amenazas, la evaluación emocional
+y regulación emocional, involucrando regiones como
+la amígdala y CPFOF. La red de “teoría de la mente”
+implicada en la atribución automática de los estados
+mentales de los demás, involucrando región como el
+prefrontal medial y regiones temporales superiores.
+La “red de empatía” para la detección automática de
+rostros y en la respuesta emocional a la angustia de
+los demás, a través de la ínsula y amígdala. Y la “red
+de neuronas en espejo“ que contienen las neuronas
+que responden a las acciones observadas y ejecutadas por los demás, con participación del lóbulo
+parietal y regiones prefrontales16.
+Algunos autores han sugerido que la arquitectura modular del cerebro adulto no se consigue solo
+por la maduración o por el aprendizaje, sino por una
+vía intermedia, denominada “especialización interactiva”, que conduce a la actividad cerebral cada
+vez más específica y focalizada30. Esto ocurre por
+los cambios estructurales y neurofisiológicos del
+cerebro asociados con el desarrollo de la experiencia, grandes regiones de la corteza prefrontal se emplean en las etapas de aprendizaje temprano, y luego
+se desarrollan regiones más focales que se asocian
+con el desempeño y la competencia31. Este patrón de
+actividad cerebral cada vez más específica y focal
+acompañado por la edad, se ha identificado en varias regiones involucradas en la cognición social32.
+Cuanto más experiencias de interacción social tiene
+el individuo más estimula su cognición social.
+El grupo tutorial es el grupo primario de aprendizaje social durante el periodo de formación académica.
+En él, los estudiante se entrenan en el reconocimiento de emociones, en teoría de la mente, en la identificación y uso de script sociales, en la selección de
+sesgos atribucionales, en desarrollar la perspectiva
+cognitiva y la empatía, y en gestionar eficazmente
+las emociones morales; lo hace orientando su cognición social específicamente hacia el grupo social en
+el cual ejercerá su desempeño profesional. Es decir,
+que un estudiante de medicina aprenderá en el grupo tutorial aspectos de la cognición social específica
+que usará para la relación con sus pares médicos en
+el futuro. El grupo tutorial no solo es una fuente de
+aprendizaje de contenidos y competencias, sino también es una refinada y compleja estructura de entrenamiento que permite el desarrollo de la cognición
+
+54
+
+Vol.1 Num.2 - Febrero 2021
+DOI: 10.1344/joned.v1i2
+
+Perspectivas
+
+Román: Neurociencia detrás del ABP
+
+social específica facilitando tempranamente la inclusión en su futuro grupo profesional de pertenencia.
+
+Conclusiones
+Por un lado, la experiencia exitosa de diversas universidades al implementar sistemas de ABP alienta a más universidades a poner en su objetivo los
+cambios curriculares basados en estudiantes más
+activos, docentes facilitadores, escenarios problema, con énfasis en la evaluación formativa y en las
+competencias. Por otro lado, la neurociencia educacional es un campo transdisciplinario que tiene como objetivo principal construir conocimiento sobre
+el aprendizaje, incorporando múltiples metodologías
+y niveles de explicación provenientes tanto de la educación como de la neurociencia; pero también busca
+explicar cómo aprenden los estudiantes y cómo el
+propio aprendizaje cambia el cerebro para luego aplicar estas investigaciones en el aula33.
+Los descubrimientos de la neurociencia educacional modifican las intervenciones en el aula, a la vez
+
+que los problemas presentados en la práctica docente y en el propio currículum van moldeando lentamente las intervenciones que se necesitan, y estas
+a su vez, la agenda investigativa de la neurociencia
+educacional34.
+Desde el ámbito educativo, hace 60 años que se
+viene construyendo una estrategia de aprendizaje exitosa en mejorar los sistemas de formación profesional. Es inevitable que el ABP comience a integrarse
+con la neurociencia educativa para generar investigación, niveles de explicación que permitan comprender cada uno de sus componentes y para construir
+evidencias sólidas sobre sus bases neurocientíficas.
+
+Limitaciones
+Al ser un artículo sobre perspectivas, las opiniones y selección de información puede ser limitada. Los artículos
+de perspectiva intentan proyectar una tendencia basada
+en experiencias del autor y su selección de información,
+esto puede excluir algunos aspectos no contemplados por
+el autor en su totalidad.
+
+Referencias
+1. Barrel J. ABP. Aprendizaje Basado en Problemas. Un enfoque
+Investigativo. Ediciones Manantial 1999. Pág. 21.
+2. Documento para la transformación de la Educación Medica
+en Colombia. Ministerio de Salud y Ministerio de Educación
+de Colombia. 2016. https://www.minsalud.gov.co/sites/rid/
+Lists/BibliotecaDigital/RIDE/VS/MET/recomendaciones-comision-para-la-transformacion.pdf .
+3. Thomas I. Critical Thinking, Transformative Learning, Sustainable Education, and Problem-Based Learning in Universities. Journal of Transformative Education. 2009. 7 (3):245264. doi.org/10.1177/1541344610385753.
+4. Neville A, Norma, G, White R. McMaster at 50: lessons learned from five decades of PBL. Adv in Health Sci Educ. 2019.
+24, 853–863. doi.org/2067/10.1007/s10459-019-09908-2
+5. Barrows HS, Norman GR, Neufeld VR, Feightner JW. The clinical reasoning of randomly selected physicians in general
+medical practice. Clinical and Investigative Medicine. Medecine Clinique et experimentale. 1982. 5, 49-55.
+6. Sadlo G. Chapter Learning trough problems: perspectives
+from neuroscience. En editor: Davies J, de Graaff E, Kolmos
+A. (Eds.). PBL across the disciplines: Research into best practice. Aalborg Universitet sforlag. (2011). Pág. 432-440. http://
+wwwm.coventry.ac.uk/pbl2011/Pages/problembasedlearning2011.aspx
+7. Dolmans DHJM, Loyens SMM, Marcq H et al. Deep and
+surface learning in problem-based learning: a review of the
+
+JONED. Journal of Neuroeducation
+ISSN: 2696-2691
+
+8.
+
+9.
+10.
+
+11.
+12.
+
+13.
+
+14.
+
+15.
+
+literature. Adv in Health Sci Educ. 2016. 21, 1087-1112. doi.
+org/10.1007/s10459-015-9645-6
+Mujumdar SB, Acharya H, Shirwaikar S. Measuring the effectiveness of PBL through shape parameters and classification.
+Journal of Applied Research in Higher Education. 2020. 13(1),
+342-368. doi.org/10.1108/JARHE-08-2018-0175
+Nataraja S. The Blissful Brain. Octapus Publishing Group Ltd.
+2008.
+Van den Heuvel M, Sporns O. Network hubs in the human
+brain. Trends in Cognitive Sciences. 2013. 17, 12684. doi.org/10.1016/j.tics.2013.09.012
+Gazzaniga M. Human: The Science behind what makes us
+unique. Ecco Harper Collins. 2008.
+Cummings JL. Frontal-Subcortical Circuits and Human Behavior. Arch Neurol. 1993. 50(8): 873-880. doi.org/10.1001/
+archneur.1993.00540080076020
+Best JR, Miller PH, Naglieri JA. Relations between Executive
+Function and Academic Achievement from Ages 5 to 17 in
+a Large, Representative National Sample. Learning and individual differences. 2011. 21(4), 327-336. doi.org/10.1016/j.
+lindif.2011.01.007
+Diamond A, Ling D. “Conclusions about interventions, programs, and approaches for improving executive functions
+that appear justified and those that, despite much hype, do
+not”. 2016. Developmental Cognitive Neuroscience 18, 34-48.
+Bonelli RM, Cummings JL. Frontal-subcortical circuitry and
+
+55
+
+Vol.1 Num.2 - Febrero 2021
+DOI: 10.1344/joned.v1i2
+
+Perspectivas
+
+Román: Neurociencia detrás del ABP
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+21.
+
+22.
+
+behavior. Dialogues in clinical neuroscience. 2007. 9(2), 141151. doi.org/10.31887/DCNS.2007.9.2/rbonelli.
+Kennedy D, Adolphs A. The social brain in psychiatric and
+neurological disorders, Trends in Cognitive Sciences. 2012.
+16(11), 559-572.
+CAPPAS N et al. What psycotherapists can begin to learn from
+neurosciencie: seven principles of a brain – based psychoterapy. Journal Psychotherapy Theory Research & Practice.
+2005. 42(3):374-383. doi.org10.1037/0033-3204.42.3.374.
+Feldman D, Brecht M. Map Plasticity in Somatosensory Cortex. Science. 2005. 310, 5749, 810-815. doi.org/10.1126/
+science.1115807 .
+Downing K, Kwong T, Chan SW et al. Problem-based learning
+and the development of metacognition. High Educ. 2009. 57,
+60- 621. doi.org/10.1007/s10734-008-9165-x .
+Norman GR, Schmidt H. The effectiveness of problem-based
+learning curricula. Medical Education. 2000. 34, 721-728.
+Freire P. Por una pedagogía de la pregunta: crítica a una educación basada en respuestas a preguntas inexistentes. 1 ed.
+Buenos Aires: Siglo Veintiuno Editores, 2013.
+Guillen J. Preguntas que encienden la chispa del aprendiza-
+
+je: desde Sócrates hasta hoy. Barcelona. Web: Escuela con
+cerebro. Publicado 8 enero, 2016. Disponible en: https://escuelaconcerebro.wordpress.com/?s=pregunta
+23. Pezzatti L, Battro A, Goldin A, Sigman M. ¿Qué podemos
+aprender hoy de experimentar con el diálogo socrático intentando duplicar el área de un cuadrado? En SEMUR, Sociedad
+de Educación Matemática Uruguaya (Ed.), VII Congreso Iberoamericano de Educación Matemática. 2013. (pag. 14801487). Montevideo, Uruguay: SEMUR.
+24. Holper L, Goldin A, Shalom D, Battro A, Wolf M, Sigman M.
+The teaching and the learning brain: a cortical hemodynamic
+marker of teacher–student interactions in the socratic dialog.
+International Journal of Educational Research. 2013. 59, 1-10.
+doi.org/10.1016/j.ijer.2013.02.002 .
+25. Dunlosky J, Rawson KA, Marsh EJ, Nathan MJ, Willingham
+DT. Improving students’ learning with effective learning techniques: promising directions from cognitive and educational
+
+JONED. Journal of Neuroeducation
+ISSN: 2696-2691
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+psychology. Psychological Science in the Public Interest.
+2013. 14(1), 4-58.
+Fowler J and Christakis N. Cooperative behavior cascades in
+human social networks. Journal PANS, Proceedings of the
+National Academy of Sciences. 2010. 107(12), 5334-5338.
+doi.org/10.1073/pnas.0913149107 .
+Rilling J, Gutman D, Zeh T, Pagnoni G, Berns G, Kilts C. A Neural Basis for Social Cooperation. 2002. Neuron. 35(2), 395405. doi.org/10.1016/S0896-6273(02)00755-9 .
+Roseth CJ, Johnson DW, Johnson RT. Promoting early adolescents’ achievement and peer relationships: The effects
+of cooperative, competitive, and individualistic goal structures. Psychological Bulletin. 2008. 134(2), 223-246. doi.
+org/10.1037/0033-2909.134.2.223.
+Adolphs R. The social brain: neural basis of social knowledge.
+Journal Annual review of psychology. 2009. 60, 693-716. doi.
+org/10.1146/annurev.psych.60.110707.163514.
+Johnson M. Interactive Specialization: A domain-general framework for human functional brain development? Journal
+Developmental Cognitive Neuroscience. 2011. 1(1), 7-21. doi.
+org/10.1016/j.dcn.2010.07.003.
+
+31. Sakai K, Ramnani N, Passingham RE. Learning of sequences
+of finger movements and timing: frontal lobe and action-oriented representation. J Neurophysiol. 2002 Oct. 88(4), 2035-46.
+doi.org/10.1152/jn.2002.88.4.2035 .
+32. Gweon H, Dodell-Feder D, Bedny M, Saxe R. Theory of mind
+performance in children correlates with functional specialization of a brain region for thinking about thoughts.
+Child Dev. 2012. 83(6), 1853-68. doi.org/10.1111/j.14678624.2012.01829.x.
+33. Howard-Jones PA, Varma S, Ansari D, Butterworth B, De Smedt B, Goswami U, Laurillard D, Thomas MSC. The principles
+and practices of educational neuroscience: Comment on
+Bowers. Psychological Review. 2016. 123(5), 620-627. doi.
+org/10.1037/rev0000036.
+34. Gabriel J. The promise of educational neuroscience: Comment on Bowers. Psychological Review. 2016. 123(5), 613619. doi.org/10.1037/rev0000034.
+
+56
+
+Vol.1 Num.2 - Febrero 2021
+DOI: 10.1344/joned.v1i2
+
+
