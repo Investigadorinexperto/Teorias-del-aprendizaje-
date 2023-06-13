@@ -1,0 +1,1010 @@
+
+
+Vélez Gutiérrez, Carlos Fernando; Ruíz Ortega, Francisco Javier
+Una revisión sobre metacognición. Algunas implicaciones para los procesos educativos
+Revista Tesis Psicológica, vol. 16, núm. 1, 2021, Enero-Junio, pp. 100-117
+Fundación Universitaria Los Libertadores
+
+Cómo citar el artículo
+Número completo
+Más información del artículo
+Página de la revista en redalyc.org
+
+Sistema de Información Científica Redalyc
+Red de Revistas Científicas de América Latina y el Caribe, España y Portugal
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso
+abierto
+
+Una revisión sobre metacognición. Algunas implicaciones para los procesos educativos
+
+Este artículo es un producto de una investigación doctoral realizada en la
+Universidad de Caldas. El informe final de este proyecto, identificado como
+Interacciones cognitivas y metacognitivas de docentes y estudiantes universitarios en el aula de clase, fue defendido y aprobado en diciembre de 2019.
+
+
+Review of Literature: Teaching and learning are
+cognitive activities that are built in the interaction
+between teachers and students; their strengthening
+is related to the knowledge and regulation of mental activity; therefore, it is strategic to understand and
+promote metacognitive dynamics in the classroom.
+Objectives: to evidence the conceptual evolution of
+the term cognition during the last decades and to
+articulate the main theoretical perspectives on the
+relationships between cognition and metacognition.
+Methodology: This review arose from the interpretation of trends, agreements and disagreements in texts
+published in indexed journals, with emphasis on international journals and handbooks from two international databases: Scopus, in English, and Redalyc,
+in Spanish. Results: In the first part, the three main
+theoretical trends on cognition are presented and, in
+the second part, the evolution of the term metacognition, during the last four decades, in a double perspective: the most relevant conceptual changes of metacognition understood as an individual phenomenon
+and as a social phenomenon. Conclusions: teachers
+and students can play a decisive role in the resolution
+of academic tasks and commitments, if they behave
+as metacognitive agents, that is, if they strengthen
+their abilities and dispositions of shared regulation of
+cognition. This type of interaction has shown significant results in the learning of mathematics, reading,
+writing, and natural sciences; furthermore, it benefits
+teachers and students in basic and higher education,
+because it strengthens their cognitive processes in the
+management of information and knowledge.
+
+Antecedentes: Enseñanza y aprendizaje son actividades
+cognitivas que se construyen en la interacción entre
+profesores y estudiantes, su fortalecimiento está relacionado con el conocimiento y la regulación de la actividad mental, por esto, resulta estratégico comprender y
+promover las dinámicas metacognitivas en el aula. Objetivos: Evidenciar la evolución conceptual del término
+cognición durante las últimas décadas y articular las
+principales perspectivas teóricas sobre las relaciones entre cognición y metacognición. Metodología: Esta revisión surgió de la interpretación de tendencias, acuerdos
+y desacuerdos en textos publicados en revistas indexadas, con énfasis en revistas internacionales y handbooks
+de dos bases de datos internacionales: Scopus, en inglés,
+y Redalyc, en español. Resultados: En la primera parte, se presentan las tres principales tendencias teóricas
+sobre la cognición y, en la segunda parte, la evolución
+del término metacognición, durante las últimas cuatro
+décadas, en una doble perspectiva: los más relevantes
+cambios conceptuales de la metacognición entendida
+como fenómeno individual y como fenómeno social.
+Conclusiones: profesores y estudiantes pueden cumplir
+un papel decisivo en la resolución de tareas y compromisos académicos, si se comportan como agentes
+metacognitivos, es decir, si fortalecen sus habilidades
+y disposiciones de regulación compartida de la cognición. Este tipo de interacción ha mostrado resultados
+significativos en el aprendizaje de matemáticas, lectura,
+escritura y ciencias naturales, además, beneficia a profesores y estudiantes de la educación básica y la educación superior, porque fortalece sus procesos cognitivos
+en el manejo de información y conocimiento.
+
+Keywords: cognition, metacognition, teaching and
+learning.
+
+Palabras clave: cognición, metacognición, enseñanza, aprendizaje.
+
++
+
+La traducción del resumen fue realizada por Miguel
+Hernán La Rotta Giraldo, Licenciado en Lenguas
+Extranjeras inglés-francés y Magister en Traducción.
+
+Pp. 18 - 41
+
+Lida Johana Rincón
+Christian Hederich-Martínez
+
+RESUMEN
+
+enero-junio / 21
+Vol. 16 - Nº1
+
+ABSTRACT+
+
+ISSN-L 1909-8391 | E-ISSN 2422-0450
+
+Cómo citar este artículo: Vélez, C., & Ruíz, F. (2021). Una
+revisión sobre metacognición. Algunas implicaciones para los
+procesos educativos. Tesis Psicológica, 16(1) 100-117. https://
+doi.org/10.37511/tesis.v16n1a5
+
+Effects of a self-regulating writing course on academic text production in a PhD and Master sample
+
+Una revisión sobre metacognición.
+Algunas implicaciones para los
+procesos educativos*
+
+101
+
+Una revisión sobre metacognición. Algunas implicaciones para los procesos educativos
+
+Introducción
+Este artículo es una síntesis de la revisión de literatura realizada en una tesis doctoral. Su foco
+está en las distinciones entre las perspectivas individual y social sobre la metacognición. Como
+preámbulo, expone las principales corrientes
+teóricas sobre cognición, campo de investigación y reflexión del que surge este interés.
+Los principales criterios metodológicos que se
+tuvieron en cuenta para la revisión de la literatura, son los siguientes: En primer lugar, se
+consultaron dos bases de datos especializadas,
+Scopus y Redalyc, entre los años 1979 y 2018.
+El punto de partida fue la consulta sobre documentos relacionados con la metacognición
+desde una perspectiva individual, tomando
+como base los dos artículos pioneros: Flavell
+(1979); Duncan y De Avila (1979).
+
+Carlos Fernando Vélez Gutiérrez
+Francisco Javier Ruíz Ortega
+En la búsqueda de Scopus se utilizaron como
+descriptores: metacognition y metacognition
+and education. Posteriormente, se hizo una
+búsqueda desde la perspectiva social de la metacognición, utilizando como descriptores: social
+metacognition, socially shared matacognition,
+socially mediated metacognition y metacognitive interactions in higher education. Por su parte,
+para la búsqueda en Redalyc, se utilizaron como
+descriptores: metacognición y metacognición y
+educación para la perspectiva individual, y metacognición social, interacciones metacognitivas,
+metacognición socialmente compartida y metacognición socialmente mediada. Los descriptores utilizados surgieron de las palabras claves más
+utilizadas en la literatura del campo.
+El interés en la búsqueda, fue distinguir las tendencias predominantes de las perspectivas individual y social sobre la metacognición; por
+tanto, sólo se presentan los desarrollos conceptuales y teóricos recurrentes en los textos seleccionados. En el listado de referencias de este
+
+artículo se incluyen los principales documentos
+que describen esas tendencias.
+
+Tres enfoques teóricos sobre la
+cognición
+Según la RAE1, “cognición” proviene de la raíz
+latina cognitio, que significa saber o conocer y
+del sufijo ōnis que significa acción. De otro lado,
+cuando consultamos un diccionario de latín2,
+nos informa que cognitio se refiere a la “facultad
+de un ser vivo para procesar información a partir
+de la percepción, la experiencia y características
+subjetivas”3. Este proceso se configura cuando
+utilizamos distintos recursos sensoriales, perceptuales, mnémicos, prácticos y emotivo-afectivos,
+así como sus productos. Además, si entendemos
+la cognición como procesamiento, estamos integrando los componentes estructural y funcional del cerebro; es decir, las redes neuronales que
+lo configuran y las estructuras de información y
+emoción/sentimiento4 que constituyen nuestra
+mente; nuestro pensamiento5.
+Si contrastamos la primera aproximación latina
+con la conceptualización básica en el mundo griego, tenemos que cognitio proviene de la raíz gnósi
+que significa intelección. Esto quiere decir que,
+de nuevo con base en la consulta de la RAE, cognición se refiere a la acción y el efecto de entender, que tienen como correlatos la comprensión,
+
+Es evidente que esta acepción no es antigua; ha sido
+actualizada en este diccionario de latín.
+
+4
+
+En adelante, utilizaremos esta diada teniendo como
+referente la distinción entre emoción y sentimiento
+que hace Damasio (1999).
+
+5
+
+Actualmente, en el campo de las ciencias cognitivas,
+sobre todo en sus relaciones con la etología, se atribuye esta facultad no solo a los humanos sino a otras
+especies animales. Incluso, en la ecología vegetal contemporánea, hay investigadores que le atribuyen a las
+plantas la habilidad de conocer.
+
+6
+
+Aunque podríamos establecer diferencias entre conocer (por ejemplo, una persona) y saber (por ejemplo,
+sobre un acontecimiento), en este artículo asumimos
+estas dos palabras como sinónimas.
+
+7
+
+De Vega (1995) cita como principales representantes
+de esta tradición histórica a Aristóteles, Hume, Locke,
+Descartes y Kant.
+
+8
+
+Un fenómeno tan complejo como la cognición ha sido
+objeto de estudio y reflexión de diversas comunidades
+intelectuales, la mayoría de las cuales no tendremos
+en cuenta en este breve acercamiento conceptual. Por
+ejemplo, no mencionaremos los principales planteamientos filosóficos, así como tampoco los aportes disciplinares de campos como la psiquiatría o la psicología introspectiva.
+
+Los avances que alcanzó la computación después de la segunda guerra mundial le agregaron
+a la transmisión de información un ingrediente
+que hace una diferencia muy significativa para
+explicar y comprender los fenómenos cognitivos durante esa época: se trata del feedback,
+es decir, la posibilidad de que estas nuevas herramientas se autorregulen y controlen. Así,
+surge un nuevo campo disciplinar denominado cibernética que nos permite pensar sobre
+nuevas formas de control. Estos nuevos logros
+favorecieron el surgimiento de los computadores como los conocemos hoy: ya no son simples
+máquinas mecánicas sino herramientas electrónicas que están constituidas por dos tipos de soporte: un soporte físico que llamamos hardware
+y un soporte lógico que llamamos software.
+Para los cognitivistas basados en la cibernética,
+la cognición es un procesamiento de información similar al que realiza un computador. Allí
+está su fuente principal de construcción teórica: la cognición es una especie de computación
+
+Una revisión sobre metacognición. Algunas implicaciones para los procesos educativos
+Pp. 100 - 117
+
+Carlos Fernando Vélez Gutiérrez
+Francisco Javier Ruíz Ortega
+
+Debido a lo anterior, y en primer lugar, De
+Vega (1995) menciona los factores externos a
+las disciplinas que tradicionalmente conceptualizaron la cognición (sobre todo la filosofía y la
+psicología) y propiciaron el giro investigativo
+
+En 1948, Shannon propuso una teoría de la
+comunicación basada en las matemáticas, que
+establecía la relación entre los flujos de información y el canal en el que ocurrían estos flujos.
+La información transmitida era el producto de
+la relación entre la información de entrada y la
+información de salida. Esto quiere decir que lo
+fundamental era la correspondencia entre estas
+dos informaciones, mientras el canal cumplía
+un papel neutral (por ejemplo, el radio, la televisión o el teléfono); sin embargo, según De
+Vega (1995), “la mente humana es un sistema
+extraordinariamente activo, que no se limita a
+transmitir información, sino que la codifica,
+almacena, transforma o recombina; en suma,
+procesa información” (p. 28).
+
+enero-junio / 21
+Vol. 16 - Nº1
+
+Ahora bien, al convertir este primer acercamiento conceptual de la cognición en un objeto de reflexión e investigación, se tiene que un
+sinnúmero de filósofos, teólogos y científicos lo
+han hecho a lo largo de los últimos 25 siglos,
+en el contexto de lo que hoy conocemos como
+mundo occidental7; es decir, Europa, y más recientemente, América. Esto, por supuesto, no
+excluye la influencia de otras culturas, especialmente la china, la india y la árabe. Sin embargo,
+sólo describimos la situación actual de la discusión sobre la cognición, en los inicios del siglo
+XXI, que se concentra en torno a las tensiones
+entre cognitivistas, conexionistas y enaccionistas8 (De Vega, 1995; Gutiérrez, 2005).
+
+que hoy denominamos cognitivismo: las teorías sobre la comunicación, la cibernética y la
+psicolingüística.
+
+ISSN-L 1909-8391 | E-ISSN 2422-0450
+
+la inteligencia, el pensamiento, la razón, el entendimiento y lo que concebimos o imaginamos.
+Consecuentemente, al hablar de cognición en la
+antigüedad, se entiende que es el proceso y el producto de conocer que surge, a su vez, del uso de
+ciertas aptitudes, capacidades o potencialidades
+que tienen los seres humanos y que podríamos integrar en un solo término: actividad mental para
+producir conocimiento o saber6.
+
+103
+
+Una revisión sobre metacognición. Algunas implicaciones para los procesos educativos
+
+en la que se integran entradas y salidas (imputs
+y outputs). Como lo afirman Calvo y Gomila (2008): “According to classical cognitivism,
+symbols are stored in memory which are retrieved and transformed by means of algorithms
+that specify how to compose them syntactically
+and how to transform them” (p. 4).
+Según la interpretación de Varela (2005), “la
+intención expresa del movimiento cibernético
+se puede resumir en pocas palabras: crear una
+ciencia de la mente” (p. 31). Por su parte, Varela, Thompson y Rosch (1997) identifican que,
+tanto el uso de las matemáticas para explicar el
+funcionamiento del sistema central, como la
+formulación de teorías de sistemas, de información y de la inteligencia artificial, son los principales aportes de la cibernética a la formación
+de las ciencias cognitivas.
+
+Pp. 100 - 117
+
+Carlos Fernando Vélez Gutiérrez
+Francisco Javier Ruíz Ortega
+
+Por último, los aportes de la psicolingüística provienen de la investigación sobre la relación entre cognición y lenguaje. El principal
+exponente de estos nuevos planteamientos fue
+Chomsky (1957), quien propuso una gramática
+transformacional que rompía la lógica lineal de
+la asociación de los conductistas.
+
+Vol. 16 - Nº1
+
+ISSN-L 1909-8391 | E-ISSN 2422-0450
+
+enero-junio / 21
+
+104
+
+En palabras de De Vega (1995): “El lenguaje se
+puede estudiar como un dispositivo de competencia, que incluye un conjunto de reglas de reescritura de símbolos, capaz de generar todas las
+frases gramaticales del lenguaje natural” (p. 29).
+Un planteamiento como éste implicaba, además,
+establecer la distinción entre dos categorías centrales, competencia y actuación: la competencia
+era una especie de modelo idealizado (teórico,
+conceptual) en el que la relación entre los dos
+tipos de estructuras era independiente del contexto (sólo era limitado por las palabras y sus alternativas sintácticas), mientras la actuación verbal
+de cualquier persona sí depende de un conjunto
+de variables determinadas por el entorno social.
+
+La siguiente figura 1, ilustra este tipo de procesamiento cuando se trata de la identificación de
+palabras oralmente expresadas.
+Figura 1. Procesamiento secuencial del lenguaje
+Área auditiva primaria
+(identificación de los sonidos
+como linguísticos)
+
+Área motriz primaria
+(coordinación de los
+movimientos para articular
+y emitir las palabras)
+
+Área de Wernicke
+(Descodificación de
+las palabras)
+
+Área de Broca
+(programación
+fonética)
+
+Áreas de integración
+polimodal (Las palabras se
+asocian con los conceptos)
+
+Fuente: Fierro (2011, p. 525).
+
+Varela, Thompson y Rosch (1997) hacen un
+resumen del programa de investigación de los
+cognitivistas clásicos, o psicólogos cognitivos,
+de la siguiente manera: a) Para ellos, la cognición es procesamiento de información entendida como computación simbólica basada en
+reglas; b) Funciona con dispositivos que soportan y manipulan estos símbolos, físicamente y
+no semánticamente; c) Estos símbolos son representaciones y permiten resolver ciertos tipos
+de problemas mediante el procesamiento de la
+información.
+En segundo lugar, para los conexionistas, la cognición es el resultado que emerge de las conexiones que establecen grupos de unidades básicas de
+procesamiento organizadas en red (neuronas o
+sinapsis y palabras o relaciones semánticas entre
+ellas). Estas unidades básicas, al activarse, indican una probabilidad de su potencial de acción
+que puede ser registrado con un valor numérico
+(por ejemplo, si es una neurona, podemos representar esta activación para que nos indique un límite de ese potencial de acción). Esta perspectiva
+es acogida por comunidades de la psicología cognitiva, la neurociencia, las ciencias cognitivas, la
+filosofía de la mente y la inteligencia artificial.
+
+Figura 2. Dos formas de unidades de procesamiento: a)
+Ganglio simpático estilizado, b) Función matemática
+Inputs
+
+Processing
+Unit
+
+1
+-(∑inputi + өi )
+
+1+e
+
+(a)
+
+Outputs
+
+(b)
+
+Fuente: Medler (1998, p. 22).
+
+El resumen que hacen Varela, Thompson y
+Rosch (1997) de los cognitivistas conexionistas
+(o emergentistas) es el siguiente: a) Para ellos,
+la cognición emerge de estados globales que
+se configuran en red, a partir de componentes
+simples; b) La cognición funciona mediante dos
+tipos de reglas: las reglas locales que dirigen las
+operaciones individuales y las reglas de cambio
+que dirigen las conexiones; c) Las propiedades emergentes y la estructura que conforman,
+están relacionadas con una aptitud específica,
+coherente con la tarea cognitiva en función.
+
+En tercer lugar, en relación con el postcognitivismo, podríamos decir que, en realidad, no es
+uno sino cuatro enfoques, al menos por ahora.
+Según estas distintas aproximaciones, la cognición puede ser corporizada (o corpórea), situada, enactiva y extendida9. La cognición es
+corporizada porque está constituida por estructuras y procesos que se localizan y ocurren en el
+cuerpo del agente que conoce; es situada porque surge en la interacción del agente cognitivo
+con el entorno natural y social en el que habita;
+es enactiva porque surge en las relaciones entre
+las actuaciones (emerge en la acción) que se realizan en la interacción entre agente y entornos.
+Y la cognición es extendida, porque se apoya en
+distintos tipos de “artefactos culturales” como el
+lenguaje y las herramientas tecnológicas disponibles (Silenzi, 2015; Calvo & Gomila, 2008).
+
+9
+
+Estas perspectivas también se designan como las “4E”,
+por las iniciales de las palabras en inglés: embodied,
+embedded, enacted y extended.
+
+Una revisión sobre metacognición. Algunas implicaciones para los procesos educativos
+Pp. 100 - 117
+
+Carlos Fernando Vélez Gutiérrez
+Francisco Javier Ruíz Ortega
+
+El planteamiento anterior quiere decir que hay
+redes neuronales naturales (biológicas), como
+las que se forman en nuestro cerebro o en los
+cerebros de otros animales, y redes neuronales
+como las utilizadas por la inteligencia artificial.
+La figura 2 ilustra estos dos tipos de unidades
+básicas: parte de un tejido neuronal y una función matemática.
+
+enero-junio / 21
+Vol. 16 - Nº1
+
+“From the connectionist perspective, cognition
+was seen as the emergent outcome of the interconnectivity of numerous basic processing units
+connected in parallel within an allegedly biologically plausible neural network” (p. 4).
+
+Por planteamientos como los anteriores, hoy
+clasificamos a los investigadores de la escuela
+del conexionismo como cognitivistas. Calvo y
+Gomila (2008) lo expresan de la siguiente manera: “Connectionism is in fact a form of cognitivism, in spite of the obvious architectural
+differences between symbol systems and connectionist networks (serial vs. parallel, discrete
+vs. distributed, etc.)” (p. 4). Sin embargo, no
+hay un consenso en la comunidad académica
+sobre esta clasificación; por ejemplo, Gutiérrez (2005) argumenta el carácter dinámico y
+constructivo de los modelos conexionistas, porque “los patrones de activación dependen de la
+forma en que las unidades receptoras interpretan las señales del medio, y de la forma en que
+son transformados por las unidades internas a
+partir de los patrones cambiantes de conexión
+(conocimiento)” (p. 268).
+
+ISSN-L 1909-8391 | E-ISSN 2422-0450
+
+Calvo y Gomila (2008) lo sintetizan en los siguientes términos:
+
+105
+
+Una revisión sobre metacognición. Algunas implicaciones para los procesos educativos
+
+De otro modo, se puede decir que, por ejemplo, dos personas que interactúan (como es
+el caso de un profesor y sus estudiantes en un
+salón de clase) perciben recíprocamente información de sus cuerpos que les indican qué
+hacer o cómo continuar la interacción. En una
+situación como ésta, percibimos emociones, intenciones, movimientos, expresiones faciales,
+entonaciones de la voz y acciones mediante las
+cuales se realiza la cognición (Iiskala, Vauras &
+Lehtinen, 2004; Beers, Kirschner, Boshuizen
+& Gijselaers, 2005; Gallagher, 2008; Chan,
+2012; Snyder & Wiles, 2015; Pescetelli, Rees &
+Bahrami, 2016). La figura 3, esquematiza este
+tipo de configuración de la cognición desde las
+perspectivas postcognitivistas:
+Figura 3. Funcionamiento interactivo y
+autorganizado de un sistema dinámico
+
+Pp. 100 - 117
+
+Sistema
+Carlos Fernando Vélez Gutiérrez
+Francisco Javier Ruíz Ortega
+
+Función
+
+Estabilidad
+Perturbación
+externa
+
+Vol. 16 - Nº1
+
+Fluctuaciones
+internas
+Inestabilidad
+
+Ruptura del
+equilibrio
+
+enero-junio / 21
+
+ISSN-L 1909-8391 | E-ISSN 2422-0450
+
+Nuevas
+propiedades
+
+106
+
+Fuente: Gutiérrez (2005, p. 341).
+
+Un planteamiento como el anterior coincide con las reflexiones de Varela, Thompson
+y Rosch (1997), Lutz y Thompson (2003) y
+Stewart (2019), quienes reconocen que este
+enfoque cognitivo permite articular la dimensión biológica de nuestros cuerpos (incluyendo
+nuestros cerebros) con nuestras experiencias vividas; es decir, la cognición ocurre en la interacción constante entre componentes “internos”
+y “externos”, biológicos y fenomenológicos. Por
+
+esto, su aproximación metodológica a la explicación y comprensión de la cognición la denominan neurofenomenología.
+
+Síntesis de la literatura: de
+la metacognición como un
+fenómeno individual a la
+metacognición como una
+construcción social
+En este título, revisamos distintas perspectivas
+de la comunidad académica interesada en este fenómeno, en su teorización e investigación (Flavell, 1979, 1987, 2004; Baker & Brown, 1984;
+Baker, 1989; Chi, 1987; Crespo, 2004; Acosta
+& Vasco, 2013; Adams, 2018). Esta comunidad
+está asistiendo al surgimiento de un giro epistemológico que va de una perspectiva orientada
+al individuo10 hacia una perspectiva social de la
+metacognición, en coherencia con lo que acabamos de exponer sobre los enfoques postcognitivistas: Estamos viviendo una transición de
+modelos individualistas sobre la metacognición
+a modelos situados y construidos socialmente
+(Garrison & Akyol, 2015). Esto implica buscar
+aproximaciones a las relaciones de enseñanza y
+aprendizaje que vayan de la autorregulación a la
+co-regulación, “que integren la regulación individual con la regulación compartida” (p. 66).
+Sin embargo, las propuestas antecedentes de
+Piaget (1985), indispensables para comprender
+el paso de lo individual a lo social, fueron construidas a partir de una investigación que privilegió al individuo en sus interacciones con el
+entorno físico y no con otras personas (las actividades independientes que realizaban); además,
+10 Flavell (1979), uno de los pioneros del campo, identificó 4 componentes fundamentales de la metacognición:
+el conocimiento sobre nosotros y los demás, el monitoreo de nuestra actividad cognitiva, la agencia sobre
+tareas, acciones y estrategias y las experiencias metacognitivas que integran las dimensiones cognitiva y afectiva
+de las actividades intelectuales que realiza una persona.
+
+12 Actualmente, también hablamos de andamiajes, aunque éste no fue un término utilizado por Vygotsky.
+Los andamiajes son las estrategias de interacción que
+favorecen que los niños logren efectivamente el desarrollo de su potencial cognitivo. Estos andamiajes
+están constituidos por las mediaciones, que son “herramientas de adaptación intelectual”, las tareas seleccionadas y los propósitos de desarrollo cognitivo que
+definen la nueva situación que alcanzará el niño. De
+otra manera, los andamiajes son puentes que favorecen el paso de una situación actual a una potencial que
+efectivamente se realiza.
+
+En segundo lugar, en lo que tiene que ver con
+las mediaciones, las dos principales son, entonces, las personas con las que interactúa el niño
+y las producciones culturales que utilizan para
+enfrentar las tareas de regulación y moverse
+entre actividades de interiorización y exteriorización. Las personas pueden ser los padres, los
+profesores, otros niños y cualquiera que pueda
+incidir en su desarrollo; las producciones culturales, por su parte, son, sobre todo, las diferentes manifestaciones del lenguaje, oral y escrito,
+verbal y no verbal13, así como los objetos que
+participan en la realización de las tareas, como
+libros, medios de comunicación masiva (televisión, radio y prensa), redes sociales y computadores, entre muchos otros.
+El tercer término que propone Vygotsky es
+el de zonas de desarrollo próximo (ZDP) y las
+13 Estos distintos modos en que el lenguaje se manifiesta,
+lo convierten en la principal mediación en los contextos educativos y no sólo en ellos.
+
+Una revisión sobre metacognición. Algunas implicaciones para los procesos educativos
+Pp. 100 - 117
+
+Carlos Fernando Vélez Gutiérrez
+Francisco Javier Ruíz Ortega
+
+11 En una comunicación personal, el profesor Eduardo
+Mortimer de la Universidad Federal de Minas Gerais
+nos dice que la toma de conciencia en Vygotsky es “un
+aspecto fundamental y precursor de la metacognición”.
+El término que utilizó Vygotsky fue traducido como
+“conscious awareness”, que fue traducido a su vez
+como “consciencia de la consciencia” o como “consciencia de segundo orden”. Para contextos educativos,
+ver, por ejemplo, Mortimer & Wertsch, (2003).
+
+Este proceso de interiorización tiene un correlato en otro de exteriorización; es decir, a medida que el niño va ganado competencia sobre sus
+actividades de regulación, las puede comunicar
+explícitamente a través del lenguaje, cuando modifica lo que piensa, cuando pregunta, cuando
+busca información, etc. Por esto, son tan importantes las interacciones niño-adulto que promueven este tipo de relaciones entre los procesos
+de interiorización y exteriorización; además, no
+podemos perder de vista que hay situaciones de
+interacción niño-otra persona-tarea en las que la
+regulación no siempre es consciente ni planificada. Esto igualmente significa que hay todo un
+abanico de posibilidades en el aprendizaje de la
+regulación: desde actividades muy dirigidas por el
+adulto, sea un profesor o no, hasta actividades que
+son resueltas autónomamente por el niño.
+
+enero-junio / 21
+Vol. 16 - Nº1
+
+Vygotsky (2000) enfocó su trabajo en la influencia de otras personas en el desarrollo cognitivo de los niños o, como lo propone Martí
+(1995), en una “regulación ejercida por otras
+personas”. En este sentido, propuso tres términos básicos para identificar los fenómenos
+fundamentales que generan el aprendizaje y el
+desarrollo: Interiorización, mediación12 y zona
+de desarrollo próximo (ZDP). En primer lugar,
+la interiorización es el proceso mediante el cual
+el niño construye sus propios recursos cognitivos de autorregulación, a partir de la regulación
+ejercida por otras personas, aunque hay situaciones en las cuales estos recursos de control
+cognitivo son compartidos por el niño y la persona adulta con la que interactúa. Esto quiere
+
+decir que la interiorización es apenas una parte
+de un proceso de interacción más amplio.
+
+ISSN-L 1909-8391 | E-ISSN 2422-0450
+
+él creía que las transformaciones cognitivas de
+los niños se podían explicar por el paso entre
+unas etapas (estadios de desarrollo cognitivo) de
+carácter universal, sin tener en cuenta sus diferencias socioculturales. Estos énfasis, que son
+reconocidos por muchos como debilidades de
+sus propuestas, se convirtieron en elementos
+principales en los planteamientos de Vygotsky
+que expondremos a continuación11.
+
+107
+
+Una revisión sobre metacognición. Algunas implicaciones para los procesos educativos
+
+conceptualiza como el espacio de desarrollo cognitivo que diferencia al niño del adulto y que el
+niño puede llegar a desarrollar. En otras palabras,
+es el potencial desarrollo cognitivo que tiene el
+niño en una situación de interacción con otra
+persona, que le enseña a resolver aquello que no
+logra de manera independiente. Los niños pueden realizar ciertas tareas independientemente
+del apoyo de los adultos; sin embargo, esta situación inicial puede ser potenciada por la mediación que ejerce un adulto u otra persona que
+tiene unas habilidades cognitivas que el niño no
+tiene pero que puede llegar a tener. Esto significa
+que las ZDP son muy variables por las situaciones y tareas que les dan sentido a las interacciones
+entre niños y adultos o niños y sus pares.
+Martí (1995) considera que las investigaciones
+que se basan en las propuestas de este psicólogo
+ruso adolecen/carecen de una explicación sobre
+la evolución de las actividades de regulación que
+realizan los niños y enfatizan en las actividades
+regulatorias de los adultos sobre la explicación
+detallada de las formas de interiorización de las
+actividades de regulación cognitiva que logran
+los niños. En palabras de este investigador: “Es
+difícil por lo tanto ofrecer, de forma resumida,
+una visión del desarrollo de las actividades reguladoras en situación de interacción, teniendo en
+cuenta que, además de la edad, numerosas variables intervienen en dicho desarrollo” (p. 23).
+
+Carlos Fernando Vélez Gutiérrez
+Francisco Javier Ruíz Ortega
+
+Pp. 100 - 117
+
+de regulación tampoco es suficiente para resolver
+algunas tareas que requieren un saber especializado y, en tercer lugar, cuando estas actividades
+de regulación están inscritas en un proceso de enseñanza y aprendizaje formal, se basan en un modelo muy simple de transmisión de información
+y no tienen muy en cuenta las relaciones entre los
+procesos de interiorización y exteriorización que
+articulan las transiciones de lo interpsicológico
+a lo intrapsicológico. En pocas palabras, lo que
+se denomina allí como “metacognitivo” privilegia
+la perspectiva de la persona que enseña sobre la
+perspectiva del estudiante que aprende.
+Estas situaciones problemáticas en la utilización de las propuestas conceptuales y teóricas
+de Vygotsky llevaron a Martí (1995) a proponer
+que las investigaciones educativas que se realicen desde esta perspectiva no les den más importancia a las actividades de regulación de los
+profesores sobre las actividades de regulación de
+los estudiantes. En sus palabras:
+Lo importante es lograr que estos conocimientos sobre cognición y estas actividades reguladoras sean reelaboradas activamente por parte del alumno para que
+al final pueda integrarlas de forma autónoma. Sólo
+entonces se podrá hablar de metacognición desde el
+punto de vista del aprendiz (cuando tenga conocimientos sobre su propia cognición y sobre la resolución de la tarea específica, y cuando utilice de forma
+consciente e intencional actividades reguladoras de su
+
+Vol. 16 - Nº1
+
+ISSN-L 1909-8391 | E-ISSN 2422-0450
+
+enero-junio / 21
+
+108
+
+Estas limitaciones de las propuestas teóricas de
+Vygotsky inciden directamente en la explicación
+de los fenómenos metacognitivos en al menos
+tres situaciones problemáticas que hasta ahora
+no están lo suficientemente resueltas: en primer
+lugar, el énfasis en las actividades reguladoras de
+los adultos en la resolución de una tarea particular no garantiza que el niño pueda generalizar
+estas actividades de regulación a otras tareas; en
+segundo lugar, hoy reconocemos la importancia
+del dominio específico del aprendizaje, razón
+por la cual el aprendizaje de estrategias generales
+
+propia actividad de resolución) (p. 25).
+
+Metacognición social e
+interacciones metacognitivas
+en procesos educativos
+¿Cómo interpretar las preguntas de los estudiantes o los profesores en un salón de clase cuando se
+refieren a lo que sucede en su mente/cognición?
+Por ejemplo, ¿qué significa que un estudiante o
+un profesor soliciten otra forma de enunciación
+al darse cuenta de que no entendieron lo que el
+
+Pues bien, algunos autores interpretan este fenómeno utilizando el término “control cognitivo
+suprapersonal” para diferenciar entre las actividades metacognitivas individuales, implícitas, y
+las actividades metacognitivas colectivas, explícitas (Shea, Boldt, Bang, Yeung, Heyes, & Frith,
+2014). Su hipótesis general es la siguiente:
+In our framework, metacognition is composed of a
+cognitively ‘lean’ system, system 1 metacognition,
+
+Una revisión sobre metacognición. Algunas implicaciones para los procesos educativos
+
+desconcentre con relativa facilidad o pierda el hilo
+de la exposición que está leyendo; además, si está
+pendiente de sus redes sociales, no sólo se desconcentrará, sino que intercambiará la atención del
+texto que debe leer con el teléfono que lo distrae
+o lo invita a explorar alguna de sus ventanas. Una
+situación como ésta requerirá, para resolverse satisfactoriamente, que el estudiante se dé cuenta
+de que no está poniendo la suficiente atención en
+el texto o que la ansiedad por revisar el teléfono
+está incidiendo en su proceso de resolución. Por
+tanto, qué podrá hacer Felipe para concluir efectivamente su tarea: guardar o apagar el teléfono,
+vigilar su concentración y, si es necesario, cambiar de lugar, o suspender la lectura hasta que su
+disposición sea la adecuada para hacerlo.
+En todas las decisiones y acciones que Felipe
+puede tomar y realizar se manifiestan dos situaciones: una cognitiva, sobre la lectura del texto
+o la revisión del teléfono (cognición primaria), y
+otra metacognitiva, sobre su concentración, su
+ansiedad y su disposición (cognición secundaria). Un caso como éste sería una ilustración del
+sistema metacognitivo 1. La figura 4 ilustra, esquemáticamente, este sistema metacognitivo 1.
+
+Pp. 100 - 117
+
+Carlos Fernando Vélez Gutiérrez
+Francisco Javier Ruíz Ortega
+
+otro dijo? Expresiones de los estudiantes como
+“profe: por favor, me repite” o “me puede poner
+un ejemplo” y expresiones de los profesores
+como “en otras palabras…” o “pongan mucho
+cuidado a este término” sólo indican la preocupación que cada uno de ellos tiene frente al proceso cognitivo en el que interviene el otro. Es una
+manifestación verbal sobre algo que les sucede en
+su pensamiento (en su mente) y, por ello, solicitan la participación del otro para enfrentar esta
+situación cognitiva que no han resuelto individualmente. Es por esto que los profesores expertos utilizan redundancias, contextualizaciones,
+recapitulaciones y revisiones de las ideas en función del aprendizaje de sus estudiantes.
+
+which operates implicitly and is for the control of
+processes within one agent (intra- personal cognitive
+control), and a cognitively ‘rich’ system, system 2 me-
+
+Figura 4. Representación del sistema
+metacognitivo individual (1)
+
+tacognition, which is likely to be unique to humans
+
+Perceptual Metacognitive
+representations
+system
+
+and is for the control of processes within multiple
+agents (supra-personal cognitive control). (p. 186).
+
+Contention
+scheduling
+
+Sensory
+input
+System 1
+
+Effector
+system
+Action
+
+Fuente: Shea, Boldt, Bang, Yeung,
+Heyes, y Frith (2014. p. 188).
+
+Vol. 16 - Nº1
+
+Esto significa que, por ejemplo, cuando un estudiante, a quien identificamos como Felipe, se
+enfrenta a una tarea en el aula de clase, en su casa,
+o en la biblioteca, es posible que requiera realizar
+una o varias actividades metacognitivas para resolverla satisfactoriamente; si la tarea implica la
+lectura de un texto de mediana o alta complejidad disciplinar, es muy probable que Felipe,
+quien representa al tipo promedio de estudiante
+universitario (al menos en nuestro contexto), se
+
+ISSN-L 1909-8391 | E-ISSN 2422-0450
+
+enero-junio / 21
+
+109
+
+Una revisión sobre metacognición. Algunas implicaciones para los procesos educativos
+
+Sin embargo, la resolución de una tarea como
+ésta puede suceder como ejercicio colaborativo
+entre un grupo de estudiantes, o como parte de
+un ejercicio grupal que involucre a un profesor
+(Van De Bogart, Dounas-Frazer, Lewandowski
+& Stetzer 2017; Larkin, 2009; Hertzog & Dixon,
+1994; Tartas, Baucal & Perret-Clermont, 2010).
+En este tipo de situaciones intervienen otras
+actividades cognitivas y metacognitivas que no
+están presentes en la situación individual (Frith,
+2012; Woolley, Chabris, Pentland, Hashmi, &
+Malone, 2010; Sebanz, Bekkering & Knoblich,
+2006). La presencia de los compañeros o de los
+compañeros y el profesor puede contribuir a
+que Felipe ya no se desconcentre o, al menos, no
+
+del mismo modo, y a que autorregule, al menos
+un poco, el uso de su teléfono móvil. Si son los
+compañeros, o el profesor, quienes se dan cuenta
+de que Felipe está desconcentrado en la lectura,
+o distraído con su teléfono, son ellos quienes podrán contribuir a la regulación de su concentración y su ansiedad por revisar el teléfono móvil.
+En esta situación colectiva, los compañeros de
+Felipe y su profesor son los que promueven un
+tipo de interacción metacognitiva con él porque
+no están orientando su pensamiento a la lectura
+o al teléfono sino a las actividades cognitivas de
+Felipe sobre la lectura y el manejo del teléfono.
+Éste sería un caso que ilustra el sistema metacognitivo 2. La figura 5, ilustra la hipótesis de un
+sistema metacognitivo 2.
+
+Figura 5. Representación del sistema metacognitivo compartido (2)
+Pp. 100 - 117
+
+Communication of system 2
+metacognitive representations
+Metacognitive
+representations
+
+Carlos Fernando Vélez Gutiérrez
+Francisco Javier Ruíz Ortega
+
+Metacognitive
+representations
+
+System 2
+
+System 2
+
+Sensory
+input
+
+Action
+
+System 1
+
+System 1
+
+Action
+
+Vol. 16 - Nº1
+
+ISSN-L 1909-8391 | E-ISSN 2422-0450
+
+enero-junio / 21
+
+110
+
+Fuente: Shea, Boldt, Bang, Yeung, Heyes, & Frith (2014. p. 189).
+
+Ante una situación como la anterior, Shea, Boldt,
+Bang, Yeung, Heyes & Frith (2014) afirman que,
+“by sharing and discussing these representations,
+agents can engage in novel forms of adaptive group
+behaviour and build cumulative culture” (p. 186).
+En otras palabras, un compañero de clase o un profesor pueden convertirse en agentes metacognitivos
+para ayudar a Felipe a regular sus propios procesos
+
+cognitivos, sin lo cual no resolvería satisfactoriamente sus tareas y compromisos académicos.
+Este mismo tipo de procesos y resultados, desde
+la perspectiva de la metacognición socialmente mediada (socially mediated metacognition
+o SMM, por sus siglas en inglés) están documentados en la enseñanza de las matemáticas,
+
+Van De Bogart, Dounas-Frazer, Lewandowski &
+Stetzer (2017) lo exponen de la siguiente manera:
+We have shown how the SMM framework can be
+coupled with other frameworks (in this case, a cognitive task analysis of troubleshooting) to provide a
+rich picture of students’ reactions to metacognitive
+dialogue: which claims are accepted, which strategies
+are adopted, which measurements are performed, and
+how those claims, strategies, and measurements facilitate transitions between different phases of problem
+solving. This suggests that the SMM framework can
+be a productive tool for analyzing other types of colla-
+
+tareas y evitar que deriven hacia otras direcciones
+que no permiten su resolución.
+
+Una revisión sobre metacognición. Algunas implicaciones para los procesos educativos
+
+el aprendizaje de la escritura, la resolución de
+problemas físicos y el manejo de psicopatologías
+(Goos, Galbraith & Renshaw, 2002; Larkin,
+2009; Van De Bogart, Dounas-Frazer, Lewandowski & Stetzer, 2017; Zegarra-Valdivia &
+Chino, 2017).
+
+También se tienen conclusiones similares en la
+educación superior (Hermitaa & Thamrinb,
+2015; Cubukcu, 2009 y Lee, O’Donnell, Kempler Rogat, 2015). Por ejemplo, McCabe (2011)
+enfoca su trabajo en la regulación de la atención
+y el tiempo que hacen los estudiantes universitarios y encuentra que los jóvenes de su estudio no
+disponen de estrategias efectivas de aprendizaje.
+Por esto, reconoce la importancia de ayudarles
+porque, de lo contrario, tendrán muchas dificultades para desempeñarse satisfactoriamente en
+diferentes áreas de estudio. Este dilema lo expone en los siguientes términos: “If students are not
+accurate at estimating their own learning and
+knowledge, then they will not be able to make
+choices about strategies to improve areas that are
+weakly represented” (p. 462).
+
+Pp. 100 - 117
+
+borative experimental physics problem solving (p. 17).
+
+which demonstrated more complex metacognition
+
+Carlos Fernando Vélez Gutiérrez
+Francisco Javier Ruíz Ortega
+
+What appeared to be important in those partnerships
+
+Esta correlación positiva entre desarrollo metacognitivo y logros académicos en la universidad
+fue igualmente validada en una investigación
+que compara los desempeños académicos de estudiantes en Colombia y Francia cuando se trata
+de producir textos escritos (Campo, Escorcia,
+Moreno & Palacio, 2016). Estos investigadores
+concluyeron que:
+
+was task oriented motivation; co-operative rather
+En cuanto a las implicaciones de estos resultados para
+
+tructions; degree of joint ownership of the task; pe-
+
+la enseñanza de la escritura en la universidad, dado que
+
+riods of talk interspersed with silence and periods of
+
+se constata el rol principal de los conocimientos meta-
+
+writing and emotional stability or calmness (p. 158).
+
+cognitivos, este estudio apoya la importancia que se le
+da a dicho componente en los dispositivos de entrena-
+
+Estos estudios coinciden en que es mucho más
+eficiente y efectivo el proceso cognitivo en la
+resolución de distintos tipos de tareas cuando la regulación cognitiva, es decir la actividad
+metacognitiva, se construye en la interacción
+(Monereo, 1995; Garello & Rinaudo, 2012;
+Montealegre, 2007). En otras palabras, la interacción metacognitiva puede contribuir a orientar los procesos cognitivos en función de las
+
+miento basados en la metacognición y la reflexión del
+sujeto sobre sus procesos de escritura (p. 246).
+
+Este tipo de interacciones metacognitivas no
+benefician solo a los estudiantes; los profesores
+también aprenden de experiencias de este tipo,
+fortalecen sus conocimientos y estrategias de
+enseñanza y logran mejores desarrollos profesionales como docentes (Spruce & Bol, 2014). Por
+
+enero-junio / 21
+Vol. 16 - Nº1
+
+than competitive interaction; attention to task ins-
+
+ISSN-L 1909-8391 | E-ISSN 2422-0450
+
+Por su parte, Larkin (2009), quien investigó la
+construcción metacognitiva que hacen parejas
+de niños en una tarea colaborativa de escritura,
+concluyó que:
+
+111
+
+Una revisión sobre metacognición. Algunas implicaciones para los procesos educativos
+
+ejemplo, Wilson y Bai (2010) afirman que profesores metacognitivos logran un impacto mayor
+en el aprendizaje de sus estudiantes cuando les
+ayudan a convertirse en estudiantes metacognitivos. A continuación, se transcriben algunos de
+sus principales hallazgos:
+Thus, data demonstrated that the individual teacher’s
+understanding of metacognition was related to the
+instructional strategies they perceived to be effective
+in helping students to become metacognitive. The
+research findings indicate that teachers may benefit
+from professional development on the differences
+between engagement and awareness when guiding
+students to implement metacognitive strategies. (…)
+They valued demonstration, scaffolding, teaching
+conditional knowledge, and providing students time
+to demonstrate their learning. In addition, the partici-
+
+Pp. 100 - 117
+
+pants recognized value in providing assignments that
+assisted students’ metacognitive thinking and taking
+the time to help students to be self-aware of cognitive
+
+Carlos Fernando Vélez Gutiérrez
+Francisco Javier Ruíz Ortega
+
+processes. Teacher professional development and teacher education programs should implement practices
+that support an understanding in instructional routines that improve students’ metacognition (p. 285).
+
+Por último, a una conclusión similar llegó Paz
+(2011) en su trabajo sobre la relación entre interacciones metacognitivas y resolución de problemas en el campo de la ingeniería electrónica
+en una universidad colombiana. En sus palabras:
+La interacción social de los estudiantes en el aula
+aporta al profesor información útil y necesaria para
+
+
+
+
